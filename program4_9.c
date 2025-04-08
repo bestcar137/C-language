@@ -77,12 +77,12 @@ int main(void) {
         push_loc(&s, r, c - 1);
         push_loc(&s, r, c + 1);
         if (is_empty(&s)) {
-            printf("ì‹¤íŒ¨\n");
+            printf("½ÇÆÐ\n");
             return 0;
         } else {
             here = pop(&s);
         }
     }
-    printf("ì„±ê³µ\n");
+    printf("¼º°ø\n");
     return 0;
 }

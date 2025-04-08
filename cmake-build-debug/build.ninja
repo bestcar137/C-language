@@ -337,6 +337,39 @@ build program4_9.exe: C_EXECUTABLE_LINKER__program4_9_Debug CMakeFiles/program4_
   TARGET_IMPLIB = libprogram4_9.dll.a
   TARGET_PDB = program4_9.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target HW4_2
+
+
+#############################################
+# Order-only phony target for HW4_2
+
+build cmake_object_order_depends_target_HW4_2: phony || .
+
+build CMakeFiles/HW4_2.dir/HW4_2.c.obj: C_COMPILER__HW4_2_unscanned_Debug C$:/Users/MinGyu/CLionProjects/C-language/HW4_2.c || cmake_object_order_depends_target_HW4_2
+  DEP_FILE = CMakeFiles\HW4_2.dir\HW4_2.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HW4_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\HW4_2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HW4_2
+
+
+#############################################
+# Link the executable HW4_2.exe
+
+build HW4_2.exe: C_EXECUTABLE_LINKER__HW4_2_Debug CMakeFiles/HW4_2.dir/HW4_2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HW4_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = HW4_2.exe
+  TARGET_IMPLIB = libHW4_2.dll.a
+  TARGET_PDB = HW4_2.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -365,6 +398,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build C_language: phony C_language.exe
 
+build HW4_2: phony HW4_2.exe
+
 build program4_1: phony program4_1.exe
 
 build program4_2: phony program4_2.exe
@@ -389,7 +424,7 @@ build program4_9: phony program4_9.exe
 #############################################
 # Folder: C:/Users/MinGyu/CLionProjects/C-language/cmake-build-debug
 
-build all: phony C_language.exe program4_1.exe program4_2.exe program4_3.exe program4_5.exe program4_6.exe program4_7.exe program4_8.exe program4_9.exe
+build all: phony C_language.exe program4_1.exe program4_2.exe program4_3.exe program4_5.exe program4_6.exe program4_7.exe program4_8.exe program4_9.exe HW4_2.exe
 
 # =============================================================================
 # Built-in targets
