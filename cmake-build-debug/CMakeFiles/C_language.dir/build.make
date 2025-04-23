@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\MinGyu\CLionProjects\C-language
+CMAKE_SOURCE_DIR = C:\Users\bestc\CLionProjects\C-language
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\MinGyu\CLionProjects\C-language\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\bestc\CLionProjects\C-language\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/C_language.dir/depend.make
@@ -72,32 +72,32 @@ CMakeFiles/C_language.dir/codegen:
 .PHONY : CMakeFiles/C_language.dir/codegen
 
 CMakeFiles/C_language.dir/main.c.obj: CMakeFiles/C_language.dir/flags.make
-CMakeFiles/C_language.dir/main.c.obj: C:/Users/MinGyu/CLionProjects/C-language/main.c
+CMakeFiles/C_language.dir/main.c.obj: C:/Users/bestc/CLionProjects/C-language/main.c
 CMakeFiles/C_language.dir/main.c.obj: CMakeFiles/C_language.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\MinGyu\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C_language.dir/main.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C_language.dir/main.c.obj -MF CMakeFiles\C_language.dir\main.c.obj.d -o CMakeFiles\C_language.dir\main.c.obj -c C:\Users\MinGyu\CLionProjects\C-language\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C_language.dir/main.c.obj"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C_language.dir/main.c.obj -MF CMakeFiles\C_language.dir\main.c.obj.d -o CMakeFiles\C_language.dir\main.c.obj -c C:\Users\bestc\CLionProjects\C-language\main.c
 
 CMakeFiles/C_language.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/C_language.dir/main.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\MinGyu\CLionProjects\C-language\main.c > CMakeFiles\C_language.dir\main.c.i
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bestc\CLionProjects\C-language\main.c > CMakeFiles\C_language.dir\main.c.i
 
 CMakeFiles/C_language.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/C_language.dir/main.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\MinGyu\CLionProjects\C-language\main.c -o CMakeFiles\C_language.dir\main.c.s
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bestc\CLionProjects\C-language\main.c -o CMakeFiles\C_language.dir\main.c.s
 
 CMakeFiles/C_language.dir/HW4_4.c.obj: CMakeFiles/C_language.dir/flags.make
-CMakeFiles/C_language.dir/HW4_4.c.obj: C:/Users/MinGyu/CLionProjects/C-language/HW4_4.c
+CMakeFiles/C_language.dir/HW4_4.c.obj: C:/Users/bestc/CLionProjects/C-language/HW4_4.c
 CMakeFiles/C_language.dir/HW4_4.c.obj: CMakeFiles/C_language.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\MinGyu\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/C_language.dir/HW4_4.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C_language.dir/HW4_4.c.obj -MF CMakeFiles\C_language.dir\HW4_4.c.obj.d -o CMakeFiles\C_language.dir\HW4_4.c.obj -c C:\Users\MinGyu\CLionProjects\C-language\HW4_4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/C_language.dir/HW4_4.c.obj"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C_language.dir/HW4_4.c.obj -MF CMakeFiles\C_language.dir\HW4_4.c.obj.d -o CMakeFiles\C_language.dir\HW4_4.c.obj -c C:\Users\bestc\CLionProjects\C-language\HW4_4.c
 
 CMakeFiles/C_language.dir/HW4_4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/C_language.dir/HW4_4.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\MinGyu\CLionProjects\C-language\HW4_4.c > CMakeFiles\C_language.dir\HW4_4.c.i
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bestc\CLionProjects\C-language\HW4_4.c > CMakeFiles\C_language.dir\HW4_4.c.i
 
 CMakeFiles/C_language.dir/HW4_4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/C_language.dir/HW4_4.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\MinGyu\CLionProjects\C-language\HW4_4.c -o CMakeFiles\C_language.dir\HW4_4.c.s
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bestc\CLionProjects\C-language\HW4_4.c -o CMakeFiles\C_language.dir\HW4_4.c.s
 
 # Object files for target C_language
 C_language_OBJECTS = \
@@ -113,7 +113,7 @@ C_language.exe: CMakeFiles/C_language.dir/build.make
 C_language.exe: CMakeFiles/C_language.dir/linkLibs.rsp
 C_language.exe: CMakeFiles/C_language.dir/objects1.rsp
 C_language.exe: CMakeFiles/C_language.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\MinGyu\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable C_language.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable C_language.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\C_language.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -125,6 +125,6 @@ CMakeFiles/C_language.dir/clean:
 .PHONY : CMakeFiles/C_language.dir/clean
 
 CMakeFiles/C_language.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\MinGyu\CLionProjects\C-language C:\Users\MinGyu\CLionProjects\C-language C:\Users\MinGyu\CLionProjects\C-language\cmake-build-debug C:\Users\MinGyu\CLionProjects\C-language\cmake-build-debug C:\Users\MinGyu\CLionProjects\C-language\cmake-build-debug\CMakeFiles\C_language.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bestc\CLionProjects\C-language C:\Users\bestc\CLionProjects\C-language C:\Users\bestc\CLionProjects\C-language\cmake-build-debug C:\Users\bestc\CLionProjects\C-language\cmake-build-debug C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles\C_language.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/C_language.dir/depend
 
