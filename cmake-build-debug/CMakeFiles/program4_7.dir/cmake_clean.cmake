@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/program4_7.dir/ch4/program4_7.c.obj"
-  "CMakeFiles/program4_7.dir/ch4/program4_7.c.obj.d"
+  "CMakeFiles/program4_7.dir/CH_code/ch4/program4_7.c.obj"
+  "CMakeFiles/program4_7.dir/CH_code/ch4/program4_7.c.obj.d"
   "libprogram4_7.dll.a"
   "program4_7.exe"
   "program4_7.exe.manifest"

@@ -687,1016 +687,1016 @@ ch4_factorial_int_c/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/build
 .PHONY : ch4_factorial_int_c/fast
 
-ch2/2_3.obj: ch2/2_3.c.obj
-.PHONY : ch2/2_3.obj
+CH_code/ch2/2_3.obj: CH_code/ch2/2_3.c.obj
+.PHONY : CH_code/ch2/2_3.obj
 
 # target to build an object file
-ch2/2_3.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_3.dir\build.make CMakeFiles/2_3.dir/ch2/2_3.c.obj
-.PHONY : ch2/2_3.c.obj
+CH_code/ch2/2_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_3.dir\build.make CMakeFiles/2_3.dir/CH_code/ch2/2_3.c.obj
+.PHONY : CH_code/ch2/2_3.c.obj
 
-ch2/2_3.i: ch2/2_3.c.i
-.PHONY : ch2/2_3.i
+CH_code/ch2/2_3.i: CH_code/ch2/2_3.c.i
+.PHONY : CH_code/ch2/2_3.i
 
 # target to preprocess a source file
-ch2/2_3.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_3.dir\build.make CMakeFiles/2_3.dir/ch2/2_3.c.i
-.PHONY : ch2/2_3.c.i
+CH_code/ch2/2_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_3.dir\build.make CMakeFiles/2_3.dir/CH_code/ch2/2_3.c.i
+.PHONY : CH_code/ch2/2_3.c.i
 
-ch2/2_3.s: ch2/2_3.c.s
-.PHONY : ch2/2_3.s
+CH_code/ch2/2_3.s: CH_code/ch2/2_3.c.s
+.PHONY : CH_code/ch2/2_3.s
 
 # target to generate assembly for a file
-ch2/2_3.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_3.dir\build.make CMakeFiles/2_3.dir/ch2/2_3.c.s
-.PHONY : ch2/2_3.c.s
+CH_code/ch2/2_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_3.dir\build.make CMakeFiles/2_3.dir/CH_code/ch2/2_3.c.s
+.PHONY : CH_code/ch2/2_3.c.s
 
-ch2/2_4.obj: ch2/2_4.c.obj
-.PHONY : ch2/2_4.obj
+CH_code/ch2/2_4.obj: CH_code/ch2/2_4.c.obj
+.PHONY : CH_code/ch2/2_4.obj
 
 # target to build an object file
-ch2/2_4.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_4.dir\build.make CMakeFiles/2_4.dir/ch2/2_4.c.obj
-.PHONY : ch2/2_4.c.obj
+CH_code/ch2/2_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_4.dir\build.make CMakeFiles/2_4.dir/CH_code/ch2/2_4.c.obj
+.PHONY : CH_code/ch2/2_4.c.obj
 
-ch2/2_4.i: ch2/2_4.c.i
-.PHONY : ch2/2_4.i
+CH_code/ch2/2_4.i: CH_code/ch2/2_4.c.i
+.PHONY : CH_code/ch2/2_4.i
 
 # target to preprocess a source file
-ch2/2_4.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_4.dir\build.make CMakeFiles/2_4.dir/ch2/2_4.c.i
-.PHONY : ch2/2_4.c.i
+CH_code/ch2/2_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_4.dir\build.make CMakeFiles/2_4.dir/CH_code/ch2/2_4.c.i
+.PHONY : CH_code/ch2/2_4.c.i
 
-ch2/2_4.s: ch2/2_4.c.s
-.PHONY : ch2/2_4.s
+CH_code/ch2/2_4.s: CH_code/ch2/2_4.c.s
+.PHONY : CH_code/ch2/2_4.s
 
 # target to generate assembly for a file
-ch2/2_4.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_4.dir\build.make CMakeFiles/2_4.dir/ch2/2_4.c.s
-.PHONY : ch2/2_4.c.s
+CH_code/ch2/2_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_4.dir\build.make CMakeFiles/2_4.dir/CH_code/ch2/2_4.c.s
+.PHONY : CH_code/ch2/2_4.c.s
 
-ch2/2_5.obj: ch2/2_5.c.obj
-.PHONY : ch2/2_5.obj
+CH_code/ch2/2_5.obj: CH_code/ch2/2_5.c.obj
+.PHONY : CH_code/ch2/2_5.obj
 
 # target to build an object file
-ch2/2_5.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_5.dir\build.make CMakeFiles/2_5.dir/ch2/2_5.c.obj
-.PHONY : ch2/2_5.c.obj
+CH_code/ch2/2_5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_5.dir\build.make CMakeFiles/2_5.dir/CH_code/ch2/2_5.c.obj
+.PHONY : CH_code/ch2/2_5.c.obj
 
-ch2/2_5.i: ch2/2_5.c.i
-.PHONY : ch2/2_5.i
+CH_code/ch2/2_5.i: CH_code/ch2/2_5.c.i
+.PHONY : CH_code/ch2/2_5.i
 
 # target to preprocess a source file
-ch2/2_5.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_5.dir\build.make CMakeFiles/2_5.dir/ch2/2_5.c.i
-.PHONY : ch2/2_5.c.i
+CH_code/ch2/2_5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_5.dir\build.make CMakeFiles/2_5.dir/CH_code/ch2/2_5.c.i
+.PHONY : CH_code/ch2/2_5.c.i
 
-ch2/2_5.s: ch2/2_5.c.s
-.PHONY : ch2/2_5.s
+CH_code/ch2/2_5.s: CH_code/ch2/2_5.c.s
+.PHONY : CH_code/ch2/2_5.s
 
 # target to generate assembly for a file
-ch2/2_5.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_5.dir\build.make CMakeFiles/2_5.dir/ch2/2_5.c.s
-.PHONY : ch2/2_5.c.s
+CH_code/ch2/2_5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_5.dir\build.make CMakeFiles/2_5.dir/CH_code/ch2/2_5.c.s
+.PHONY : CH_code/ch2/2_5.c.s
 
-ch3/3_1.obj: ch3/3_1.c.obj
-.PHONY : ch3/3_1.obj
+CH_code/ch3/3_1.obj: CH_code/ch3/3_1.c.obj
+.PHONY : CH_code/ch3/3_1.obj
 
 # target to build an object file
-ch3/3_1.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_1.dir\build.make CMakeFiles/3_1.dir/ch3/3_1.c.obj
-.PHONY : ch3/3_1.c.obj
+CH_code/ch3/3_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_1.dir\build.make CMakeFiles/3_1.dir/CH_code/ch3/3_1.c.obj
+.PHONY : CH_code/ch3/3_1.c.obj
 
-ch3/3_1.i: ch3/3_1.c.i
-.PHONY : ch3/3_1.i
+CH_code/ch3/3_1.i: CH_code/ch3/3_1.c.i
+.PHONY : CH_code/ch3/3_1.i
 
 # target to preprocess a source file
-ch3/3_1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_1.dir\build.make CMakeFiles/3_1.dir/ch3/3_1.c.i
-.PHONY : ch3/3_1.c.i
+CH_code/ch3/3_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_1.dir\build.make CMakeFiles/3_1.dir/CH_code/ch3/3_1.c.i
+.PHONY : CH_code/ch3/3_1.c.i
 
-ch3/3_1.s: ch3/3_1.c.s
-.PHONY : ch3/3_1.s
+CH_code/ch3/3_1.s: CH_code/ch3/3_1.c.s
+.PHONY : CH_code/ch3/3_1.s
 
 # target to generate assembly for a file
-ch3/3_1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_1.dir\build.make CMakeFiles/3_1.dir/ch3/3_1.c.s
-.PHONY : ch3/3_1.c.s
+CH_code/ch3/3_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_1.dir\build.make CMakeFiles/3_1.dir/CH_code/ch3/3_1.c.s
+.PHONY : CH_code/ch3/3_1.c.s
 
-ch3/3_2.obj: ch3/3_2.c.obj
-.PHONY : ch3/3_2.obj
+CH_code/ch3/3_2.obj: CH_code/ch3/3_2.c.obj
+.PHONY : CH_code/ch3/3_2.obj
 
 # target to build an object file
-ch3/3_2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_2.dir\build.make CMakeFiles/3_2.dir/ch3/3_2.c.obj
-.PHONY : ch3/3_2.c.obj
+CH_code/ch3/3_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_2.dir\build.make CMakeFiles/3_2.dir/CH_code/ch3/3_2.c.obj
+.PHONY : CH_code/ch3/3_2.c.obj
 
-ch3/3_2.i: ch3/3_2.c.i
-.PHONY : ch3/3_2.i
+CH_code/ch3/3_2.i: CH_code/ch3/3_2.c.i
+.PHONY : CH_code/ch3/3_2.i
 
 # target to preprocess a source file
-ch3/3_2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_2.dir\build.make CMakeFiles/3_2.dir/ch3/3_2.c.i
-.PHONY : ch3/3_2.c.i
+CH_code/ch3/3_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_2.dir\build.make CMakeFiles/3_2.dir/CH_code/ch3/3_2.c.i
+.PHONY : CH_code/ch3/3_2.c.i
 
-ch3/3_2.s: ch3/3_2.c.s
-.PHONY : ch3/3_2.s
+CH_code/ch3/3_2.s: CH_code/ch3/3_2.c.s
+.PHONY : CH_code/ch3/3_2.s
 
 # target to generate assembly for a file
-ch3/3_2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_2.dir\build.make CMakeFiles/3_2.dir/ch3/3_2.c.s
-.PHONY : ch3/3_2.c.s
+CH_code/ch3/3_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_2.dir\build.make CMakeFiles/3_2.dir/CH_code/ch3/3_2.c.s
+.PHONY : CH_code/ch3/3_2.c.s
 
-ch3/3_3.obj: ch3/3_3.c.obj
-.PHONY : ch3/3_3.obj
+CH_code/ch3/3_3.obj: CH_code/ch3/3_3.c.obj
+.PHONY : CH_code/ch3/3_3.obj
 
 # target to build an object file
-ch3/3_3.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_3.dir\build.make CMakeFiles/3_3.dir/ch3/3_3.c.obj
-.PHONY : ch3/3_3.c.obj
+CH_code/ch3/3_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_3.dir\build.make CMakeFiles/3_3.dir/CH_code/ch3/3_3.c.obj
+.PHONY : CH_code/ch3/3_3.c.obj
 
-ch3/3_3.i: ch3/3_3.c.i
-.PHONY : ch3/3_3.i
+CH_code/ch3/3_3.i: CH_code/ch3/3_3.c.i
+.PHONY : CH_code/ch3/3_3.i
 
 # target to preprocess a source file
-ch3/3_3.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_3.dir\build.make CMakeFiles/3_3.dir/ch3/3_3.c.i
-.PHONY : ch3/3_3.c.i
+CH_code/ch3/3_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_3.dir\build.make CMakeFiles/3_3.dir/CH_code/ch3/3_3.c.i
+.PHONY : CH_code/ch3/3_3.c.i
 
-ch3/3_3.s: ch3/3_3.c.s
-.PHONY : ch3/3_3.s
+CH_code/ch3/3_3.s: CH_code/ch3/3_3.c.s
+.PHONY : CH_code/ch3/3_3.s
 
 # target to generate assembly for a file
-ch3/3_3.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_3.dir\build.make CMakeFiles/3_3.dir/ch3/3_3.c.s
-.PHONY : ch3/3_3.c.s
+CH_code/ch3/3_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_3.dir\build.make CMakeFiles/3_3.dir/CH_code/ch3/3_3.c.s
+.PHONY : CH_code/ch3/3_3.c.s
 
-ch3/3_4.obj: ch3/3_4.c.obj
-.PHONY : ch3/3_4.obj
+CH_code/ch3/3_4.obj: CH_code/ch3/3_4.c.obj
+.PHONY : CH_code/ch3/3_4.obj
 
 # target to build an object file
-ch3/3_4.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_4.dir\build.make CMakeFiles/3_4.dir/ch3/3_4.c.obj
-.PHONY : ch3/3_4.c.obj
+CH_code/ch3/3_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_4.dir\build.make CMakeFiles/3_4.dir/CH_code/ch3/3_4.c.obj
+.PHONY : CH_code/ch3/3_4.c.obj
 
-ch3/3_4.i: ch3/3_4.c.i
-.PHONY : ch3/3_4.i
+CH_code/ch3/3_4.i: CH_code/ch3/3_4.c.i
+.PHONY : CH_code/ch3/3_4.i
 
 # target to preprocess a source file
-ch3/3_4.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_4.dir\build.make CMakeFiles/3_4.dir/ch3/3_4.c.i
-.PHONY : ch3/3_4.c.i
+CH_code/ch3/3_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_4.dir\build.make CMakeFiles/3_4.dir/CH_code/ch3/3_4.c.i
+.PHONY : CH_code/ch3/3_4.c.i
 
-ch3/3_4.s: ch3/3_4.c.s
-.PHONY : ch3/3_4.s
+CH_code/ch3/3_4.s: CH_code/ch3/3_4.c.s
+.PHONY : CH_code/ch3/3_4.s
 
 # target to generate assembly for a file
-ch3/3_4.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_4.dir\build.make CMakeFiles/3_4.dir/ch3/3_4.c.s
-.PHONY : ch3/3_4.c.s
+CH_code/ch3/3_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_4.dir\build.make CMakeFiles/3_4.dir/CH_code/ch3/3_4.c.s
+.PHONY : CH_code/ch3/3_4.c.s
 
-ch3/3_5.obj: ch3/3_5.c.obj
-.PHONY : ch3/3_5.obj
+CH_code/ch3/3_5.obj: CH_code/ch3/3_5.c.obj
+.PHONY : CH_code/ch3/3_5.obj
 
 # target to build an object file
-ch3/3_5.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_5.dir\build.make CMakeFiles/3_5.dir/ch3/3_5.c.obj
-.PHONY : ch3/3_5.c.obj
+CH_code/ch3/3_5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_5.dir\build.make CMakeFiles/3_5.dir/CH_code/ch3/3_5.c.obj
+.PHONY : CH_code/ch3/3_5.c.obj
 
-ch3/3_5.i: ch3/3_5.c.i
-.PHONY : ch3/3_5.i
+CH_code/ch3/3_5.i: CH_code/ch3/3_5.c.i
+.PHONY : CH_code/ch3/3_5.i
 
 # target to preprocess a source file
-ch3/3_5.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_5.dir\build.make CMakeFiles/3_5.dir/ch3/3_5.c.i
-.PHONY : ch3/3_5.c.i
+CH_code/ch3/3_5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_5.dir\build.make CMakeFiles/3_5.dir/CH_code/ch3/3_5.c.i
+.PHONY : CH_code/ch3/3_5.c.i
 
-ch3/3_5.s: ch3/3_5.c.s
-.PHONY : ch3/3_5.s
+CH_code/ch3/3_5.s: CH_code/ch3/3_5.c.s
+.PHONY : CH_code/ch3/3_5.s
 
 # target to generate assembly for a file
-ch3/3_5.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_5.dir\build.make CMakeFiles/3_5.dir/ch3/3_5.c.s
-.PHONY : ch3/3_5.c.s
+CH_code/ch3/3_5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_5.dir\build.make CMakeFiles/3_5.dir/CH_code/ch3/3_5.c.s
+.PHONY : CH_code/ch3/3_5.c.s
 
-ch3/3_6.obj: ch3/3_6.c.obj
-.PHONY : ch3/3_6.obj
+CH_code/ch3/3_6.obj: CH_code/ch3/3_6.c.obj
+.PHONY : CH_code/ch3/3_6.obj
 
 # target to build an object file
-ch3/3_6.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_6.dir\build.make CMakeFiles/3_6.dir/ch3/3_6.c.obj
-.PHONY : ch3/3_6.c.obj
+CH_code/ch3/3_6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_6.dir\build.make CMakeFiles/3_6.dir/CH_code/ch3/3_6.c.obj
+.PHONY : CH_code/ch3/3_6.c.obj
 
-ch3/3_6.i: ch3/3_6.c.i
-.PHONY : ch3/3_6.i
+CH_code/ch3/3_6.i: CH_code/ch3/3_6.c.i
+.PHONY : CH_code/ch3/3_6.i
 
 # target to preprocess a source file
-ch3/3_6.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_6.dir\build.make CMakeFiles/3_6.dir/ch3/3_6.c.i
-.PHONY : ch3/3_6.c.i
+CH_code/ch3/3_6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_6.dir\build.make CMakeFiles/3_6.dir/CH_code/ch3/3_6.c.i
+.PHONY : CH_code/ch3/3_6.c.i
 
-ch3/3_6.s: ch3/3_6.c.s
-.PHONY : ch3/3_6.s
+CH_code/ch3/3_6.s: CH_code/ch3/3_6.c.s
+.PHONY : CH_code/ch3/3_6.s
 
 # target to generate assembly for a file
-ch3/3_6.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_6.dir\build.make CMakeFiles/3_6.dir/ch3/3_6.c.s
-.PHONY : ch3/3_6.c.s
+CH_code/ch3/3_6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_6.dir\build.make CMakeFiles/3_6.dir/CH_code/ch3/3_6.c.s
+.PHONY : CH_code/ch3/3_6.c.s
 
-ch3/3_7.obj: ch3/3_7.c.obj
-.PHONY : ch3/3_7.obj
+CH_code/ch3/3_7.obj: CH_code/ch3/3_7.c.obj
+.PHONY : CH_code/ch3/3_7.obj
 
 # target to build an object file
-ch3/3_7.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_7.dir\build.make CMakeFiles/3_7.dir/ch3/3_7.c.obj
-.PHONY : ch3/3_7.c.obj
+CH_code/ch3/3_7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_7.dir\build.make CMakeFiles/3_7.dir/CH_code/ch3/3_7.c.obj
+.PHONY : CH_code/ch3/3_7.c.obj
 
-ch3/3_7.i: ch3/3_7.c.i
-.PHONY : ch3/3_7.i
+CH_code/ch3/3_7.i: CH_code/ch3/3_7.c.i
+.PHONY : CH_code/ch3/3_7.i
 
 # target to preprocess a source file
-ch3/3_7.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_7.dir\build.make CMakeFiles/3_7.dir/ch3/3_7.c.i
-.PHONY : ch3/3_7.c.i
+CH_code/ch3/3_7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_7.dir\build.make CMakeFiles/3_7.dir/CH_code/ch3/3_7.c.i
+.PHONY : CH_code/ch3/3_7.c.i
 
-ch3/3_7.s: ch3/3_7.c.s
-.PHONY : ch3/3_7.s
+CH_code/ch3/3_7.s: CH_code/ch3/3_7.c.s
+.PHONY : CH_code/ch3/3_7.s
 
 # target to generate assembly for a file
-ch3/3_7.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_7.dir\build.make CMakeFiles/3_7.dir/ch3/3_7.c.s
-.PHONY : ch3/3_7.c.s
+CH_code/ch3/3_7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_7.dir\build.make CMakeFiles/3_7.dir/CH_code/ch3/3_7.c.s
+.PHONY : CH_code/ch3/3_7.c.s
 
-ch3/3_8.obj: ch3/3_8.c.obj
-.PHONY : ch3/3_8.obj
+CH_code/ch3/3_8.obj: CH_code/ch3/3_8.c.obj
+.PHONY : CH_code/ch3/3_8.obj
 
 # target to build an object file
-ch3/3_8.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_8.dir\build.make CMakeFiles/3_8.dir/ch3/3_8.c.obj
-.PHONY : ch3/3_8.c.obj
+CH_code/ch3/3_8.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_8.dir\build.make CMakeFiles/3_8.dir/CH_code/ch3/3_8.c.obj
+.PHONY : CH_code/ch3/3_8.c.obj
 
-ch3/3_8.i: ch3/3_8.c.i
-.PHONY : ch3/3_8.i
+CH_code/ch3/3_8.i: CH_code/ch3/3_8.c.i
+.PHONY : CH_code/ch3/3_8.i
 
 # target to preprocess a source file
-ch3/3_8.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_8.dir\build.make CMakeFiles/3_8.dir/ch3/3_8.c.i
-.PHONY : ch3/3_8.c.i
+CH_code/ch3/3_8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_8.dir\build.make CMakeFiles/3_8.dir/CH_code/ch3/3_8.c.i
+.PHONY : CH_code/ch3/3_8.c.i
 
-ch3/3_8.s: ch3/3_8.c.s
-.PHONY : ch3/3_8.s
+CH_code/ch3/3_8.s: CH_code/ch3/3_8.c.s
+.PHONY : CH_code/ch3/3_8.s
 
 # target to generate assembly for a file
-ch3/3_8.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_8.dir\build.make CMakeFiles/3_8.dir/ch3/3_8.c.s
-.PHONY : ch3/3_8.c.s
+CH_code/ch3/3_8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_8.dir\build.make CMakeFiles/3_8.dir/CH_code/ch3/3_8.c.s
+.PHONY : CH_code/ch3/3_8.c.s
 
-ch3/3_9.obj: ch3/3_9.c.obj
-.PHONY : ch3/3_9.obj
+CH_code/ch3/3_9.obj: CH_code/ch3/3_9.c.obj
+.PHONY : CH_code/ch3/3_9.obj
 
 # target to build an object file
-ch3/3_9.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_9.dir\build.make CMakeFiles/3_9.dir/ch3/3_9.c.obj
-.PHONY : ch3/3_9.c.obj
+CH_code/ch3/3_9.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_9.dir\build.make CMakeFiles/3_9.dir/CH_code/ch3/3_9.c.obj
+.PHONY : CH_code/ch3/3_9.c.obj
 
-ch3/3_9.i: ch3/3_9.c.i
-.PHONY : ch3/3_9.i
+CH_code/ch3/3_9.i: CH_code/ch3/3_9.c.i
+.PHONY : CH_code/ch3/3_9.i
 
 # target to preprocess a source file
-ch3/3_9.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_9.dir\build.make CMakeFiles/3_9.dir/ch3/3_9.c.i
-.PHONY : ch3/3_9.c.i
+CH_code/ch3/3_9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_9.dir\build.make CMakeFiles/3_9.dir/CH_code/ch3/3_9.c.i
+.PHONY : CH_code/ch3/3_9.c.i
 
-ch3/3_9.s: ch3/3_9.c.s
-.PHONY : ch3/3_9.s
+CH_code/ch3/3_9.s: CH_code/ch3/3_9.c.s
+.PHONY : CH_code/ch3/3_9.s
 
 # target to generate assembly for a file
-ch3/3_9.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_9.dir\build.make CMakeFiles/3_9.dir/ch3/3_9.c.s
-.PHONY : ch3/3_9.c.s
+CH_code/ch3/3_9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_9.dir\build.make CMakeFiles/3_9.dir/CH_code/ch3/3_9.c.s
+.PHONY : CH_code/ch3/3_9.c.s
 
-ch4/HW4_1.obj: ch4/HW4_1.c.obj
-.PHONY : ch4/HW4_1.obj
+CH_code/ch4/HW4_1.obj: CH_code/ch4/HW4_1.c.obj
+.PHONY : CH_code/ch4/HW4_1.obj
 
 # target to build an object file
-ch4/HW4_1.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1.dir\build.make CMakeFiles/HW4_1.dir/ch4/HW4_1.c.obj
-.PHONY : ch4/HW4_1.c.obj
+CH_code/ch4/HW4_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1.dir\build.make CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.obj
+.PHONY : CH_code/ch4/HW4_1.c.obj
 
-ch4/HW4_1.i: ch4/HW4_1.c.i
-.PHONY : ch4/HW4_1.i
+CH_code/ch4/HW4_1.i: CH_code/ch4/HW4_1.c.i
+.PHONY : CH_code/ch4/HW4_1.i
 
 # target to preprocess a source file
-ch4/HW4_1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1.dir\build.make CMakeFiles/HW4_1.dir/ch4/HW4_1.c.i
-.PHONY : ch4/HW4_1.c.i
+CH_code/ch4/HW4_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1.dir\build.make CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.i
+.PHONY : CH_code/ch4/HW4_1.c.i
 
-ch4/HW4_1.s: ch4/HW4_1.c.s
-.PHONY : ch4/HW4_1.s
+CH_code/ch4/HW4_1.s: CH_code/ch4/HW4_1.c.s
+.PHONY : CH_code/ch4/HW4_1.s
 
 # target to generate assembly for a file
-ch4/HW4_1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1.dir\build.make CMakeFiles/HW4_1.dir/ch4/HW4_1.c.s
-.PHONY : ch4/HW4_1.c.s
+CH_code/ch4/HW4_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1.dir\build.make CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.s
+.PHONY : CH_code/ch4/HW4_1.c.s
 
-ch4/HW4_1_commet.obj: ch4/HW4_1_commet.c.obj
-.PHONY : ch4/HW4_1_commet.obj
+CH_code/ch4/HW4_1_commet.obj: CH_code/ch4/HW4_1_commet.c.obj
+.PHONY : CH_code/ch4/HW4_1_commet.obj
 
 # target to build an object file
-ch4/HW4_1_commet.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1_comment.dir\build.make CMakeFiles/HW4_1_comment.dir/ch4/HW4_1_commet.c.obj
-.PHONY : ch4/HW4_1_commet.c.obj
+CH_code/ch4/HW4_1_commet.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1_comment.dir\build.make CMakeFiles/HW4_1_comment.dir/CH_code/ch4/HW4_1_commet.c.obj
+.PHONY : CH_code/ch4/HW4_1_commet.c.obj
 
-ch4/HW4_1_commet.i: ch4/HW4_1_commet.c.i
-.PHONY : ch4/HW4_1_commet.i
+CH_code/ch4/HW4_1_commet.i: CH_code/ch4/HW4_1_commet.c.i
+.PHONY : CH_code/ch4/HW4_1_commet.i
 
 # target to preprocess a source file
-ch4/HW4_1_commet.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1_comment.dir\build.make CMakeFiles/HW4_1_comment.dir/ch4/HW4_1_commet.c.i
-.PHONY : ch4/HW4_1_commet.c.i
+CH_code/ch4/HW4_1_commet.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1_comment.dir\build.make CMakeFiles/HW4_1_comment.dir/CH_code/ch4/HW4_1_commet.c.i
+.PHONY : CH_code/ch4/HW4_1_commet.c.i
 
-ch4/HW4_1_commet.s: ch4/HW4_1_commet.c.s
-.PHONY : ch4/HW4_1_commet.s
+CH_code/ch4/HW4_1_commet.s: CH_code/ch4/HW4_1_commet.c.s
+.PHONY : CH_code/ch4/HW4_1_commet.s
 
 # target to generate assembly for a file
-ch4/HW4_1_commet.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1_comment.dir\build.make CMakeFiles/HW4_1_comment.dir/ch4/HW4_1_commet.c.s
-.PHONY : ch4/HW4_1_commet.c.s
+CH_code/ch4/HW4_1_commet.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_1_comment.dir\build.make CMakeFiles/HW4_1_comment.dir/CH_code/ch4/HW4_1_commet.c.s
+.PHONY : CH_code/ch4/HW4_1_commet.c.s
 
-ch4/HW4_2.obj: ch4/HW4_2.c.obj
-.PHONY : ch4/HW4_2.obj
+CH_code/ch4/HW4_2.obj: CH_code/ch4/HW4_2.c.obj
+.PHONY : CH_code/ch4/HW4_2.obj
 
 # target to build an object file
-ch4/HW4_2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_2.dir\build.make CMakeFiles/HW4_2.dir/ch4/HW4_2.c.obj
-.PHONY : ch4/HW4_2.c.obj
+CH_code/ch4/HW4_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_2.dir\build.make CMakeFiles/HW4_2.dir/CH_code/ch4/HW4_2.c.obj
+.PHONY : CH_code/ch4/HW4_2.c.obj
 
-ch4/HW4_2.i: ch4/HW4_2.c.i
-.PHONY : ch4/HW4_2.i
+CH_code/ch4/HW4_2.i: CH_code/ch4/HW4_2.c.i
+.PHONY : CH_code/ch4/HW4_2.i
 
 # target to preprocess a source file
-ch4/HW4_2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_2.dir\build.make CMakeFiles/HW4_2.dir/ch4/HW4_2.c.i
-.PHONY : ch4/HW4_2.c.i
+CH_code/ch4/HW4_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_2.dir\build.make CMakeFiles/HW4_2.dir/CH_code/ch4/HW4_2.c.i
+.PHONY : CH_code/ch4/HW4_2.c.i
 
-ch4/HW4_2.s: ch4/HW4_2.c.s
-.PHONY : ch4/HW4_2.s
+CH_code/ch4/HW4_2.s: CH_code/ch4/HW4_2.c.s
+.PHONY : CH_code/ch4/HW4_2.s
 
 # target to generate assembly for a file
-ch4/HW4_2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_2.dir\build.make CMakeFiles/HW4_2.dir/ch4/HW4_2.c.s
-.PHONY : ch4/HW4_2.c.s
+CH_code/ch4/HW4_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_2.dir\build.make CMakeFiles/HW4_2.dir/CH_code/ch4/HW4_2.c.s
+.PHONY : CH_code/ch4/HW4_2.c.s
 
-ch4/HW4_3.obj: ch4/HW4_3.c.obj
-.PHONY : ch4/HW4_3.obj
+CH_code/ch4/HW4_3.obj: CH_code/ch4/HW4_3.c.obj
+.PHONY : CH_code/ch4/HW4_3.obj
 
 # target to build an object file
-ch4/HW4_3.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_3.dir\build.make CMakeFiles/HW4_3.dir/ch4/HW4_3.c.obj
-.PHONY : ch4/HW4_3.c.obj
+CH_code/ch4/HW4_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_3.dir\build.make CMakeFiles/HW4_3.dir/CH_code/ch4/HW4_3.c.obj
+.PHONY : CH_code/ch4/HW4_3.c.obj
 
-ch4/HW4_3.i: ch4/HW4_3.c.i
-.PHONY : ch4/HW4_3.i
+CH_code/ch4/HW4_3.i: CH_code/ch4/HW4_3.c.i
+.PHONY : CH_code/ch4/HW4_3.i
 
 # target to preprocess a source file
-ch4/HW4_3.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_3.dir\build.make CMakeFiles/HW4_3.dir/ch4/HW4_3.c.i
-.PHONY : ch4/HW4_3.c.i
+CH_code/ch4/HW4_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_3.dir\build.make CMakeFiles/HW4_3.dir/CH_code/ch4/HW4_3.c.i
+.PHONY : CH_code/ch4/HW4_3.c.i
 
-ch4/HW4_3.s: ch4/HW4_3.c.s
-.PHONY : ch4/HW4_3.s
+CH_code/ch4/HW4_3.s: CH_code/ch4/HW4_3.c.s
+.PHONY : CH_code/ch4/HW4_3.s
 
 # target to generate assembly for a file
-ch4/HW4_3.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_3.dir\build.make CMakeFiles/HW4_3.dir/ch4/HW4_3.c.s
-.PHONY : ch4/HW4_3.c.s
+CH_code/ch4/HW4_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_3.dir\build.make CMakeFiles/HW4_3.dir/CH_code/ch4/HW4_3.c.s
+.PHONY : CH_code/ch4/HW4_3.c.s
 
-ch4/HW4_4.obj: ch4/HW4_4.c.obj
-.PHONY : ch4/HW4_4.obj
+CH_code/ch4/HW4_4.obj: CH_code/ch4/HW4_4.c.obj
+.PHONY : CH_code/ch4/HW4_4.obj
 
 # target to build an object file
-ch4/HW4_4.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4.dir\build.make CMakeFiles/HW4_4.dir/ch4/HW4_4.c.obj
-.PHONY : ch4/HW4_4.c.obj
+CH_code/ch4/HW4_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4.dir\build.make CMakeFiles/HW4_4.dir/CH_code/ch4/HW4_4.c.obj
+.PHONY : CH_code/ch4/HW4_4.c.obj
 
-ch4/HW4_4.i: ch4/HW4_4.c.i
-.PHONY : ch4/HW4_4.i
+CH_code/ch4/HW4_4.i: CH_code/ch4/HW4_4.c.i
+.PHONY : CH_code/ch4/HW4_4.i
 
 # target to preprocess a source file
-ch4/HW4_4.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4.dir\build.make CMakeFiles/HW4_4.dir/ch4/HW4_4.c.i
-.PHONY : ch4/HW4_4.c.i
+CH_code/ch4/HW4_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4.dir\build.make CMakeFiles/HW4_4.dir/CH_code/ch4/HW4_4.c.i
+.PHONY : CH_code/ch4/HW4_4.c.i
 
-ch4/HW4_4.s: ch4/HW4_4.c.s
-.PHONY : ch4/HW4_4.s
+CH_code/ch4/HW4_4.s: CH_code/ch4/HW4_4.c.s
+.PHONY : CH_code/ch4/HW4_4.s
 
 # target to generate assembly for a file
-ch4/HW4_4.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4.dir\build.make CMakeFiles/HW4_4.dir/ch4/HW4_4.c.s
-.PHONY : ch4/HW4_4.c.s
+CH_code/ch4/HW4_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4.dir\build.make CMakeFiles/HW4_4.dir/CH_code/ch4/HW4_4.c.s
+.PHONY : CH_code/ch4/HW4_4.c.s
 
-ch4/HW4_4_comment.obj: ch4/HW4_4_comment.c.obj
-.PHONY : ch4/HW4_4_comment.obj
+CH_code/ch4/HW4_4_comment.obj: CH_code/ch4/HW4_4_comment.c.obj
+.PHONY : CH_code/ch4/HW4_4_comment.obj
 
 # target to build an object file
-ch4/HW4_4_comment.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4_comment.dir\build.make CMakeFiles/HW4_4_comment.dir/ch4/HW4_4_comment.c.obj
-.PHONY : ch4/HW4_4_comment.c.obj
+CH_code/ch4/HW4_4_comment.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4_comment.dir\build.make CMakeFiles/HW4_4_comment.dir/CH_code/ch4/HW4_4_comment.c.obj
+.PHONY : CH_code/ch4/HW4_4_comment.c.obj
 
-ch4/HW4_4_comment.i: ch4/HW4_4_comment.c.i
-.PHONY : ch4/HW4_4_comment.i
+CH_code/ch4/HW4_4_comment.i: CH_code/ch4/HW4_4_comment.c.i
+.PHONY : CH_code/ch4/HW4_4_comment.i
 
 # target to preprocess a source file
-ch4/HW4_4_comment.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4_comment.dir\build.make CMakeFiles/HW4_4_comment.dir/ch4/HW4_4_comment.c.i
-.PHONY : ch4/HW4_4_comment.c.i
+CH_code/ch4/HW4_4_comment.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4_comment.dir\build.make CMakeFiles/HW4_4_comment.dir/CH_code/ch4/HW4_4_comment.c.i
+.PHONY : CH_code/ch4/HW4_4_comment.c.i
 
-ch4/HW4_4_comment.s: ch4/HW4_4_comment.c.s
-.PHONY : ch4/HW4_4_comment.s
+CH_code/ch4/HW4_4_comment.s: CH_code/ch4/HW4_4_comment.c.s
+.PHONY : CH_code/ch4/HW4_4_comment.s
 
 # target to generate assembly for a file
-ch4/HW4_4_comment.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4_comment.dir\build.make CMakeFiles/HW4_4_comment.dir/ch4/HW4_4_comment.c.s
-.PHONY : ch4/HW4_4_comment.c.s
+CH_code/ch4/HW4_4_comment.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW4_4_comment.dir\build.make CMakeFiles/HW4_4_comment.dir/CH_code/ch4/HW4_4_comment.c.s
+.PHONY : CH_code/ch4/HW4_4_comment.c.s
 
-ch4/factorial_int_c.obj: ch4/factorial_int_c.c.obj
-.PHONY : ch4/factorial_int_c.obj
+CH_code/ch4/factorial_int_c.obj: CH_code/ch4/factorial_int_c.c.obj
+.PHONY : CH_code/ch4/factorial_int_c.obj
 
 # target to build an object file
-ch4/factorial_int_c.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int_c.dir\build.make CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/ch4/factorial_int_c.c.obj
-.PHONY : ch4/factorial_int_c.c.obj
+CH_code/ch4/factorial_int_c.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int_c.dir\build.make CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj
+.PHONY : CH_code/ch4/factorial_int_c.c.obj
 
-ch4/factorial_int_c.i: ch4/factorial_int_c.c.i
-.PHONY : ch4/factorial_int_c.i
+CH_code/ch4/factorial_int_c.i: CH_code/ch4/factorial_int_c.c.i
+.PHONY : CH_code/ch4/factorial_int_c.i
 
 # target to preprocess a source file
-ch4/factorial_int_c.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int_c.dir\build.make CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/ch4/factorial_int_c.c.i
-.PHONY : ch4/factorial_int_c.c.i
+CH_code/ch4/factorial_int_c.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int_c.dir\build.make CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.i
+.PHONY : CH_code/ch4/factorial_int_c.c.i
 
-ch4/factorial_int_c.s: ch4/factorial_int_c.c.s
-.PHONY : ch4/factorial_int_c.s
+CH_code/ch4/factorial_int_c.s: CH_code/ch4/factorial_int_c.c.s
+.PHONY : CH_code/ch4/factorial_int_c.s
 
 # target to generate assembly for a file
-ch4/factorial_int_c.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int_c.dir\build.make CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/ch4/factorial_int_c.c.s
-.PHONY : ch4/factorial_int_c.c.s
+CH_code/ch4/factorial_int_c.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int_c.dir\build.make CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.s
+.PHONY : CH_code/ch4/factorial_int_c.c.s
 
-ch4/program4_1.obj: ch4/program4_1.c.obj
-.PHONY : ch4/program4_1.obj
+CH_code/ch4/program4_1.obj: CH_code/ch4/program4_1.c.obj
+.PHONY : CH_code/ch4/program4_1.obj
 
 # target to build an object file
-ch4/program4_1.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_1.dir\build.make CMakeFiles/program4_1.dir/ch4/program4_1.c.obj
-.PHONY : ch4/program4_1.c.obj
+CH_code/ch4/program4_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_1.dir\build.make CMakeFiles/program4_1.dir/CH_code/ch4/program4_1.c.obj
+.PHONY : CH_code/ch4/program4_1.c.obj
 
-ch4/program4_1.i: ch4/program4_1.c.i
-.PHONY : ch4/program4_1.i
+CH_code/ch4/program4_1.i: CH_code/ch4/program4_1.c.i
+.PHONY : CH_code/ch4/program4_1.i
 
 # target to preprocess a source file
-ch4/program4_1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_1.dir\build.make CMakeFiles/program4_1.dir/ch4/program4_1.c.i
-.PHONY : ch4/program4_1.c.i
+CH_code/ch4/program4_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_1.dir\build.make CMakeFiles/program4_1.dir/CH_code/ch4/program4_1.c.i
+.PHONY : CH_code/ch4/program4_1.c.i
 
-ch4/program4_1.s: ch4/program4_1.c.s
-.PHONY : ch4/program4_1.s
+CH_code/ch4/program4_1.s: CH_code/ch4/program4_1.c.s
+.PHONY : CH_code/ch4/program4_1.s
 
 # target to generate assembly for a file
-ch4/program4_1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_1.dir\build.make CMakeFiles/program4_1.dir/ch4/program4_1.c.s
-.PHONY : ch4/program4_1.c.s
+CH_code/ch4/program4_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_1.dir\build.make CMakeFiles/program4_1.dir/CH_code/ch4/program4_1.c.s
+.PHONY : CH_code/ch4/program4_1.c.s
 
-ch4/program4_2.obj: ch4/program4_2.c.obj
-.PHONY : ch4/program4_2.obj
+CH_code/ch4/program4_2.obj: CH_code/ch4/program4_2.c.obj
+.PHONY : CH_code/ch4/program4_2.obj
 
 # target to build an object file
-ch4/program4_2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_2.dir\build.make CMakeFiles/program4_2.dir/ch4/program4_2.c.obj
-.PHONY : ch4/program4_2.c.obj
+CH_code/ch4/program4_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_2.dir\build.make CMakeFiles/program4_2.dir/CH_code/ch4/program4_2.c.obj
+.PHONY : CH_code/ch4/program4_2.c.obj
 
-ch4/program4_2.i: ch4/program4_2.c.i
-.PHONY : ch4/program4_2.i
+CH_code/ch4/program4_2.i: CH_code/ch4/program4_2.c.i
+.PHONY : CH_code/ch4/program4_2.i
 
 # target to preprocess a source file
-ch4/program4_2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_2.dir\build.make CMakeFiles/program4_2.dir/ch4/program4_2.c.i
-.PHONY : ch4/program4_2.c.i
+CH_code/ch4/program4_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_2.dir\build.make CMakeFiles/program4_2.dir/CH_code/ch4/program4_2.c.i
+.PHONY : CH_code/ch4/program4_2.c.i
 
-ch4/program4_2.s: ch4/program4_2.c.s
-.PHONY : ch4/program4_2.s
+CH_code/ch4/program4_2.s: CH_code/ch4/program4_2.c.s
+.PHONY : CH_code/ch4/program4_2.s
 
 # target to generate assembly for a file
-ch4/program4_2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_2.dir\build.make CMakeFiles/program4_2.dir/ch4/program4_2.c.s
-.PHONY : ch4/program4_2.c.s
+CH_code/ch4/program4_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_2.dir\build.make CMakeFiles/program4_2.dir/CH_code/ch4/program4_2.c.s
+.PHONY : CH_code/ch4/program4_2.c.s
 
-ch4/program4_3.obj: ch4/program4_3.c.obj
-.PHONY : ch4/program4_3.obj
+CH_code/ch4/program4_3.obj: CH_code/ch4/program4_3.c.obj
+.PHONY : CH_code/ch4/program4_3.obj
 
 # target to build an object file
-ch4/program4_3.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_3.dir\build.make CMakeFiles/program4_3.dir/ch4/program4_3.c.obj
-.PHONY : ch4/program4_3.c.obj
+CH_code/ch4/program4_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_3.dir\build.make CMakeFiles/program4_3.dir/CH_code/ch4/program4_3.c.obj
+.PHONY : CH_code/ch4/program4_3.c.obj
 
-ch4/program4_3.i: ch4/program4_3.c.i
-.PHONY : ch4/program4_3.i
+CH_code/ch4/program4_3.i: CH_code/ch4/program4_3.c.i
+.PHONY : CH_code/ch4/program4_3.i
 
 # target to preprocess a source file
-ch4/program4_3.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_3.dir\build.make CMakeFiles/program4_3.dir/ch4/program4_3.c.i
-.PHONY : ch4/program4_3.c.i
+CH_code/ch4/program4_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_3.dir\build.make CMakeFiles/program4_3.dir/CH_code/ch4/program4_3.c.i
+.PHONY : CH_code/ch4/program4_3.c.i
 
-ch4/program4_3.s: ch4/program4_3.c.s
-.PHONY : ch4/program4_3.s
+CH_code/ch4/program4_3.s: CH_code/ch4/program4_3.c.s
+.PHONY : CH_code/ch4/program4_3.s
 
 # target to generate assembly for a file
-ch4/program4_3.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_3.dir\build.make CMakeFiles/program4_3.dir/ch4/program4_3.c.s
-.PHONY : ch4/program4_3.c.s
+CH_code/ch4/program4_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_3.dir\build.make CMakeFiles/program4_3.dir/CH_code/ch4/program4_3.c.s
+.PHONY : CH_code/ch4/program4_3.c.s
 
-ch4/program4_4.obj: ch4/program4_4.c.obj
-.PHONY : ch4/program4_4.obj
+CH_code/ch4/program4_4.obj: CH_code/ch4/program4_4.c.obj
+.PHONY : CH_code/ch4/program4_4.obj
 
 # target to build an object file
-ch4/program4_4.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_4.dir\build.make CMakeFiles/program4_4.dir/ch4/program4_4.c.obj
-.PHONY : ch4/program4_4.c.obj
+CH_code/ch4/program4_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_4.dir\build.make CMakeFiles/program4_4.dir/CH_code/ch4/program4_4.c.obj
+.PHONY : CH_code/ch4/program4_4.c.obj
 
-ch4/program4_4.i: ch4/program4_4.c.i
-.PHONY : ch4/program4_4.i
+CH_code/ch4/program4_4.i: CH_code/ch4/program4_4.c.i
+.PHONY : CH_code/ch4/program4_4.i
 
 # target to preprocess a source file
-ch4/program4_4.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_4.dir\build.make CMakeFiles/program4_4.dir/ch4/program4_4.c.i
-.PHONY : ch4/program4_4.c.i
+CH_code/ch4/program4_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_4.dir\build.make CMakeFiles/program4_4.dir/CH_code/ch4/program4_4.c.i
+.PHONY : CH_code/ch4/program4_4.c.i
 
-ch4/program4_4.s: ch4/program4_4.c.s
-.PHONY : ch4/program4_4.s
+CH_code/ch4/program4_4.s: CH_code/ch4/program4_4.c.s
+.PHONY : CH_code/ch4/program4_4.s
 
 # target to generate assembly for a file
-ch4/program4_4.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_4.dir\build.make CMakeFiles/program4_4.dir/ch4/program4_4.c.s
-.PHONY : ch4/program4_4.c.s
+CH_code/ch4/program4_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_4.dir\build.make CMakeFiles/program4_4.dir/CH_code/ch4/program4_4.c.s
+.PHONY : CH_code/ch4/program4_4.c.s
 
-ch4/program4_5.obj: ch4/program4_5.c.obj
-.PHONY : ch4/program4_5.obj
+CH_code/ch4/program4_5.obj: CH_code/ch4/program4_5.c.obj
+.PHONY : CH_code/ch4/program4_5.obj
 
 # target to build an object file
-ch4/program4_5.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_5.dir\build.make CMakeFiles/program4_5.dir/ch4/program4_5.c.obj
-.PHONY : ch4/program4_5.c.obj
+CH_code/ch4/program4_5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_5.dir\build.make CMakeFiles/program4_5.dir/CH_code/ch4/program4_5.c.obj
+.PHONY : CH_code/ch4/program4_5.c.obj
 
-ch4/program4_5.i: ch4/program4_5.c.i
-.PHONY : ch4/program4_5.i
+CH_code/ch4/program4_5.i: CH_code/ch4/program4_5.c.i
+.PHONY : CH_code/ch4/program4_5.i
 
 # target to preprocess a source file
-ch4/program4_5.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_5.dir\build.make CMakeFiles/program4_5.dir/ch4/program4_5.c.i
-.PHONY : ch4/program4_5.c.i
+CH_code/ch4/program4_5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_5.dir\build.make CMakeFiles/program4_5.dir/CH_code/ch4/program4_5.c.i
+.PHONY : CH_code/ch4/program4_5.c.i
 
-ch4/program4_5.s: ch4/program4_5.c.s
-.PHONY : ch4/program4_5.s
+CH_code/ch4/program4_5.s: CH_code/ch4/program4_5.c.s
+.PHONY : CH_code/ch4/program4_5.s
 
 # target to generate assembly for a file
-ch4/program4_5.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_5.dir\build.make CMakeFiles/program4_5.dir/ch4/program4_5.c.s
-.PHONY : ch4/program4_5.c.s
+CH_code/ch4/program4_5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_5.dir\build.make CMakeFiles/program4_5.dir/CH_code/ch4/program4_5.c.s
+.PHONY : CH_code/ch4/program4_5.c.s
 
-ch4/program4_6.obj: ch4/program4_6.c.obj
-.PHONY : ch4/program4_6.obj
+CH_code/ch4/program4_6.obj: CH_code/ch4/program4_6.c.obj
+.PHONY : CH_code/ch4/program4_6.obj
 
 # target to build an object file
-ch4/program4_6.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_6.dir\build.make CMakeFiles/program4_6.dir/ch4/program4_6.c.obj
-.PHONY : ch4/program4_6.c.obj
+CH_code/ch4/program4_6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_6.dir\build.make CMakeFiles/program4_6.dir/CH_code/ch4/program4_6.c.obj
+.PHONY : CH_code/ch4/program4_6.c.obj
 
-ch4/program4_6.i: ch4/program4_6.c.i
-.PHONY : ch4/program4_6.i
+CH_code/ch4/program4_6.i: CH_code/ch4/program4_6.c.i
+.PHONY : CH_code/ch4/program4_6.i
 
 # target to preprocess a source file
-ch4/program4_6.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_6.dir\build.make CMakeFiles/program4_6.dir/ch4/program4_6.c.i
-.PHONY : ch4/program4_6.c.i
+CH_code/ch4/program4_6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_6.dir\build.make CMakeFiles/program4_6.dir/CH_code/ch4/program4_6.c.i
+.PHONY : CH_code/ch4/program4_6.c.i
 
-ch4/program4_6.s: ch4/program4_6.c.s
-.PHONY : ch4/program4_6.s
+CH_code/ch4/program4_6.s: CH_code/ch4/program4_6.c.s
+.PHONY : CH_code/ch4/program4_6.s
 
 # target to generate assembly for a file
-ch4/program4_6.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_6.dir\build.make CMakeFiles/program4_6.dir/ch4/program4_6.c.s
-.PHONY : ch4/program4_6.c.s
+CH_code/ch4/program4_6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_6.dir\build.make CMakeFiles/program4_6.dir/CH_code/ch4/program4_6.c.s
+.PHONY : CH_code/ch4/program4_6.c.s
 
-ch4/program4_7.obj: ch4/program4_7.c.obj
-.PHONY : ch4/program4_7.obj
+CH_code/ch4/program4_7.obj: CH_code/ch4/program4_7.c.obj
+.PHONY : CH_code/ch4/program4_7.obj
 
 # target to build an object file
-ch4/program4_7.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_7.dir\build.make CMakeFiles/program4_7.dir/ch4/program4_7.c.obj
-.PHONY : ch4/program4_7.c.obj
+CH_code/ch4/program4_7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_7.dir\build.make CMakeFiles/program4_7.dir/CH_code/ch4/program4_7.c.obj
+.PHONY : CH_code/ch4/program4_7.c.obj
 
-ch4/program4_7.i: ch4/program4_7.c.i
-.PHONY : ch4/program4_7.i
+CH_code/ch4/program4_7.i: CH_code/ch4/program4_7.c.i
+.PHONY : CH_code/ch4/program4_7.i
 
 # target to preprocess a source file
-ch4/program4_7.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_7.dir\build.make CMakeFiles/program4_7.dir/ch4/program4_7.c.i
-.PHONY : ch4/program4_7.c.i
+CH_code/ch4/program4_7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_7.dir\build.make CMakeFiles/program4_7.dir/CH_code/ch4/program4_7.c.i
+.PHONY : CH_code/ch4/program4_7.c.i
 
-ch4/program4_7.s: ch4/program4_7.c.s
-.PHONY : ch4/program4_7.s
+CH_code/ch4/program4_7.s: CH_code/ch4/program4_7.c.s
+.PHONY : CH_code/ch4/program4_7.s
 
 # target to generate assembly for a file
-ch4/program4_7.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_7.dir\build.make CMakeFiles/program4_7.dir/ch4/program4_7.c.s
-.PHONY : ch4/program4_7.c.s
+CH_code/ch4/program4_7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_7.dir\build.make CMakeFiles/program4_7.dir/CH_code/ch4/program4_7.c.s
+.PHONY : CH_code/ch4/program4_7.c.s
 
-ch4/program4_8.obj: ch4/program4_8.c.obj
-.PHONY : ch4/program4_8.obj
+CH_code/ch4/program4_8.obj: CH_code/ch4/program4_8.c.obj
+.PHONY : CH_code/ch4/program4_8.obj
 
 # target to build an object file
-ch4/program4_8.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_8.dir\build.make CMakeFiles/program4_8.dir/ch4/program4_8.c.obj
-.PHONY : ch4/program4_8.c.obj
+CH_code/ch4/program4_8.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_8.dir\build.make CMakeFiles/program4_8.dir/CH_code/ch4/program4_8.c.obj
+.PHONY : CH_code/ch4/program4_8.c.obj
 
-ch4/program4_8.i: ch4/program4_8.c.i
-.PHONY : ch4/program4_8.i
+CH_code/ch4/program4_8.i: CH_code/ch4/program4_8.c.i
+.PHONY : CH_code/ch4/program4_8.i
 
 # target to preprocess a source file
-ch4/program4_8.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_8.dir\build.make CMakeFiles/program4_8.dir/ch4/program4_8.c.i
-.PHONY : ch4/program4_8.c.i
+CH_code/ch4/program4_8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_8.dir\build.make CMakeFiles/program4_8.dir/CH_code/ch4/program4_8.c.i
+.PHONY : CH_code/ch4/program4_8.c.i
 
-ch4/program4_8.s: ch4/program4_8.c.s
-.PHONY : ch4/program4_8.s
+CH_code/ch4/program4_8.s: CH_code/ch4/program4_8.c.s
+.PHONY : CH_code/ch4/program4_8.s
 
 # target to generate assembly for a file
-ch4/program4_8.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_8.dir\build.make CMakeFiles/program4_8.dir/ch4/program4_8.c.s
-.PHONY : ch4/program4_8.c.s
+CH_code/ch4/program4_8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_8.dir\build.make CMakeFiles/program4_8.dir/CH_code/ch4/program4_8.c.s
+.PHONY : CH_code/ch4/program4_8.c.s
 
-ch4/program4_9.obj: ch4/program4_9.c.obj
-.PHONY : ch4/program4_9.obj
+CH_code/ch4/program4_9.obj: CH_code/ch4/program4_9.c.obj
+.PHONY : CH_code/ch4/program4_9.obj
 
 # target to build an object file
-ch4/program4_9.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_9.dir\build.make CMakeFiles/program4_9.dir/ch4/program4_9.c.obj
-.PHONY : ch4/program4_9.c.obj
+CH_code/ch4/program4_9.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_9.dir\build.make CMakeFiles/program4_9.dir/CH_code/ch4/program4_9.c.obj
+.PHONY : CH_code/ch4/program4_9.c.obj
 
-ch4/program4_9.i: ch4/program4_9.c.i
-.PHONY : ch4/program4_9.i
+CH_code/ch4/program4_9.i: CH_code/ch4/program4_9.c.i
+.PHONY : CH_code/ch4/program4_9.i
 
 # target to preprocess a source file
-ch4/program4_9.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_9.dir\build.make CMakeFiles/program4_9.dir/ch4/program4_9.c.i
-.PHONY : ch4/program4_9.c.i
+CH_code/ch4/program4_9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_9.dir\build.make CMakeFiles/program4_9.dir/CH_code/ch4/program4_9.c.i
+.PHONY : CH_code/ch4/program4_9.c.i
 
-ch4/program4_9.s: ch4/program4_9.c.s
-.PHONY : ch4/program4_9.s
+CH_code/ch4/program4_9.s: CH_code/ch4/program4_9.c.s
+.PHONY : CH_code/ch4/program4_9.s
 
 # target to generate assembly for a file
-ch4/program4_9.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_9.dir\build.make CMakeFiles/program4_9.dir/ch4/program4_9.c.s
-.PHONY : ch4/program4_9.c.s
+CH_code/ch4/program4_9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\program4_9.dir\build.make CMakeFiles/program4_9.dir/CH_code/ch4/program4_9.c.s
+.PHONY : CH_code/ch4/program4_9.c.s
 
-ch5/5_1.obj: ch5/5_1.c.obj
-.PHONY : ch5/5_1.obj
+CH_code/ch5/5_1.obj: CH_code/ch5/5_1.c.obj
+.PHONY : CH_code/ch5/5_1.obj
 
 # target to build an object file
-ch5/5_1.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_1.dir\build.make CMakeFiles/5_1.dir/ch5/5_1.c.obj
-.PHONY : ch5/5_1.c.obj
+CH_code/ch5/5_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_1.dir\build.make CMakeFiles/5_1.dir/CH_code/ch5/5_1.c.obj
+.PHONY : CH_code/ch5/5_1.c.obj
 
-ch5/5_1.i: ch5/5_1.c.i
-.PHONY : ch5/5_1.i
+CH_code/ch5/5_1.i: CH_code/ch5/5_1.c.i
+.PHONY : CH_code/ch5/5_1.i
 
 # target to preprocess a source file
-ch5/5_1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_1.dir\build.make CMakeFiles/5_1.dir/ch5/5_1.c.i
-.PHONY : ch5/5_1.c.i
+CH_code/ch5/5_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_1.dir\build.make CMakeFiles/5_1.dir/CH_code/ch5/5_1.c.i
+.PHONY : CH_code/ch5/5_1.c.i
 
-ch5/5_1.s: ch5/5_1.c.s
-.PHONY : ch5/5_1.s
+CH_code/ch5/5_1.s: CH_code/ch5/5_1.c.s
+.PHONY : CH_code/ch5/5_1.s
 
 # target to generate assembly for a file
-ch5/5_1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_1.dir\build.make CMakeFiles/5_1.dir/ch5/5_1.c.s
-.PHONY : ch5/5_1.c.s
+CH_code/ch5/5_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_1.dir\build.make CMakeFiles/5_1.dir/CH_code/ch5/5_1.c.s
+.PHONY : CH_code/ch5/5_1.c.s
 
-ch5/5_3.obj: ch5/5_3.c.obj
-.PHONY : ch5/5_3.obj
+CH_code/ch5/5_3.obj: CH_code/ch5/5_3.c.obj
+.PHONY : CH_code/ch5/5_3.obj
 
 # target to build an object file
-ch5/5_3.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_3.dir\build.make CMakeFiles/5_3.dir/ch5/5_3.c.obj
-.PHONY : ch5/5_3.c.obj
+CH_code/ch5/5_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_3.dir\build.make CMakeFiles/5_3.dir/CH_code/ch5/5_3.c.obj
+.PHONY : CH_code/ch5/5_3.c.obj
 
-ch5/5_3.i: ch5/5_3.c.i
-.PHONY : ch5/5_3.i
+CH_code/ch5/5_3.i: CH_code/ch5/5_3.c.i
+.PHONY : CH_code/ch5/5_3.i
 
 # target to preprocess a source file
-ch5/5_3.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_3.dir\build.make CMakeFiles/5_3.dir/ch5/5_3.c.i
-.PHONY : ch5/5_3.c.i
+CH_code/ch5/5_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_3.dir\build.make CMakeFiles/5_3.dir/CH_code/ch5/5_3.c.i
+.PHONY : CH_code/ch5/5_3.c.i
 
-ch5/5_3.s: ch5/5_3.c.s
-.PHONY : ch5/5_3.s
+CH_code/ch5/5_3.s: CH_code/ch5/5_3.c.s
+.PHONY : CH_code/ch5/5_3.s
 
 # target to generate assembly for a file
-ch5/5_3.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_3.dir\build.make CMakeFiles/5_3.dir/ch5/5_3.c.s
-.PHONY : ch5/5_3.c.s
+CH_code/ch5/5_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_3.dir\build.make CMakeFiles/5_3.dir/CH_code/ch5/5_3.c.s
+.PHONY : CH_code/ch5/5_3.c.s
 
-ch5/5_4.obj: ch5/5_4.c.obj
-.PHONY : ch5/5_4.obj
+CH_code/ch5/5_4.obj: CH_code/ch5/5_4.c.obj
+.PHONY : CH_code/ch5/5_4.obj
 
 # target to build an object file
-ch5/5_4.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_4.dir\build.make CMakeFiles/5_4.dir/ch5/5_4.c.obj
-.PHONY : ch5/5_4.c.obj
+CH_code/ch5/5_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_4.dir\build.make CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.obj
+.PHONY : CH_code/ch5/5_4.c.obj
 
-ch5/5_4.i: ch5/5_4.c.i
-.PHONY : ch5/5_4.i
+CH_code/ch5/5_4.i: CH_code/ch5/5_4.c.i
+.PHONY : CH_code/ch5/5_4.i
 
 # target to preprocess a source file
-ch5/5_4.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_4.dir\build.make CMakeFiles/5_4.dir/ch5/5_4.c.i
-.PHONY : ch5/5_4.c.i
+CH_code/ch5/5_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_4.dir\build.make CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.i
+.PHONY : CH_code/ch5/5_4.c.i
 
-ch5/5_4.s: ch5/5_4.c.s
-.PHONY : ch5/5_4.s
+CH_code/ch5/5_4.s: CH_code/ch5/5_4.c.s
+.PHONY : CH_code/ch5/5_4.s
 
 # target to generate assembly for a file
-ch5/5_4.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_4.dir\build.make CMakeFiles/5_4.dir/ch5/5_4.c.s
-.PHONY : ch5/5_4.c.s
+CH_code/ch5/5_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_4.dir\build.make CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.s
+.PHONY : CH_code/ch5/5_4.c.s
 
-ch5/5_5.obj: ch5/5_5.c.obj
-.PHONY : ch5/5_5.obj
+CH_code/ch5/5_5.obj: CH_code/ch5/5_5.c.obj
+.PHONY : CH_code/ch5/5_5.obj
 
 # target to build an object file
-ch5/5_5.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_5.dir\build.make CMakeFiles/5_5.dir/ch5/5_5.c.obj
-.PHONY : ch5/5_5.c.obj
+CH_code/ch5/5_5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_5.dir\build.make CMakeFiles/5_5.dir/CH_code/ch5/5_5.c.obj
+.PHONY : CH_code/ch5/5_5.c.obj
 
-ch5/5_5.i: ch5/5_5.c.i
-.PHONY : ch5/5_5.i
+CH_code/ch5/5_5.i: CH_code/ch5/5_5.c.i
+.PHONY : CH_code/ch5/5_5.i
 
 # target to preprocess a source file
-ch5/5_5.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_5.dir\build.make CMakeFiles/5_5.dir/ch5/5_5.c.i
-.PHONY : ch5/5_5.c.i
+CH_code/ch5/5_5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_5.dir\build.make CMakeFiles/5_5.dir/CH_code/ch5/5_5.c.i
+.PHONY : CH_code/ch5/5_5.c.i
 
-ch5/5_5.s: ch5/5_5.c.s
-.PHONY : ch5/5_5.s
+CH_code/ch5/5_5.s: CH_code/ch5/5_5.c.s
+.PHONY : CH_code/ch5/5_5.s
 
 # target to generate assembly for a file
-ch5/5_5.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_5.dir\build.make CMakeFiles/5_5.dir/ch5/5_5.c.s
-.PHONY : ch5/5_5.c.s
+CH_code/ch5/5_5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_5.dir\build.make CMakeFiles/5_5.dir/CH_code/ch5/5_5.c.s
+.PHONY : CH_code/ch5/5_5.c.s
 
-ch5/HW5_1.obj: ch5/HW5_1.c.obj
-.PHONY : ch5/HW5_1.obj
+CH_code/ch5/HW5_1.obj: CH_code/ch5/HW5_1.c.obj
+.PHONY : CH_code/ch5/HW5_1.obj
 
 # target to build an object file
-ch5/HW5_1.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_1.dir\build.make CMakeFiles/HW5_1.dir/ch5/HW5_1.c.obj
-.PHONY : ch5/HW5_1.c.obj
+CH_code/ch5/HW5_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_1.dir\build.make CMakeFiles/HW5_1.dir/CH_code/ch5/HW5_1.c.obj
+.PHONY : CH_code/ch5/HW5_1.c.obj
 
-ch5/HW5_1.i: ch5/HW5_1.c.i
-.PHONY : ch5/HW5_1.i
+CH_code/ch5/HW5_1.i: CH_code/ch5/HW5_1.c.i
+.PHONY : CH_code/ch5/HW5_1.i
 
 # target to preprocess a source file
-ch5/HW5_1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_1.dir\build.make CMakeFiles/HW5_1.dir/ch5/HW5_1.c.i
-.PHONY : ch5/HW5_1.c.i
+CH_code/ch5/HW5_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_1.dir\build.make CMakeFiles/HW5_1.dir/CH_code/ch5/HW5_1.c.i
+.PHONY : CH_code/ch5/HW5_1.c.i
 
-ch5/HW5_1.s: ch5/HW5_1.c.s
-.PHONY : ch5/HW5_1.s
+CH_code/ch5/HW5_1.s: CH_code/ch5/HW5_1.c.s
+.PHONY : CH_code/ch5/HW5_1.s
 
 # target to generate assembly for a file
-ch5/HW5_1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_1.dir\build.make CMakeFiles/HW5_1.dir/ch5/HW5_1.c.s
-.PHONY : ch5/HW5_1.c.s
+CH_code/ch5/HW5_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_1.dir\build.make CMakeFiles/HW5_1.dir/CH_code/ch5/HW5_1.c.s
+.PHONY : CH_code/ch5/HW5_1.c.s
 
-ch5/HW5_2.obj: ch5/HW5_2.c.obj
-.PHONY : ch5/HW5_2.obj
+CH_code/ch5/HW5_2.obj: CH_code/ch5/HW5_2.c.obj
+.PHONY : CH_code/ch5/HW5_2.obj
 
 # target to build an object file
-ch5/HW5_2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_2.dir\build.make CMakeFiles/HW5_2.dir/ch5/HW5_2.c.obj
-.PHONY : ch5/HW5_2.c.obj
+CH_code/ch5/HW5_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_2.dir\build.make CMakeFiles/HW5_2.dir/CH_code/ch5/HW5_2.c.obj
+.PHONY : CH_code/ch5/HW5_2.c.obj
 
-ch5/HW5_2.i: ch5/HW5_2.c.i
-.PHONY : ch5/HW5_2.i
+CH_code/ch5/HW5_2.i: CH_code/ch5/HW5_2.c.i
+.PHONY : CH_code/ch5/HW5_2.i
 
 # target to preprocess a source file
-ch5/HW5_2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_2.dir\build.make CMakeFiles/HW5_2.dir/ch5/HW5_2.c.i
-.PHONY : ch5/HW5_2.c.i
+CH_code/ch5/HW5_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_2.dir\build.make CMakeFiles/HW5_2.dir/CH_code/ch5/HW5_2.c.i
+.PHONY : CH_code/ch5/HW5_2.c.i
 
-ch5/HW5_2.s: ch5/HW5_2.c.s
-.PHONY : ch5/HW5_2.s
+CH_code/ch5/HW5_2.s: CH_code/ch5/HW5_2.c.s
+.PHONY : CH_code/ch5/HW5_2.s
 
 # target to generate assembly for a file
-ch5/HW5_2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_2.dir\build.make CMakeFiles/HW5_2.dir/ch5/HW5_2.c.s
-.PHONY : ch5/HW5_2.c.s
+CH_code/ch5/HW5_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_2.dir\build.make CMakeFiles/HW5_2.dir/CH_code/ch5/HW5_2.c.s
+.PHONY : CH_code/ch5/HW5_2.c.s
 
-ch5/HW5_3.obj: ch5/HW5_3.c.obj
-.PHONY : ch5/HW5_3.obj
+CH_code/ch5/HW5_3.obj: CH_code/ch5/HW5_3.c.obj
+.PHONY : CH_code/ch5/HW5_3.obj
 
 # target to build an object file
-ch5/HW5_3.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_3.dir\build.make CMakeFiles/HW5_3.dir/ch5/HW5_3.c.obj
-.PHONY : ch5/HW5_3.c.obj
+CH_code/ch5/HW5_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_3.dir\build.make CMakeFiles/HW5_3.dir/CH_code/ch5/HW5_3.c.obj
+.PHONY : CH_code/ch5/HW5_3.c.obj
 
-ch5/HW5_3.i: ch5/HW5_3.c.i
-.PHONY : ch5/HW5_3.i
+CH_code/ch5/HW5_3.i: CH_code/ch5/HW5_3.c.i
+.PHONY : CH_code/ch5/HW5_3.i
 
 # target to preprocess a source file
-ch5/HW5_3.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_3.dir\build.make CMakeFiles/HW5_3.dir/ch5/HW5_3.c.i
-.PHONY : ch5/HW5_3.c.i
+CH_code/ch5/HW5_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_3.dir\build.make CMakeFiles/HW5_3.dir/CH_code/ch5/HW5_3.c.i
+.PHONY : CH_code/ch5/HW5_3.c.i
 
-ch5/HW5_3.s: ch5/HW5_3.c.s
-.PHONY : ch5/HW5_3.s
+CH_code/ch5/HW5_3.s: CH_code/ch5/HW5_3.c.s
+.PHONY : CH_code/ch5/HW5_3.s
 
 # target to generate assembly for a file
-ch5/HW5_3.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_3.dir\build.make CMakeFiles/HW5_3.dir/ch5/HW5_3.c.s
-.PHONY : ch5/HW5_3.c.s
+CH_code/ch5/HW5_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_3.dir\build.make CMakeFiles/HW5_3.dir/CH_code/ch5/HW5_3.c.s
+.PHONY : CH_code/ch5/HW5_3.c.s
 
-ch5/HW5_4.obj: ch5/HW5_4.c.obj
-.PHONY : ch5/HW5_4.obj
+CH_code/ch5/HW5_4.obj: CH_code/ch5/HW5_4.c.obj
+.PHONY : CH_code/ch5/HW5_4.obj
 
 # target to build an object file
-ch5/HW5_4.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_4.dir\build.make CMakeFiles/HW5_4.dir/ch5/HW5_4.c.obj
-.PHONY : ch5/HW5_4.c.obj
+CH_code/ch5/HW5_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_4.dir\build.make CMakeFiles/HW5_4.dir/CH_code/ch5/HW5_4.c.obj
+.PHONY : CH_code/ch5/HW5_4.c.obj
 
-ch5/HW5_4.i: ch5/HW5_4.c.i
-.PHONY : ch5/HW5_4.i
+CH_code/ch5/HW5_4.i: CH_code/ch5/HW5_4.c.i
+.PHONY : CH_code/ch5/HW5_4.i
 
 # target to preprocess a source file
-ch5/HW5_4.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_4.dir\build.make CMakeFiles/HW5_4.dir/ch5/HW5_4.c.i
-.PHONY : ch5/HW5_4.c.i
+CH_code/ch5/HW5_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_4.dir\build.make CMakeFiles/HW5_4.dir/CH_code/ch5/HW5_4.c.i
+.PHONY : CH_code/ch5/HW5_4.c.i
 
-ch5/HW5_4.s: ch5/HW5_4.c.s
-.PHONY : ch5/HW5_4.s
+CH_code/ch5/HW5_4.s: CH_code/ch5/HW5_4.c.s
+.PHONY : CH_code/ch5/HW5_4.s
 
 # target to generate assembly for a file
-ch5/HW5_4.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_4.dir\build.make CMakeFiles/HW5_4.dir/ch5/HW5_4.c.s
-.PHONY : ch5/HW5_4.c.s
+CH_code/ch5/HW5_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_4.dir\build.make CMakeFiles/HW5_4.dir/CH_code/ch5/HW5_4.c.s
+.PHONY : CH_code/ch5/HW5_4.c.s
 
-ch5/HW5_5.obj: ch5/HW5_5.c.obj
-.PHONY : ch5/HW5_5.obj
+CH_code/ch5/HW5_5.obj: CH_code/ch5/HW5_5.c.obj
+.PHONY : CH_code/ch5/HW5_5.obj
 
 # target to build an object file
-ch5/HW5_5.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_5.dir\build.make CMakeFiles/HW5_5.dir/ch5/HW5_5.c.obj
-.PHONY : ch5/HW5_5.c.obj
+CH_code/ch5/HW5_5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_5.dir\build.make CMakeFiles/HW5_5.dir/CH_code/ch5/HW5_5.c.obj
+.PHONY : CH_code/ch5/HW5_5.c.obj
 
-ch5/HW5_5.i: ch5/HW5_5.c.i
-.PHONY : ch5/HW5_5.i
+CH_code/ch5/HW5_5.i: CH_code/ch5/HW5_5.c.i
+.PHONY : CH_code/ch5/HW5_5.i
 
 # target to preprocess a source file
-ch5/HW5_5.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_5.dir\build.make CMakeFiles/HW5_5.dir/ch5/HW5_5.c.i
-.PHONY : ch5/HW5_5.c.i
+CH_code/ch5/HW5_5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_5.dir\build.make CMakeFiles/HW5_5.dir/CH_code/ch5/HW5_5.c.i
+.PHONY : CH_code/ch5/HW5_5.c.i
 
-ch5/HW5_5.s: ch5/HW5_5.c.s
-.PHONY : ch5/HW5_5.s
+CH_code/ch5/HW5_5.s: CH_code/ch5/HW5_5.c.s
+.PHONY : CH_code/ch5/HW5_5.s
 
 # target to generate assembly for a file
-ch5/HW5_5.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_5.dir\build.make CMakeFiles/HW5_5.dir/ch5/HW5_5.c.s
-.PHONY : ch5/HW5_5.c.s
+CH_code/ch5/HW5_5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW5_5.dir\build.make CMakeFiles/HW5_5.dir/CH_code/ch5/HW5_5.c.s
+.PHONY : CH_code/ch5/HW5_5.c.s
 
-ch5/HW_5_2.obj: ch5/HW_5_2.c.obj
-.PHONY : ch5/HW_5_2.obj
+CH_code/ch5/HW_5_2.obj: CH_code/ch5/HW_5_2.c.obj
+.PHONY : CH_code/ch5/HW_5_2.obj
 
 # target to build an object file
-ch5/HW_5_2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_2.dir\build.make CMakeFiles/HW_5_2.dir/ch5/HW_5_2.c.obj
-.PHONY : ch5/HW_5_2.c.obj
+CH_code/ch5/HW_5_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_2.dir\build.make CMakeFiles/HW_5_2.dir/CH_code/ch5/HW_5_2.c.obj
+.PHONY : CH_code/ch5/HW_5_2.c.obj
 
-ch5/HW_5_2.i: ch5/HW_5_2.c.i
-.PHONY : ch5/HW_5_2.i
+CH_code/ch5/HW_5_2.i: CH_code/ch5/HW_5_2.c.i
+.PHONY : CH_code/ch5/HW_5_2.i
 
 # target to preprocess a source file
-ch5/HW_5_2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_2.dir\build.make CMakeFiles/HW_5_2.dir/ch5/HW_5_2.c.i
-.PHONY : ch5/HW_5_2.c.i
+CH_code/ch5/HW_5_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_2.dir\build.make CMakeFiles/HW_5_2.dir/CH_code/ch5/HW_5_2.c.i
+.PHONY : CH_code/ch5/HW_5_2.c.i
 
-ch5/HW_5_2.s: ch5/HW_5_2.c.s
-.PHONY : ch5/HW_5_2.s
+CH_code/ch5/HW_5_2.s: CH_code/ch5/HW_5_2.c.s
+.PHONY : CH_code/ch5/HW_5_2.s
 
 # target to generate assembly for a file
-ch5/HW_5_2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_2.dir\build.make CMakeFiles/HW_5_2.dir/ch5/HW_5_2.c.s
-.PHONY : ch5/HW_5_2.c.s
+CH_code/ch5/HW_5_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_2.dir\build.make CMakeFiles/HW_5_2.dir/CH_code/ch5/HW_5_2.c.s
+.PHONY : CH_code/ch5/HW_5_2.c.s
 
-ch5/HW_5_3.obj: ch5/HW_5_3.c.obj
-.PHONY : ch5/HW_5_3.obj
+CH_code/ch5/HW_5_3.obj: CH_code/ch5/HW_5_3.c.obj
+.PHONY : CH_code/ch5/HW_5_3.obj
 
 # target to build an object file
-ch5/HW_5_3.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_3.dir\build.make CMakeFiles/HW_5_3.dir/ch5/HW_5_3.c.obj
-.PHONY : ch5/HW_5_3.c.obj
+CH_code/ch5/HW_5_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_3.dir\build.make CMakeFiles/HW_5_3.dir/CH_code/ch5/HW_5_3.c.obj
+.PHONY : CH_code/ch5/HW_5_3.c.obj
 
-ch5/HW_5_3.i: ch5/HW_5_3.c.i
-.PHONY : ch5/HW_5_3.i
+CH_code/ch5/HW_5_3.i: CH_code/ch5/HW_5_3.c.i
+.PHONY : CH_code/ch5/HW_5_3.i
 
 # target to preprocess a source file
-ch5/HW_5_3.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_3.dir\build.make CMakeFiles/HW_5_3.dir/ch5/HW_5_3.c.i
-.PHONY : ch5/HW_5_3.c.i
+CH_code/ch5/HW_5_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_3.dir\build.make CMakeFiles/HW_5_3.dir/CH_code/ch5/HW_5_3.c.i
+.PHONY : CH_code/ch5/HW_5_3.c.i
 
-ch5/HW_5_3.s: ch5/HW_5_3.c.s
-.PHONY : ch5/HW_5_3.s
+CH_code/ch5/HW_5_3.s: CH_code/ch5/HW_5_3.c.s
+.PHONY : CH_code/ch5/HW_5_3.s
 
 # target to generate assembly for a file
-ch5/HW_5_3.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_3.dir\build.make CMakeFiles/HW_5_3.dir/ch5/HW_5_3.c.s
-.PHONY : ch5/HW_5_3.c.s
+CH_code/ch5/HW_5_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_3.dir\build.make CMakeFiles/HW_5_3.dir/CH_code/ch5/HW_5_3.c.s
+.PHONY : CH_code/ch5/HW_5_3.c.s
 
-ch5/HW_5_4.obj: ch5/HW_5_4.c.obj
-.PHONY : ch5/HW_5_4.obj
+CH_code/ch5/HW_5_4.obj: CH_code/ch5/HW_5_4.c.obj
+.PHONY : CH_code/ch5/HW_5_4.obj
 
 # target to build an object file
-ch5/HW_5_4.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_4.dir\build.make CMakeFiles/HW_5_4.dir/ch5/HW_5_4.c.obj
-.PHONY : ch5/HW_5_4.c.obj
+CH_code/ch5/HW_5_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_4.dir\build.make CMakeFiles/HW_5_4.dir/CH_code/ch5/HW_5_4.c.obj
+.PHONY : CH_code/ch5/HW_5_4.c.obj
 
-ch5/HW_5_4.i: ch5/HW_5_4.c.i
-.PHONY : ch5/HW_5_4.i
+CH_code/ch5/HW_5_4.i: CH_code/ch5/HW_5_4.c.i
+.PHONY : CH_code/ch5/HW_5_4.i
 
 # target to preprocess a source file
-ch5/HW_5_4.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_4.dir\build.make CMakeFiles/HW_5_4.dir/ch5/HW_5_4.c.i
-.PHONY : ch5/HW_5_4.c.i
+CH_code/ch5/HW_5_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_4.dir\build.make CMakeFiles/HW_5_4.dir/CH_code/ch5/HW_5_4.c.i
+.PHONY : CH_code/ch5/HW_5_4.c.i
 
-ch5/HW_5_4.s: ch5/HW_5_4.c.s
-.PHONY : ch5/HW_5_4.s
+CH_code/ch5/HW_5_4.s: CH_code/ch5/HW_5_4.c.s
+.PHONY : CH_code/ch5/HW_5_4.s
 
 # target to generate assembly for a file
-ch5/HW_5_4.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_4.dir\build.make CMakeFiles/HW_5_4.dir/ch5/HW_5_4.c.s
-.PHONY : ch5/HW_5_4.c.s
+CH_code/ch5/HW_5_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW_5_4.dir\build.make CMakeFiles/HW_5_4.dir/CH_code/ch5/HW_5_4.c.s
+.PHONY : CH_code/ch5/HW_5_4.c.s
 
-ch6/6_1.obj: ch6/6_1.c.obj
-.PHONY : ch6/6_1.obj
+CH_code/ch6/6_1.obj: CH_code/ch6/6_1.c.obj
+.PHONY : CH_code/ch6/6_1.obj
 
 # target to build an object file
-ch6/6_1.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_1.dir\build.make CMakeFiles/6_1.dir/ch6/6_1.c.obj
-.PHONY : ch6/6_1.c.obj
+CH_code/ch6/6_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_1.dir\build.make CMakeFiles/6_1.dir/CH_code/ch6/6_1.c.obj
+.PHONY : CH_code/ch6/6_1.c.obj
 
-ch6/6_1.i: ch6/6_1.c.i
-.PHONY : ch6/6_1.i
+CH_code/ch6/6_1.i: CH_code/ch6/6_1.c.i
+.PHONY : CH_code/ch6/6_1.i
 
 # target to preprocess a source file
-ch6/6_1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_1.dir\build.make CMakeFiles/6_1.dir/ch6/6_1.c.i
-.PHONY : ch6/6_1.c.i
+CH_code/ch6/6_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_1.dir\build.make CMakeFiles/6_1.dir/CH_code/ch6/6_1.c.i
+.PHONY : CH_code/ch6/6_1.c.i
 
-ch6/6_1.s: ch6/6_1.c.s
-.PHONY : ch6/6_1.s
+CH_code/ch6/6_1.s: CH_code/ch6/6_1.c.s
+.PHONY : CH_code/ch6/6_1.s
 
 # target to generate assembly for a file
-ch6/6_1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_1.dir\build.make CMakeFiles/6_1.dir/ch6/6_1.c.s
-.PHONY : ch6/6_1.c.s
+CH_code/ch6/6_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_1.dir\build.make CMakeFiles/6_1.dir/CH_code/ch6/6_1.c.s
+.PHONY : CH_code/ch6/6_1.c.s
 
-ch6/6_7.obj: ch6/6_7.c.obj
-.PHONY : ch6/6_7.obj
+CH_code/ch6/6_7.obj: CH_code/ch6/6_7.c.obj
+.PHONY : CH_code/ch6/6_7.obj
 
 # target to build an object file
-ch6/6_7.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_7.dir\build.make CMakeFiles/6_7.dir/ch6/6_7.c.obj
-.PHONY : ch6/6_7.c.obj
+CH_code/ch6/6_7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_7.dir\build.make CMakeFiles/6_7.dir/CH_code/ch6/6_7.c.obj
+.PHONY : CH_code/ch6/6_7.c.obj
 
-ch6/6_7.i: ch6/6_7.c.i
-.PHONY : ch6/6_7.i
+CH_code/ch6/6_7.i: CH_code/ch6/6_7.c.i
+.PHONY : CH_code/ch6/6_7.i
 
 # target to preprocess a source file
-ch6/6_7.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_7.dir\build.make CMakeFiles/6_7.dir/ch6/6_7.c.i
-.PHONY : ch6/6_7.c.i
+CH_code/ch6/6_7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_7.dir\build.make CMakeFiles/6_7.dir/CH_code/ch6/6_7.c.i
+.PHONY : CH_code/ch6/6_7.c.i
 
-ch6/6_7.s: ch6/6_7.c.s
-.PHONY : ch6/6_7.s
+CH_code/ch6/6_7.s: CH_code/ch6/6_7.c.s
+.PHONY : CH_code/ch6/6_7.s
 
 # target to generate assembly for a file
-ch6/6_7.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_7.dir\build.make CMakeFiles/6_7.dir/ch6/6_7.c.s
-.PHONY : ch6/6_7.c.s
+CH_code/ch6/6_7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_7.dir\build.make CMakeFiles/6_7.dir/CH_code/ch6/6_7.c.s
+.PHONY : CH_code/ch6/6_7.c.s
 
 main.obj: main.c.obj
 .PHONY : main.obj
@@ -1774,132 +1774,132 @@ help:
 	@echo ... program4_7
 	@echo ... program4_8
 	@echo ... program4_9
-	@echo ... ch2/2_3.obj
-	@echo ... ch2/2_3.i
-	@echo ... ch2/2_3.s
-	@echo ... ch2/2_4.obj
-	@echo ... ch2/2_4.i
-	@echo ... ch2/2_4.s
-	@echo ... ch2/2_5.obj
-	@echo ... ch2/2_5.i
-	@echo ... ch2/2_5.s
-	@echo ... ch3/3_1.obj
-	@echo ... ch3/3_1.i
-	@echo ... ch3/3_1.s
-	@echo ... ch3/3_2.obj
-	@echo ... ch3/3_2.i
-	@echo ... ch3/3_2.s
-	@echo ... ch3/3_3.obj
-	@echo ... ch3/3_3.i
-	@echo ... ch3/3_3.s
-	@echo ... ch3/3_4.obj
-	@echo ... ch3/3_4.i
-	@echo ... ch3/3_4.s
-	@echo ... ch3/3_5.obj
-	@echo ... ch3/3_5.i
-	@echo ... ch3/3_5.s
-	@echo ... ch3/3_6.obj
-	@echo ... ch3/3_6.i
-	@echo ... ch3/3_6.s
-	@echo ... ch3/3_7.obj
-	@echo ... ch3/3_7.i
-	@echo ... ch3/3_7.s
-	@echo ... ch3/3_8.obj
-	@echo ... ch3/3_8.i
-	@echo ... ch3/3_8.s
-	@echo ... ch3/3_9.obj
-	@echo ... ch3/3_9.i
-	@echo ... ch3/3_9.s
-	@echo ... ch4/HW4_1.obj
-	@echo ... ch4/HW4_1.i
-	@echo ... ch4/HW4_1.s
-	@echo ... ch4/HW4_1_commet.obj
-	@echo ... ch4/HW4_1_commet.i
-	@echo ... ch4/HW4_1_commet.s
-	@echo ... ch4/HW4_2.obj
-	@echo ... ch4/HW4_2.i
-	@echo ... ch4/HW4_2.s
-	@echo ... ch4/HW4_3.obj
-	@echo ... ch4/HW4_3.i
-	@echo ... ch4/HW4_3.s
-	@echo ... ch4/HW4_4.obj
-	@echo ... ch4/HW4_4.i
-	@echo ... ch4/HW4_4.s
-	@echo ... ch4/HW4_4_comment.obj
-	@echo ... ch4/HW4_4_comment.i
-	@echo ... ch4/HW4_4_comment.s
-	@echo ... ch4/factorial_int_c.obj
-	@echo ... ch4/factorial_int_c.i
-	@echo ... ch4/factorial_int_c.s
-	@echo ... ch4/program4_1.obj
-	@echo ... ch4/program4_1.i
-	@echo ... ch4/program4_1.s
-	@echo ... ch4/program4_2.obj
-	@echo ... ch4/program4_2.i
-	@echo ... ch4/program4_2.s
-	@echo ... ch4/program4_3.obj
-	@echo ... ch4/program4_3.i
-	@echo ... ch4/program4_3.s
-	@echo ... ch4/program4_4.obj
-	@echo ... ch4/program4_4.i
-	@echo ... ch4/program4_4.s
-	@echo ... ch4/program4_5.obj
-	@echo ... ch4/program4_5.i
-	@echo ... ch4/program4_5.s
-	@echo ... ch4/program4_6.obj
-	@echo ... ch4/program4_6.i
-	@echo ... ch4/program4_6.s
-	@echo ... ch4/program4_7.obj
-	@echo ... ch4/program4_7.i
-	@echo ... ch4/program4_7.s
-	@echo ... ch4/program4_8.obj
-	@echo ... ch4/program4_8.i
-	@echo ... ch4/program4_8.s
-	@echo ... ch4/program4_9.obj
-	@echo ... ch4/program4_9.i
-	@echo ... ch4/program4_9.s
-	@echo ... ch5/5_1.obj
-	@echo ... ch5/5_1.i
-	@echo ... ch5/5_1.s
-	@echo ... ch5/5_3.obj
-	@echo ... ch5/5_3.i
-	@echo ... ch5/5_3.s
-	@echo ... ch5/5_4.obj
-	@echo ... ch5/5_4.i
-	@echo ... ch5/5_4.s
-	@echo ... ch5/5_5.obj
-	@echo ... ch5/5_5.i
-	@echo ... ch5/5_5.s
-	@echo ... ch5/HW5_1.obj
-	@echo ... ch5/HW5_1.i
-	@echo ... ch5/HW5_1.s
-	@echo ... ch5/HW5_2.obj
-	@echo ... ch5/HW5_2.i
-	@echo ... ch5/HW5_2.s
-	@echo ... ch5/HW5_3.obj
-	@echo ... ch5/HW5_3.i
-	@echo ... ch5/HW5_3.s
-	@echo ... ch5/HW5_4.obj
-	@echo ... ch5/HW5_4.i
-	@echo ... ch5/HW5_4.s
-	@echo ... ch5/HW5_5.obj
-	@echo ... ch5/HW5_5.i
-	@echo ... ch5/HW5_5.s
-	@echo ... ch5/HW_5_2.obj
-	@echo ... ch5/HW_5_2.i
-	@echo ... ch5/HW_5_2.s
-	@echo ... ch5/HW_5_3.obj
-	@echo ... ch5/HW_5_3.i
-	@echo ... ch5/HW_5_3.s
-	@echo ... ch5/HW_5_4.obj
-	@echo ... ch5/HW_5_4.i
-	@echo ... ch5/HW_5_4.s
-	@echo ... ch6/6_1.obj
-	@echo ... ch6/6_1.i
-	@echo ... ch6/6_1.s
-	@echo ... ch6/6_7.obj
-	@echo ... ch6/6_7.i
-	@echo ... ch6/6_7.s
+	@echo ... CH_code/ch2/2_3.obj
+	@echo ... CH_code/ch2/2_3.i
+	@echo ... CH_code/ch2/2_3.s
+	@echo ... CH_code/ch2/2_4.obj
+	@echo ... CH_code/ch2/2_4.i
+	@echo ... CH_code/ch2/2_4.s
+	@echo ... CH_code/ch2/2_5.obj
+	@echo ... CH_code/ch2/2_5.i
+	@echo ... CH_code/ch2/2_5.s
+	@echo ... CH_code/ch3/3_1.obj
+	@echo ... CH_code/ch3/3_1.i
+	@echo ... CH_code/ch3/3_1.s
+	@echo ... CH_code/ch3/3_2.obj
+	@echo ... CH_code/ch3/3_2.i
+	@echo ... CH_code/ch3/3_2.s
+	@echo ... CH_code/ch3/3_3.obj
+	@echo ... CH_code/ch3/3_3.i
+	@echo ... CH_code/ch3/3_3.s
+	@echo ... CH_code/ch3/3_4.obj
+	@echo ... CH_code/ch3/3_4.i
+	@echo ... CH_code/ch3/3_4.s
+	@echo ... CH_code/ch3/3_5.obj
+	@echo ... CH_code/ch3/3_5.i
+	@echo ... CH_code/ch3/3_5.s
+	@echo ... CH_code/ch3/3_6.obj
+	@echo ... CH_code/ch3/3_6.i
+	@echo ... CH_code/ch3/3_6.s
+	@echo ... CH_code/ch3/3_7.obj
+	@echo ... CH_code/ch3/3_7.i
+	@echo ... CH_code/ch3/3_7.s
+	@echo ... CH_code/ch3/3_8.obj
+	@echo ... CH_code/ch3/3_8.i
+	@echo ... CH_code/ch3/3_8.s
+	@echo ... CH_code/ch3/3_9.obj
+	@echo ... CH_code/ch3/3_9.i
+	@echo ... CH_code/ch3/3_9.s
+	@echo ... CH_code/ch4/HW4_1.obj
+	@echo ... CH_code/ch4/HW4_1.i
+	@echo ... CH_code/ch4/HW4_1.s
+	@echo ... CH_code/ch4/HW4_1_commet.obj
+	@echo ... CH_code/ch4/HW4_1_commet.i
+	@echo ... CH_code/ch4/HW4_1_commet.s
+	@echo ... CH_code/ch4/HW4_2.obj
+	@echo ... CH_code/ch4/HW4_2.i
+	@echo ... CH_code/ch4/HW4_2.s
+	@echo ... CH_code/ch4/HW4_3.obj
+	@echo ... CH_code/ch4/HW4_3.i
+	@echo ... CH_code/ch4/HW4_3.s
+	@echo ... CH_code/ch4/HW4_4.obj
+	@echo ... CH_code/ch4/HW4_4.i
+	@echo ... CH_code/ch4/HW4_4.s
+	@echo ... CH_code/ch4/HW4_4_comment.obj
+	@echo ... CH_code/ch4/HW4_4_comment.i
+	@echo ... CH_code/ch4/HW4_4_comment.s
+	@echo ... CH_code/ch4/factorial_int_c.obj
+	@echo ... CH_code/ch4/factorial_int_c.i
+	@echo ... CH_code/ch4/factorial_int_c.s
+	@echo ... CH_code/ch4/program4_1.obj
+	@echo ... CH_code/ch4/program4_1.i
+	@echo ... CH_code/ch4/program4_1.s
+	@echo ... CH_code/ch4/program4_2.obj
+	@echo ... CH_code/ch4/program4_2.i
+	@echo ... CH_code/ch4/program4_2.s
+	@echo ... CH_code/ch4/program4_3.obj
+	@echo ... CH_code/ch4/program4_3.i
+	@echo ... CH_code/ch4/program4_3.s
+	@echo ... CH_code/ch4/program4_4.obj
+	@echo ... CH_code/ch4/program4_4.i
+	@echo ... CH_code/ch4/program4_4.s
+	@echo ... CH_code/ch4/program4_5.obj
+	@echo ... CH_code/ch4/program4_5.i
+	@echo ... CH_code/ch4/program4_5.s
+	@echo ... CH_code/ch4/program4_6.obj
+	@echo ... CH_code/ch4/program4_6.i
+	@echo ... CH_code/ch4/program4_6.s
+	@echo ... CH_code/ch4/program4_7.obj
+	@echo ... CH_code/ch4/program4_7.i
+	@echo ... CH_code/ch4/program4_7.s
+	@echo ... CH_code/ch4/program4_8.obj
+	@echo ... CH_code/ch4/program4_8.i
+	@echo ... CH_code/ch4/program4_8.s
+	@echo ... CH_code/ch4/program4_9.obj
+	@echo ... CH_code/ch4/program4_9.i
+	@echo ... CH_code/ch4/program4_9.s
+	@echo ... CH_code/ch5/5_1.obj
+	@echo ... CH_code/ch5/5_1.i
+	@echo ... CH_code/ch5/5_1.s
+	@echo ... CH_code/ch5/5_3.obj
+	@echo ... CH_code/ch5/5_3.i
+	@echo ... CH_code/ch5/5_3.s
+	@echo ... CH_code/ch5/5_4.obj
+	@echo ... CH_code/ch5/5_4.i
+	@echo ... CH_code/ch5/5_4.s
+	@echo ... CH_code/ch5/5_5.obj
+	@echo ... CH_code/ch5/5_5.i
+	@echo ... CH_code/ch5/5_5.s
+	@echo ... CH_code/ch5/HW5_1.obj
+	@echo ... CH_code/ch5/HW5_1.i
+	@echo ... CH_code/ch5/HW5_1.s
+	@echo ... CH_code/ch5/HW5_2.obj
+	@echo ... CH_code/ch5/HW5_2.i
+	@echo ... CH_code/ch5/HW5_2.s
+	@echo ... CH_code/ch5/HW5_3.obj
+	@echo ... CH_code/ch5/HW5_3.i
+	@echo ... CH_code/ch5/HW5_3.s
+	@echo ... CH_code/ch5/HW5_4.obj
+	@echo ... CH_code/ch5/HW5_4.i
+	@echo ... CH_code/ch5/HW5_4.s
+	@echo ... CH_code/ch5/HW5_5.obj
+	@echo ... CH_code/ch5/HW5_5.i
+	@echo ... CH_code/ch5/HW5_5.s
+	@echo ... CH_code/ch5/HW_5_2.obj
+	@echo ... CH_code/ch5/HW_5_2.i
+	@echo ... CH_code/ch5/HW_5_2.s
+	@echo ... CH_code/ch5/HW_5_3.obj
+	@echo ... CH_code/ch5/HW_5_3.i
+	@echo ... CH_code/ch5/HW_5_3.s
+	@echo ... CH_code/ch5/HW_5_4.obj
+	@echo ... CH_code/ch5/HW_5_4.i
+	@echo ... CH_code/ch5/HW_5_4.s
+	@echo ... CH_code/ch6/6_1.obj
+	@echo ... CH_code/ch6/6_1.i
+	@echo ... CH_code/ch6/6_1.s
+	@echo ... CH_code/ch6/6_7.obj
+	@echo ... CH_code/ch6/6_7.i
+	@echo ... CH_code/ch6/6_7.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

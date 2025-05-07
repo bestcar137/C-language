@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj"
-  "CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj.d"
+  "CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj"
+  "CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj.d"
   "factorial_int_c.exe"
   "factorial_int_c.exe.manifest"
   "factorial_int_c.pdb"

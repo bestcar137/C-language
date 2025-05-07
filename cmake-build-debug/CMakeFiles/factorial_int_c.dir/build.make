@@ -71,28 +71,28 @@ include CMakeFiles/factorial_int_c.dir/flags.make
 CMakeFiles/factorial_int_c.dir/codegen:
 .PHONY : CMakeFiles/factorial_int_c.dir/codegen
 
-CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj: CMakeFiles/factorial_int_c.dir/flags.make
-CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj: C:/Users/bestc/CLionProjects/C-language/ch4/factorial_int_c.c
-CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj: CMakeFiles/factorial_int_c.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj -MF CMakeFiles\factorial_int_c.dir\ch4\factorial_int_c.c.obj.d -o CMakeFiles\factorial_int_c.dir\ch4\factorial_int_c.c.obj -c C:\Users\bestc\CLionProjects\C-language\ch4\factorial_int_c.c
+CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj: CMakeFiles/factorial_int_c.dir/flags.make
+CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj: C:/Users/bestc/CLionProjects/C-language/CH_code/ch4/factorial_int_c.c
+CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj: CMakeFiles/factorial_int_c.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj -MF CMakeFiles\factorial_int_c.dir\CH_code\ch4\factorial_int_c.c.obj.d -o CMakeFiles\factorial_int_c.dir\CH_code\ch4\factorial_int_c.c.obj -c C:\Users\bestc\CLionProjects\C-language\CH_code\ch4\factorial_int_c.c
 
-CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bestc\CLionProjects\C-language\ch4\factorial_int_c.c > CMakeFiles\factorial_int_c.dir\ch4\factorial_int_c.c.i
+CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.i"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bestc\CLionProjects\C-language\CH_code\ch4\factorial_int_c.c > CMakeFiles\factorial_int_c.dir\CH_code\ch4\factorial_int_c.c.i
 
-CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bestc\CLionProjects\C-language\ch4\factorial_int_c.c -o CMakeFiles\factorial_int_c.dir\ch4\factorial_int_c.c.s
+CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.s"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bestc\CLionProjects\C-language\CH_code\ch4\factorial_int_c.c -o CMakeFiles\factorial_int_c.dir\CH_code\ch4\factorial_int_c.c.s
 
 # Object files for target factorial_int_c
 factorial_int_c_OBJECTS = \
-"CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj"
+"CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj"
 
 # External object files for target factorial_int_c
 factorial_int_c_EXTERNAL_OBJECTS =
 
-factorial_int_c.exe: CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj
+factorial_int_c.exe: CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj
 factorial_int_c.exe: CMakeFiles/factorial_int_c.dir/build.make
 factorial_int_c.exe: CMakeFiles/factorial_int_c.dir/linkLibs.rsp
 factorial_int_c.exe: CMakeFiles/factorial_int_c.dir/objects1.rsp

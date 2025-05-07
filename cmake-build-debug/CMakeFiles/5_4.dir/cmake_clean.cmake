@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "5_4.exe"
   "5_4.exe.manifest"
   "5_4.pdb"
-  "CMakeFiles/5_4.dir/ch5/5_4.c.obj"
-  "CMakeFiles/5_4.dir/ch5/5_4.c.obj.d"
+  "CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.obj"
+  "CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.obj.d"
   "lib5_4.dll.a"
 )
 

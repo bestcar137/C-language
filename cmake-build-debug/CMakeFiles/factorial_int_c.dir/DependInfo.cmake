@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/bestc/CLionProjects/C-language/ch4/factorial_int_c.c" "CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj" "gcc" "CMakeFiles/factorial_int_c.dir/ch4/factorial_int_c.c.obj.d"
+  "C:/Users/bestc/CLionProjects/C-language/CH_code/ch4/factorial_int_c.c" "CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj" "gcc" "CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

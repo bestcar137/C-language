@@ -71,28 +71,28 @@ include CMakeFiles/5_4.dir/flags.make
 CMakeFiles/5_4.dir/codegen:
 .PHONY : CMakeFiles/5_4.dir/codegen
 
-CMakeFiles/5_4.dir/ch5/5_4.c.obj: CMakeFiles/5_4.dir/flags.make
-CMakeFiles/5_4.dir/ch5/5_4.c.obj: C:/Users/bestc/CLionProjects/C-language/ch5/5_4.c
-CMakeFiles/5_4.dir/ch5/5_4.c.obj: CMakeFiles/5_4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/5_4.dir/ch5/5_4.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/5_4.dir/ch5/5_4.c.obj -MF CMakeFiles\5_4.dir\ch5\5_4.c.obj.d -o CMakeFiles\5_4.dir\ch5\5_4.c.obj -c C:\Users\bestc\CLionProjects\C-language\ch5\5_4.c
+CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.obj: CMakeFiles/5_4.dir/flags.make
+CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.obj: C:/Users/bestc/CLionProjects/C-language/CH_code/ch5/5_4.c
+CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.obj: CMakeFiles/5_4.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.obj"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.obj -MF CMakeFiles\5_4.dir\CH_code\ch5\5_4.c.obj.d -o CMakeFiles\5_4.dir\CH_code\ch5\5_4.c.obj -c C:\Users\bestc\CLionProjects\C-language\CH_code\ch5\5_4.c
 
-CMakeFiles/5_4.dir/ch5/5_4.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/5_4.dir/ch5/5_4.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bestc\CLionProjects\C-language\ch5\5_4.c > CMakeFiles\5_4.dir\ch5\5_4.c.i
+CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.i"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bestc\CLionProjects\C-language\CH_code\ch5\5_4.c > CMakeFiles\5_4.dir\CH_code\ch5\5_4.c.i
 
-CMakeFiles/5_4.dir/ch5/5_4.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/5_4.dir/ch5/5_4.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bestc\CLionProjects\C-language\ch5\5_4.c -o CMakeFiles\5_4.dir\ch5\5_4.c.s
+CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.s"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bestc\CLionProjects\C-language\CH_code\ch5\5_4.c -o CMakeFiles\5_4.dir\CH_code\ch5\5_4.c.s
 
 # Object files for target 5_4
 5_4_OBJECTS = \
-"CMakeFiles/5_4.dir/ch5/5_4.c.obj"
+"CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.obj"
 
 # External object files for target 5_4
 5_4_EXTERNAL_OBJECTS =
 
-5_4.exe: CMakeFiles/5_4.dir/ch5/5_4.c.obj
+5_4.exe: CMakeFiles/5_4.dir/CH_code/ch5/5_4.c.obj
 5_4.exe: CMakeFiles/5_4.dir/build.make
 5_4.exe: CMakeFiles/5_4.dir/linkLibs.rsp
 5_4.exe: CMakeFiles/5_4.dir/objects1.rsp

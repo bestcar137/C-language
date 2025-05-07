@@ -71,28 +71,28 @@ include CMakeFiles/HW4_1.dir/flags.make
 CMakeFiles/HW4_1.dir/codegen:
 .PHONY : CMakeFiles/HW4_1.dir/codegen
 
-CMakeFiles/HW4_1.dir/ch4/HW4_1.c.obj: CMakeFiles/HW4_1.dir/flags.make
-CMakeFiles/HW4_1.dir/ch4/HW4_1.c.obj: C:/Users/bestc/CLionProjects/C-language/ch4/HW4_1.c
-CMakeFiles/HW4_1.dir/ch4/HW4_1.c.obj: CMakeFiles/HW4_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/HW4_1.dir/ch4/HW4_1.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HW4_1.dir/ch4/HW4_1.c.obj -MF CMakeFiles\HW4_1.dir\ch4\HW4_1.c.obj.d -o CMakeFiles\HW4_1.dir\ch4\HW4_1.c.obj -c C:\Users\bestc\CLionProjects\C-language\ch4\HW4_1.c
+CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.obj: CMakeFiles/HW4_1.dir/flags.make
+CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.obj: C:/Users/bestc/CLionProjects/C-language/CH_code/ch4/HW4_1.c
+CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.obj: CMakeFiles/HW4_1.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.obj"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.obj -MF CMakeFiles\HW4_1.dir\CH_code\ch4\HW4_1.c.obj.d -o CMakeFiles\HW4_1.dir\CH_code\ch4\HW4_1.c.obj -c C:\Users\bestc\CLionProjects\C-language\CH_code\ch4\HW4_1.c
 
-CMakeFiles/HW4_1.dir/ch4/HW4_1.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/HW4_1.dir/ch4/HW4_1.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bestc\CLionProjects\C-language\ch4\HW4_1.c > CMakeFiles\HW4_1.dir\ch4\HW4_1.c.i
+CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.i"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bestc\CLionProjects\C-language\CH_code\ch4\HW4_1.c > CMakeFiles\HW4_1.dir\CH_code\ch4\HW4_1.c.i
 
-CMakeFiles/HW4_1.dir/ch4/HW4_1.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/HW4_1.dir/ch4/HW4_1.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bestc\CLionProjects\C-language\ch4\HW4_1.c -o CMakeFiles\HW4_1.dir\ch4\HW4_1.c.s
+CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.s"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bestc\CLionProjects\C-language\CH_code\ch4\HW4_1.c -o CMakeFiles\HW4_1.dir\CH_code\ch4\HW4_1.c.s
 
 # Object files for target HW4_1
 HW4_1_OBJECTS = \
-"CMakeFiles/HW4_1.dir/ch4/HW4_1.c.obj"
+"CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.obj"
 
 # External object files for target HW4_1
 HW4_1_EXTERNAL_OBJECTS =
 
-HW4_1.exe: CMakeFiles/HW4_1.dir/ch4/HW4_1.c.obj
+HW4_1.exe: CMakeFiles/HW4_1.dir/CH_code/ch4/HW4_1.c.obj
 HW4_1.exe: CMakeFiles/HW4_1.dir/build.make
 HW4_1.exe: CMakeFiles/HW4_1.dir/linkLibs.rsp
 HW4_1.exe: CMakeFiles/HW4_1.dir/objects1.rsp
