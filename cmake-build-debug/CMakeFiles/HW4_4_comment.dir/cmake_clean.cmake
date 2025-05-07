@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/HW4_4_comment.dir/HW4_4_comment.c.obj"
-  "CMakeFiles/HW4_4_comment.dir/HW4_4_comment.c.obj.d"
+  "CMakeFiles/HW4_4_comment.dir/ch4/HW4_4_comment.c.obj"
+  "CMakeFiles/HW4_4_comment.dir/ch4/HW4_4_comment.c.obj.d"
   "HW4_4_comment.exe"
   "HW4_4_comment.exe.manifest"
   "HW4_4_comment.pdb"

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/HW5_4.dir/HW5_4.c.obj"
-  "CMakeFiles/HW5_4.dir/HW5_4.c.obj.d"
+  "CMakeFiles/HW5_4.dir/ch5/HW5_4.c.obj"
+  "CMakeFiles/HW5_4.dir/ch5/HW5_4.c.obj.d"
   "HW5_4.exe"
   "HW5_4.exe.manifest"
   "HW5_4.pdb"

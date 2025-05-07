@@ -71,28 +71,28 @@ include CMakeFiles/3_7.dir/flags.make
 CMakeFiles/3_7.dir/codegen:
 .PHONY : CMakeFiles/3_7.dir/codegen
 
-CMakeFiles/3_7.dir/3_7.c.obj: CMakeFiles/3_7.dir/flags.make
-CMakeFiles/3_7.dir/3_7.c.obj: C:/Users/bestc/CLionProjects/C-language/3_7.c
-CMakeFiles/3_7.dir/3_7.c.obj: CMakeFiles/3_7.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/3_7.dir/3_7.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/3_7.dir/3_7.c.obj -MF CMakeFiles\3_7.dir\3_7.c.obj.d -o CMakeFiles\3_7.dir\3_7.c.obj -c C:\Users\bestc\CLionProjects\C-language\3_7.c
+CMakeFiles/3_7.dir/ch3/3_7.c.obj: CMakeFiles/3_7.dir/flags.make
+CMakeFiles/3_7.dir/ch3/3_7.c.obj: C:/Users/bestc/CLionProjects/C-language/ch3/3_7.c
+CMakeFiles/3_7.dir/ch3/3_7.c.obj: CMakeFiles/3_7.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/3_7.dir/ch3/3_7.c.obj"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/3_7.dir/ch3/3_7.c.obj -MF CMakeFiles\3_7.dir\ch3\3_7.c.obj.d -o CMakeFiles\3_7.dir\ch3\3_7.c.obj -c C:\Users\bestc\CLionProjects\C-language\ch3\3_7.c
 
-CMakeFiles/3_7.dir/3_7.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/3_7.dir/3_7.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bestc\CLionProjects\C-language\3_7.c > CMakeFiles\3_7.dir\3_7.c.i
+CMakeFiles/3_7.dir/ch3/3_7.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/3_7.dir/ch3/3_7.c.i"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bestc\CLionProjects\C-language\ch3\3_7.c > CMakeFiles\3_7.dir\ch3\3_7.c.i
 
-CMakeFiles/3_7.dir/3_7.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/3_7.dir/3_7.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bestc\CLionProjects\C-language\3_7.c -o CMakeFiles\3_7.dir\3_7.c.s
+CMakeFiles/3_7.dir/ch3/3_7.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/3_7.dir/ch3/3_7.c.s"
+	"C:\PROGRA~1\JetBrains\CLion 2025.1\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bestc\CLionProjects\C-language\ch3\3_7.c -o CMakeFiles\3_7.dir\ch3\3_7.c.s
 
 # Object files for target 3_7
 3_7_OBJECTS = \
-"CMakeFiles/3_7.dir/3_7.c.obj"
+"CMakeFiles/3_7.dir/ch3/3_7.c.obj"
 
 # External object files for target 3_7
 3_7_EXTERNAL_OBJECTS =
 
-3_7.exe: CMakeFiles/3_7.dir/3_7.c.obj
+3_7.exe: CMakeFiles/3_7.dir/ch3/3_7.c.obj
 3_7.exe: CMakeFiles/3_7.dir/build.make
 3_7.exe: CMakeFiles/3_7.dir/linkLibs.rsp
 3_7.exe: CMakeFiles/3_7.dir/objects1.rsp

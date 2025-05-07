@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C_language.dir/HW4_4.c.obj"
-  "CMakeFiles/C_language.dir/HW4_4.c.obj.d"
   "CMakeFiles/C_language.dir/main.c.obj"
   "CMakeFiles/C_language.dir/main.c.obj.d"
   "C_language.exe"
