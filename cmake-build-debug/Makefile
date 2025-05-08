@@ -687,6 +687,43 @@ ch4_factorial_int_c/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/build
 .PHONY : ch4_factorial_int_c/fast
 
+#=============================================================================
+# Target rules for targets named CH_code_ch07_HW7_1
+
+# Build rule for target.
+CH_code_ch07_HW7_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CH_code_ch07_HW7_1
+.PHONY : CH_code_ch07_HW7_1
+
+# fast build rule for target.
+CH_code_ch07_HW7_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/build
+.PHONY : CH_code_ch07_HW7_1/fast
+
+CH_code/ch07/HW7_1.obj: CH_code/ch07/HW7_1.c.obj
+.PHONY : CH_code/ch07/HW7_1.obj
+
+# target to build an object file
+CH_code/ch07/HW7_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_1.c.obj
+.PHONY : CH_code/ch07/HW7_1.c.obj
+
+CH_code/ch07/HW7_1.i: CH_code/ch07/HW7_1.c.i
+.PHONY : CH_code/ch07/HW7_1.i
+
+# target to preprocess a source file
+CH_code/ch07/HW7_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_1.c.i
+.PHONY : CH_code/ch07/HW7_1.c.i
+
+CH_code/ch07/HW7_1.s: CH_code/ch07/HW7_1.c.s
+.PHONY : CH_code/ch07/HW7_1.s
+
+# target to generate assembly for a file
+CH_code/ch07/HW7_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_1.c.s
+.PHONY : CH_code/ch07/HW7_1.c.s
+
 CH_code/ch2/2_3.obj: CH_code/ch2/2_3.c.obj
 .PHONY : CH_code/ch2/2_3.obj
 
@@ -1748,6 +1785,7 @@ help:
 	@echo ... 5_5
 	@echo ... 6_1
 	@echo ... 6_7
+	@echo ... CH_code_ch07_HW7_1
 	@echo ... C_language
 	@echo ... HW4_1
 	@echo ... HW4_1_comment
@@ -1774,6 +1812,9 @@ help:
 	@echo ... program4_7
 	@echo ... program4_8
 	@echo ... program4_9
+	@echo ... CH_code/ch07/HW7_1.obj
+	@echo ... CH_code/ch07/HW7_1.i
+	@echo ... CH_code/ch07/HW7_1.s
 	@echo ... CH_code/ch2/2_3.obj
 	@echo ... CH_code/ch2/2_3.i
 	@echo ... CH_code/ch2/2_3.s

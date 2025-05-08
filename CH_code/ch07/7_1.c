@@ -1,3 +1,7 @@
+//원형 연결 리스트의 처음에 삽입
+
+
+/*
 ListNode* insert_first(ListNode* head, element data) {
     ListNode* node = (ListNode *) malloc(sizeof(ListNode));
     node->data = data;
@@ -10,3 +14,4 @@ ListNode* insert_first(ListNode* head, element data) {
     }
     return head;
 }
+*/
