@@ -480,17 +480,17 @@ HW4_4_comment/fast:
 .PHONY : HW4_4_comment/fast
 
 #=============================================================================
-# Target rules for targets named factorial_int_c
+# Target rules for targets named factorial_int
 
 # Build rule for target.
-factorial_int_c: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 factorial_int_c
-.PHONY : factorial_int_c
+factorial_int: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 factorial_int
+.PHONY : factorial_int
 
 # fast build rule for target.
-factorial_int_c/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int_c.dir\build.make CMakeFiles/factorial_int_c.dir/build
-.PHONY : factorial_int_c/fast
+factorial_int/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int.dir\build.make CMakeFiles/factorial_int.dir/build
+.PHONY : factorial_int/fast
 
 #=============================================================================
 # Target rules for targets named 5_1
@@ -675,50 +675,37 @@ HW_5_4/fast:
 .PHONY : 6_7/fast
 
 #=============================================================================
-# Target rules for targets named ch4_factorial_int_c
+# Target rules for targets named HW7_1
 
 # Build rule for target.
-ch4_factorial_int_c: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ch4_factorial_int_c
-.PHONY : ch4_factorial_int_c
+HW7_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 HW7_1
+.PHONY : HW7_1
 
 # fast build rule for target.
-ch4_factorial_int_c/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/build
-.PHONY : ch4_factorial_int_c/fast
+HW7_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW7_1.dir\build.make CMakeFiles/HW7_1.dir/build
+.PHONY : HW7_1/fast
 
 #=============================================================================
-# Target rules for targets named CH_code_ch07_HW7_1
+# Target rules for targets named HW7_2
 
 # Build rule for target.
-CH_code_ch07_HW7_1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CH_code_ch07_HW7_1
-.PHONY : CH_code_ch07_HW7_1
+HW7_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 HW7_2
+.PHONY : HW7_2
 
 # fast build rule for target.
-CH_code_ch07_HW7_1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/build
-.PHONY : CH_code_ch07_HW7_1/fast
-
-#=============================================================================
-# Target rules for targets named CH_code_ch07_HW7_2
-
-# Build rule for target.
-CH_code_ch07_HW7_2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CH_code_ch07_HW7_2
-.PHONY : CH_code_ch07_HW7_2
-
-# fast build rule for target.
-CH_code_ch07_HW7_2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_2.dir\build.make CMakeFiles/CH_code_ch07_HW7_2.dir/build
-.PHONY : CH_code_ch07_HW7_2/fast
+HW7_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW7_2.dir\build.make CMakeFiles/HW7_2.dir/build
+.PHONY : HW7_2/fast
 
 CH_code/ch07/HW7_1.obj: CH_code/ch07/HW7_1.c.obj
 .PHONY : CH_code/ch07/HW7_1.obj
 
 # target to build an object file
 CH_code/ch07/HW7_1.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_1.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW7_1.dir\build.make CMakeFiles/HW7_1.dir/CH_code/ch07/HW7_1.c.obj
 .PHONY : CH_code/ch07/HW7_1.c.obj
 
 CH_code/ch07/HW7_1.i: CH_code/ch07/HW7_1.c.i
@@ -726,7 +713,7 @@ CH_code/ch07/HW7_1.i: CH_code/ch07/HW7_1.c.i
 
 # target to preprocess a source file
 CH_code/ch07/HW7_1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_1.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW7_1.dir\build.make CMakeFiles/HW7_1.dir/CH_code/ch07/HW7_1.c.i
 .PHONY : CH_code/ch07/HW7_1.c.i
 
 CH_code/ch07/HW7_1.s: CH_code/ch07/HW7_1.c.s
@@ -734,7 +721,7 @@ CH_code/ch07/HW7_1.s: CH_code/ch07/HW7_1.c.s
 
 # target to generate assembly for a file
 CH_code/ch07/HW7_1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_1.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW7_1.dir\build.make CMakeFiles/HW7_1.dir/CH_code/ch07/HW7_1.c.s
 .PHONY : CH_code/ch07/HW7_1.c.s
 
 CH_code/ch07/HW7_2.obj: CH_code/ch07/HW7_2.c.obj
@@ -742,8 +729,7 @@ CH_code/ch07/HW7_2.obj: CH_code/ch07/HW7_2.c.obj
 
 # target to build an object file
 CH_code/ch07/HW7_2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_2.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_2.dir\build.make CMakeFiles/CH_code_ch07_HW7_2.dir/CH_code/ch07/HW7_2.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW7_2.dir\build.make CMakeFiles/HW7_2.dir/CH_code/ch07/HW7_2.c.obj
 .PHONY : CH_code/ch07/HW7_2.c.obj
 
 CH_code/ch07/HW7_2.i: CH_code/ch07/HW7_2.c.i
@@ -751,8 +737,7 @@ CH_code/ch07/HW7_2.i: CH_code/ch07/HW7_2.c.i
 
 # target to preprocess a source file
 CH_code/ch07/HW7_2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_2.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_2.dir\build.make CMakeFiles/CH_code_ch07_HW7_2.dir/CH_code/ch07/HW7_2.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW7_2.dir\build.make CMakeFiles/HW7_2.dir/CH_code/ch07/HW7_2.c.i
 .PHONY : CH_code/ch07/HW7_2.c.i
 
 CH_code/ch07/HW7_2.s: CH_code/ch07/HW7_2.c.s
@@ -760,8 +745,7 @@ CH_code/ch07/HW7_2.s: CH_code/ch07/HW7_2.c.s
 
 # target to generate assembly for a file
 CH_code/ch07/HW7_2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_2.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_2.dir\build.make CMakeFiles/CH_code_ch07_HW7_2.dir/CH_code/ch07/HW7_2.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW7_2.dir\build.make CMakeFiles/HW7_2.dir/CH_code/ch07/HW7_2.c.s
 .PHONY : CH_code/ch07/HW7_2.c.s
 
 CH_code/ch2/2_3.obj: CH_code/ch2/2_3.c.obj
@@ -1201,8 +1185,7 @@ CH_code/ch4/factorial_int_c.obj: CH_code/ch4/factorial_int_c.c.obj
 
 # target to build an object file
 CH_code/ch4/factorial_int_c.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int_c.dir\build.make CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int.dir\build.make CMakeFiles/factorial_int.dir/CH_code/ch4/factorial_int_c.c.obj
 .PHONY : CH_code/ch4/factorial_int_c.c.obj
 
 CH_code/ch4/factorial_int_c.i: CH_code/ch4/factorial_int_c.c.i
@@ -1210,8 +1193,7 @@ CH_code/ch4/factorial_int_c.i: CH_code/ch4/factorial_int_c.c.i
 
 # target to preprocess a source file
 CH_code/ch4/factorial_int_c.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int_c.dir\build.make CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int.dir\build.make CMakeFiles/factorial_int.dir/CH_code/ch4/factorial_int_c.c.i
 .PHONY : CH_code/ch4/factorial_int_c.c.i
 
 CH_code/ch4/factorial_int_c.s: CH_code/ch4/factorial_int_c.c.s
@@ -1219,8 +1201,7 @@ CH_code/ch4/factorial_int_c.s: CH_code/ch4/factorial_int_c.c.s
 
 # target to generate assembly for a file
 CH_code/ch4/factorial_int_c.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int_c.dir\build.make CMakeFiles/factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch4_factorial_int_c.dir\build.make CMakeFiles/ch4_factorial_int_c.dir/CH_code/ch4/factorial_int_c.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\factorial_int.dir\build.make CMakeFiles/factorial_int.dir/CH_code/ch4/factorial_int_c.c.s
 .PHONY : CH_code/ch4/factorial_int_c.c.s
 
 CH_code/ch4/program4_1.obj: CH_code/ch4/program4_1.c.obj
@@ -1825,8 +1806,6 @@ help:
 	@echo ... 5_5
 	@echo ... 6_1
 	@echo ... 6_7
-	@echo ... CH_code_ch07_HW7_1
-	@echo ... CH_code_ch07_HW7_2
 	@echo ... C_language
 	@echo ... HW4_1
 	@echo ... HW4_1_comment
@@ -1839,11 +1818,12 @@ help:
 	@echo ... HW5_3
 	@echo ... HW5_4
 	@echo ... HW5_5
+	@echo ... HW7_1
+	@echo ... HW7_2
 	@echo ... HW_5_2
 	@echo ... HW_5_3
 	@echo ... HW_5_4
-	@echo ... ch4_factorial_int_c
-	@echo ... factorial_int_c
+	@echo ... factorial_int
 	@echo ... program4_1
 	@echo ... program4_2
 	@echo ... program4_3
