@@ -72,4 +72,6 @@ add_executable(6_1 CH_code/ch6/6_1.c)
 add_executable(6_7 CH_code/ch6/6_7.c)
 
 add_executable(ch4_factorial_int_c CH_code/ch4/factorial_int_c.c)
-add_executable(CH_code_ch07_HW7_1 CH_code/ch07/HW7_1.c)
+add_executable(CH_code_ch07_HW7_1 CH_code/ch07/HW7_1.c
+        CH_code/ch07/HW7_2.c)
+add_executable(CH_code_ch07_HW7_2 CH_code/ch07/HW7_2.c)

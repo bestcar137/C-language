@@ -700,6 +700,19 @@ CH_code_ch07_HW7_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/build
 .PHONY : CH_code_ch07_HW7_1/fast
 
+#=============================================================================
+# Target rules for targets named CH_code_ch07_HW7_2
+
+# Build rule for target.
+CH_code_ch07_HW7_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CH_code_ch07_HW7_2
+.PHONY : CH_code_ch07_HW7_2
+
+# fast build rule for target.
+CH_code_ch07_HW7_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_2.dir\build.make CMakeFiles/CH_code_ch07_HW7_2.dir/build
+.PHONY : CH_code_ch07_HW7_2/fast
+
 CH_code/ch07/HW7_1.obj: CH_code/ch07/HW7_1.c.obj
 .PHONY : CH_code/ch07/HW7_1.obj
 
@@ -723,6 +736,33 @@ CH_code/ch07/HW7_1.s: CH_code/ch07/HW7_1.c.s
 CH_code/ch07/HW7_1.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_1.c.s
 .PHONY : CH_code/ch07/HW7_1.c.s
+
+CH_code/ch07/HW7_2.obj: CH_code/ch07/HW7_2.c.obj
+.PHONY : CH_code/ch07/HW7_2.obj
+
+# target to build an object file
+CH_code/ch07/HW7_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_2.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_2.dir\build.make CMakeFiles/CH_code_ch07_HW7_2.dir/CH_code/ch07/HW7_2.c.obj
+.PHONY : CH_code/ch07/HW7_2.c.obj
+
+CH_code/ch07/HW7_2.i: CH_code/ch07/HW7_2.c.i
+.PHONY : CH_code/ch07/HW7_2.i
+
+# target to preprocess a source file
+CH_code/ch07/HW7_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_2.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_2.dir\build.make CMakeFiles/CH_code_ch07_HW7_2.dir/CH_code/ch07/HW7_2.c.i
+.PHONY : CH_code/ch07/HW7_2.c.i
+
+CH_code/ch07/HW7_2.s: CH_code/ch07/HW7_2.c.s
+.PHONY : CH_code/ch07/HW7_2.s
+
+# target to generate assembly for a file
+CH_code/ch07/HW7_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_1.dir\build.make CMakeFiles/CH_code_ch07_HW7_1.dir/CH_code/ch07/HW7_2.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch07_HW7_2.dir\build.make CMakeFiles/CH_code_ch07_HW7_2.dir/CH_code/ch07/HW7_2.c.s
+.PHONY : CH_code/ch07/HW7_2.c.s
 
 CH_code/ch2/2_3.obj: CH_code/ch2/2_3.c.obj
 .PHONY : CH_code/ch2/2_3.obj
@@ -1786,6 +1826,7 @@ help:
 	@echo ... 6_1
 	@echo ... 6_7
 	@echo ... CH_code_ch07_HW7_1
+	@echo ... CH_code_ch07_HW7_2
 	@echo ... C_language
 	@echo ... HW4_1
 	@echo ... HW4_1_comment
@@ -1815,6 +1856,9 @@ help:
 	@echo ... CH_code/ch07/HW7_1.obj
 	@echo ... CH_code/ch07/HW7_1.i
 	@echo ... CH_code/ch07/HW7_1.s
+	@echo ... CH_code/ch07/HW7_2.obj
+	@echo ... CH_code/ch07/HW7_2.i
+	@echo ... CH_code/ch07/HW7_2.s
 	@echo ... CH_code/ch2/2_3.obj
 	@echo ... CH_code/ch2/2_3.i
 	@echo ... CH_code/ch2/2_3.s

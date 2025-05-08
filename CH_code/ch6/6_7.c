@@ -5,7 +5,7 @@ typedef int element;
 typedef struct ListNode {
     element data;
     struct ListNode *link;
-} ListNode;
+} Li;
 
 void error(char *message)
 {
@@ -13,27 +13,27 @@ void error(char *message)
     exit(1);
 }
 
-ListNode* insert_first(ListNode *head, int value)
+Li* insert_first(Li *head, int value)
 {
-    ListNode *p = (ListNode *)malloc(sizeof(ListNode));
+    Li *p = (Li *)malloc(sizeof(Li));
     p->data = value;
     p->link = head;
     head = p;
     return head;
 }
 
-ListNode* insert(ListNode *head, ListNode *pre, element value)
+Li* insert(Li *head, Li *pre, element value)
 {
-    ListNode *p = (ListNode *)malloc(sizeof(ListNode));
+    Li *p = (Li *)malloc(sizeof(Li));
     p->data = value;
     p->link = pre->link;
     pre->link = p;
     return head;
 }
 
-ListNode* delete_first(ListNode *head)
+Li* delete_first(Li *head)
 {
-    ListNode *removed;
+    Li *removed;
     if (head == NULL) return NULL;
     removed = head;
     head = head->link;
@@ -41,25 +41,25 @@ ListNode* delete_first(ListNode *head)
     return head;
 }
 
-ListNode* delete(ListNode *head, ListNode *pre)
+Li* delete(Li *head, Li *pre)
 {
-    ListNode *removed;
+    Li *removed;
     removed = pre->link;
     pre->link = removed->link;
     free(removed);
     return head;
 }
 
-void print_list(ListNode *head)
+void print_list(Li *head)
 {
-    for (ListNode *p = head; p != NULL; p = p->link)
+    for (Li *p = head; p != NULL; p = p->link)
         printf("%d->", p->data);
     printf("NULL\n");
 }
 
 int main(void)
 {
-    ListNode *head = NULL;
+    Li *head = NULL;
 
     for (int i = 0; i < 5; i++) {
         head = insert_first(head, i);

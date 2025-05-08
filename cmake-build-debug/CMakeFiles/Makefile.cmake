@@ -95,4 +95,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/6_1.dir/DependInfo.cmake"
   "CMakeFiles/6_7.dir/DependInfo.cmake"
   "CMakeFiles/ch4_factorial_int_c.dir/DependInfo.cmake"
+  "CMakeFiles/CH_code_ch07_HW7_1.dir/DependInfo.cmake"
+  "CMakeFiles/CH_code_ch07_HW7_2.dir/DependInfo.cmake"
   )

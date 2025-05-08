@@ -9,24 +9,24 @@ typedef struct {
 typedef struct ListNode {
     element data;
     struct ListNode *link;
-} ListNode;
+} Li;
 
-ListNode *insert_first(ListNode *head, element value) {
-    ListNode *p = (ListNode *) malloc(sizeof(ListNode));
+Li *insert_first(Li *head, element value) {
+    Li *p = (Li *) malloc(sizeof(Li));
     p->data = value;
     p->link = head;
     head = p;
     return head;
 }
 
-void print_list(ListNode *head) {
-    for (ListNode *p = head; p != NULL; p = p->link)
+void print_list(Li *head) {
+    for (Li *p = head; p != NULL; p = p->link)
         printf("%s->", p->data.name);
     printf("NULL\n");
 }
 
 int main(void) {
-    ListNode *head = NULL;
+    Li *head = NULL;
     element data;
 
     strcpy(data.name, "DCU");
