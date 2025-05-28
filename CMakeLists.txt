@@ -78,3 +78,29 @@ add_executable(6_7               CH_code/ch6/6_7.c)
 # --------------------
 add_executable(HW7_1             CH_code/ch07/HW7_1.c)
 add_executable(HW7_2             CH_code/ch07/HW7_2.c)
+
+# --------------------
+# ch11
+# --------------------
+add_executable(11_7              CH_code/ch11/11_7.c)
+add_executable(11_8              CH_code/ch11/11_8.c)
+add_executable(11_9              CH_code/ch11/11_9.c)
+add_executable(11_10             CH_code/ch11/11_10.c)
+add_executable(11_11             CH_code/ch11/11_11.c)
+add_executable(11_13             CH_code/ch11/11_13.c)
+
+# --------------------
+# ch12
+# --------------------
+add_executable(12_1              CH_code/ch12/12_1.c)
+add_executable(12_2              CH_code/ch12/12_2.c)
+add_executable(12_3              CH_code/ch12/12_3.c)
+add_executable(12_4              CH_code/ch12/12_4.c)
+add_executable(12_5              CH_code/ch12/12_5.c)
+add_executable(12_6              CH_code/ch12/12_6.c)
+add_executable(12_6_1            CH_code/ch12/12_6_1.c)
+add_executable(12_7              CH_code/ch12/12_7.c)
+add_executable(12_8              CH_code/ch12/12_8.c)
+add_executable(12_9              CH_code/ch12/12_9.c)
+add_executable(12_10             CH_code/ch12/12_10.c)
+add_executable(12_11             CH_code/ch12/12_11.c)

@@ -700,6 +700,240 @@ HW7_2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW7_2.dir\build.make CMakeFiles/HW7_2.dir/build
 .PHONY : HW7_2/fast
 
+#=============================================================================
+# Target rules for targets named 11_7
+
+# Build rule for target.
+11_7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 11_7
+.PHONY : 11_7
+
+# fast build rule for target.
+11_7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_7.dir\build.make CMakeFiles/11_7.dir/build
+.PHONY : 11_7/fast
+
+#=============================================================================
+# Target rules for targets named 11_8
+
+# Build rule for target.
+11_8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 11_8
+.PHONY : 11_8
+
+# fast build rule for target.
+11_8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_8.dir\build.make CMakeFiles/11_8.dir/build
+.PHONY : 11_8/fast
+
+#=============================================================================
+# Target rules for targets named 11_9
+
+# Build rule for target.
+11_9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 11_9
+.PHONY : 11_9
+
+# fast build rule for target.
+11_9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_9.dir\build.make CMakeFiles/11_9.dir/build
+.PHONY : 11_9/fast
+
+#=============================================================================
+# Target rules for targets named 11_10
+
+# Build rule for target.
+11_10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 11_10
+.PHONY : 11_10
+
+# fast build rule for target.
+11_10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_10.dir\build.make CMakeFiles/11_10.dir/build
+.PHONY : 11_10/fast
+
+#=============================================================================
+# Target rules for targets named 11_11
+
+# Build rule for target.
+11_11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 11_11
+.PHONY : 11_11
+
+# fast build rule for target.
+11_11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_11.dir\build.make CMakeFiles/11_11.dir/build
+.PHONY : 11_11/fast
+
+#=============================================================================
+# Target rules for targets named 11_13
+
+# Build rule for target.
+11_13: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 11_13
+.PHONY : 11_13
+
+# fast build rule for target.
+11_13/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_13.dir\build.make CMakeFiles/11_13.dir/build
+.PHONY : 11_13/fast
+
+#=============================================================================
+# Target rules for targets named 12_1
+
+# Build rule for target.
+12_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_1
+.PHONY : 12_1
+
+# fast build rule for target.
+12_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_1.dir\build.make CMakeFiles/12_1.dir/build
+.PHONY : 12_1/fast
+
+#=============================================================================
+# Target rules for targets named 12_2
+
+# Build rule for target.
+12_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_2
+.PHONY : 12_2
+
+# fast build rule for target.
+12_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_2.dir\build.make CMakeFiles/12_2.dir/build
+.PHONY : 12_2/fast
+
+#=============================================================================
+# Target rules for targets named 12_3
+
+# Build rule for target.
+12_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_3
+.PHONY : 12_3
+
+# fast build rule for target.
+12_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_3.dir\build.make CMakeFiles/12_3.dir/build
+.PHONY : 12_3/fast
+
+#=============================================================================
+# Target rules for targets named 12_4
+
+# Build rule for target.
+12_4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_4
+.PHONY : 12_4
+
+# fast build rule for target.
+12_4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_4.dir\build.make CMakeFiles/12_4.dir/build
+.PHONY : 12_4/fast
+
+#=============================================================================
+# Target rules for targets named 12_5
+
+# Build rule for target.
+12_5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_5
+.PHONY : 12_5
+
+# fast build rule for target.
+12_5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_5.dir\build.make CMakeFiles/12_5.dir/build
+.PHONY : 12_5/fast
+
+#=============================================================================
+# Target rules for targets named 12_6
+
+# Build rule for target.
+12_6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_6
+.PHONY : 12_6
+
+# fast build rule for target.
+12_6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_6.dir\build.make CMakeFiles/12_6.dir/build
+.PHONY : 12_6/fast
+
+#=============================================================================
+# Target rules for targets named 12_6_1
+
+# Build rule for target.
+12_6_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_6_1
+.PHONY : 12_6_1
+
+# fast build rule for target.
+12_6_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_6_1.dir\build.make CMakeFiles/12_6_1.dir/build
+.PHONY : 12_6_1/fast
+
+#=============================================================================
+# Target rules for targets named 12_7
+
+# Build rule for target.
+12_7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_7
+.PHONY : 12_7
+
+# fast build rule for target.
+12_7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_7.dir\build.make CMakeFiles/12_7.dir/build
+.PHONY : 12_7/fast
+
+#=============================================================================
+# Target rules for targets named 12_8
+
+# Build rule for target.
+12_8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_8
+.PHONY : 12_8
+
+# fast build rule for target.
+12_8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_8.dir\build.make CMakeFiles/12_8.dir/build
+.PHONY : 12_8/fast
+
+#=============================================================================
+# Target rules for targets named 12_9
+
+# Build rule for target.
+12_9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_9
+.PHONY : 12_9
+
+# fast build rule for target.
+12_9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_9.dir\build.make CMakeFiles/12_9.dir/build
+.PHONY : 12_9/fast
+
+#=============================================================================
+# Target rules for targets named 12_10
+
+# Build rule for target.
+12_10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_10
+.PHONY : 12_10
+
+# fast build rule for target.
+12_10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_10.dir\build.make CMakeFiles/12_10.dir/build
+.PHONY : 12_10/fast
+
+#=============================================================================
+# Target rules for targets named 12_11
+
+# Build rule for target.
+12_11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12_11
+.PHONY : 12_11
+
+# fast build rule for target.
+12_11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_11.dir\build.make CMakeFiles/12_11.dir/build
+.PHONY : 12_11/fast
+
 CH_code/ch07/HW7_1.obj: CH_code/ch07/HW7_1.c.obj
 .PHONY : CH_code/ch07/HW7_1.obj
 
@@ -747,6 +981,438 @@ CH_code/ch07/HW7_2.s: CH_code/ch07/HW7_2.c.s
 CH_code/ch07/HW7_2.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW7_2.dir\build.make CMakeFiles/HW7_2.dir/CH_code/ch07/HW7_2.c.s
 .PHONY : CH_code/ch07/HW7_2.c.s
+
+CH_code/ch11/11_10.obj: CH_code/ch11/11_10.c.obj
+.PHONY : CH_code/ch11/11_10.obj
+
+# target to build an object file
+CH_code/ch11/11_10.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_10.dir\build.make CMakeFiles/11_10.dir/CH_code/ch11/11_10.c.obj
+.PHONY : CH_code/ch11/11_10.c.obj
+
+CH_code/ch11/11_10.i: CH_code/ch11/11_10.c.i
+.PHONY : CH_code/ch11/11_10.i
+
+# target to preprocess a source file
+CH_code/ch11/11_10.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_10.dir\build.make CMakeFiles/11_10.dir/CH_code/ch11/11_10.c.i
+.PHONY : CH_code/ch11/11_10.c.i
+
+CH_code/ch11/11_10.s: CH_code/ch11/11_10.c.s
+.PHONY : CH_code/ch11/11_10.s
+
+# target to generate assembly for a file
+CH_code/ch11/11_10.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_10.dir\build.make CMakeFiles/11_10.dir/CH_code/ch11/11_10.c.s
+.PHONY : CH_code/ch11/11_10.c.s
+
+CH_code/ch11/11_11.obj: CH_code/ch11/11_11.c.obj
+.PHONY : CH_code/ch11/11_11.obj
+
+# target to build an object file
+CH_code/ch11/11_11.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_11.dir\build.make CMakeFiles/11_11.dir/CH_code/ch11/11_11.c.obj
+.PHONY : CH_code/ch11/11_11.c.obj
+
+CH_code/ch11/11_11.i: CH_code/ch11/11_11.c.i
+.PHONY : CH_code/ch11/11_11.i
+
+# target to preprocess a source file
+CH_code/ch11/11_11.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_11.dir\build.make CMakeFiles/11_11.dir/CH_code/ch11/11_11.c.i
+.PHONY : CH_code/ch11/11_11.c.i
+
+CH_code/ch11/11_11.s: CH_code/ch11/11_11.c.s
+.PHONY : CH_code/ch11/11_11.s
+
+# target to generate assembly for a file
+CH_code/ch11/11_11.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_11.dir\build.make CMakeFiles/11_11.dir/CH_code/ch11/11_11.c.s
+.PHONY : CH_code/ch11/11_11.c.s
+
+CH_code/ch11/11_13.obj: CH_code/ch11/11_13.c.obj
+.PHONY : CH_code/ch11/11_13.obj
+
+# target to build an object file
+CH_code/ch11/11_13.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_13.dir\build.make CMakeFiles/11_13.dir/CH_code/ch11/11_13.c.obj
+.PHONY : CH_code/ch11/11_13.c.obj
+
+CH_code/ch11/11_13.i: CH_code/ch11/11_13.c.i
+.PHONY : CH_code/ch11/11_13.i
+
+# target to preprocess a source file
+CH_code/ch11/11_13.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_13.dir\build.make CMakeFiles/11_13.dir/CH_code/ch11/11_13.c.i
+.PHONY : CH_code/ch11/11_13.c.i
+
+CH_code/ch11/11_13.s: CH_code/ch11/11_13.c.s
+.PHONY : CH_code/ch11/11_13.s
+
+# target to generate assembly for a file
+CH_code/ch11/11_13.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_13.dir\build.make CMakeFiles/11_13.dir/CH_code/ch11/11_13.c.s
+.PHONY : CH_code/ch11/11_13.c.s
+
+CH_code/ch11/11_7.obj: CH_code/ch11/11_7.c.obj
+.PHONY : CH_code/ch11/11_7.obj
+
+# target to build an object file
+CH_code/ch11/11_7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_7.dir\build.make CMakeFiles/11_7.dir/CH_code/ch11/11_7.c.obj
+.PHONY : CH_code/ch11/11_7.c.obj
+
+CH_code/ch11/11_7.i: CH_code/ch11/11_7.c.i
+.PHONY : CH_code/ch11/11_7.i
+
+# target to preprocess a source file
+CH_code/ch11/11_7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_7.dir\build.make CMakeFiles/11_7.dir/CH_code/ch11/11_7.c.i
+.PHONY : CH_code/ch11/11_7.c.i
+
+CH_code/ch11/11_7.s: CH_code/ch11/11_7.c.s
+.PHONY : CH_code/ch11/11_7.s
+
+# target to generate assembly for a file
+CH_code/ch11/11_7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_7.dir\build.make CMakeFiles/11_7.dir/CH_code/ch11/11_7.c.s
+.PHONY : CH_code/ch11/11_7.c.s
+
+CH_code/ch11/11_8.obj: CH_code/ch11/11_8.c.obj
+.PHONY : CH_code/ch11/11_8.obj
+
+# target to build an object file
+CH_code/ch11/11_8.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_8.dir\build.make CMakeFiles/11_8.dir/CH_code/ch11/11_8.c.obj
+.PHONY : CH_code/ch11/11_8.c.obj
+
+CH_code/ch11/11_8.i: CH_code/ch11/11_8.c.i
+.PHONY : CH_code/ch11/11_8.i
+
+# target to preprocess a source file
+CH_code/ch11/11_8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_8.dir\build.make CMakeFiles/11_8.dir/CH_code/ch11/11_8.c.i
+.PHONY : CH_code/ch11/11_8.c.i
+
+CH_code/ch11/11_8.s: CH_code/ch11/11_8.c.s
+.PHONY : CH_code/ch11/11_8.s
+
+# target to generate assembly for a file
+CH_code/ch11/11_8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_8.dir\build.make CMakeFiles/11_8.dir/CH_code/ch11/11_8.c.s
+.PHONY : CH_code/ch11/11_8.c.s
+
+CH_code/ch11/11_9.obj: CH_code/ch11/11_9.c.obj
+.PHONY : CH_code/ch11/11_9.obj
+
+# target to build an object file
+CH_code/ch11/11_9.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_9.dir\build.make CMakeFiles/11_9.dir/CH_code/ch11/11_9.c.obj
+.PHONY : CH_code/ch11/11_9.c.obj
+
+CH_code/ch11/11_9.i: CH_code/ch11/11_9.c.i
+.PHONY : CH_code/ch11/11_9.i
+
+# target to preprocess a source file
+CH_code/ch11/11_9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_9.dir\build.make CMakeFiles/11_9.dir/CH_code/ch11/11_9.c.i
+.PHONY : CH_code/ch11/11_9.c.i
+
+CH_code/ch11/11_9.s: CH_code/ch11/11_9.c.s
+.PHONY : CH_code/ch11/11_9.s
+
+# target to generate assembly for a file
+CH_code/ch11/11_9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11_9.dir\build.make CMakeFiles/11_9.dir/CH_code/ch11/11_9.c.s
+.PHONY : CH_code/ch11/11_9.c.s
+
+CH_code/ch12/12_1.obj: CH_code/ch12/12_1.c.obj
+.PHONY : CH_code/ch12/12_1.obj
+
+# target to build an object file
+CH_code/ch12/12_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_1.dir\build.make CMakeFiles/12_1.dir/CH_code/ch12/12_1.c.obj
+.PHONY : CH_code/ch12/12_1.c.obj
+
+CH_code/ch12/12_1.i: CH_code/ch12/12_1.c.i
+.PHONY : CH_code/ch12/12_1.i
+
+# target to preprocess a source file
+CH_code/ch12/12_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_1.dir\build.make CMakeFiles/12_1.dir/CH_code/ch12/12_1.c.i
+.PHONY : CH_code/ch12/12_1.c.i
+
+CH_code/ch12/12_1.s: CH_code/ch12/12_1.c.s
+.PHONY : CH_code/ch12/12_1.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_1.dir\build.make CMakeFiles/12_1.dir/CH_code/ch12/12_1.c.s
+.PHONY : CH_code/ch12/12_1.c.s
+
+CH_code/ch12/12_10.obj: CH_code/ch12/12_10.c.obj
+.PHONY : CH_code/ch12/12_10.obj
+
+# target to build an object file
+CH_code/ch12/12_10.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_10.dir\build.make CMakeFiles/12_10.dir/CH_code/ch12/12_10.c.obj
+.PHONY : CH_code/ch12/12_10.c.obj
+
+CH_code/ch12/12_10.i: CH_code/ch12/12_10.c.i
+.PHONY : CH_code/ch12/12_10.i
+
+# target to preprocess a source file
+CH_code/ch12/12_10.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_10.dir\build.make CMakeFiles/12_10.dir/CH_code/ch12/12_10.c.i
+.PHONY : CH_code/ch12/12_10.c.i
+
+CH_code/ch12/12_10.s: CH_code/ch12/12_10.c.s
+.PHONY : CH_code/ch12/12_10.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_10.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_10.dir\build.make CMakeFiles/12_10.dir/CH_code/ch12/12_10.c.s
+.PHONY : CH_code/ch12/12_10.c.s
+
+CH_code/ch12/12_11.obj: CH_code/ch12/12_11.c.obj
+.PHONY : CH_code/ch12/12_11.obj
+
+# target to build an object file
+CH_code/ch12/12_11.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_11.dir\build.make CMakeFiles/12_11.dir/CH_code/ch12/12_11.c.obj
+.PHONY : CH_code/ch12/12_11.c.obj
+
+CH_code/ch12/12_11.i: CH_code/ch12/12_11.c.i
+.PHONY : CH_code/ch12/12_11.i
+
+# target to preprocess a source file
+CH_code/ch12/12_11.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_11.dir\build.make CMakeFiles/12_11.dir/CH_code/ch12/12_11.c.i
+.PHONY : CH_code/ch12/12_11.c.i
+
+CH_code/ch12/12_11.s: CH_code/ch12/12_11.c.s
+.PHONY : CH_code/ch12/12_11.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_11.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_11.dir\build.make CMakeFiles/12_11.dir/CH_code/ch12/12_11.c.s
+.PHONY : CH_code/ch12/12_11.c.s
+
+CH_code/ch12/12_2.obj: CH_code/ch12/12_2.c.obj
+.PHONY : CH_code/ch12/12_2.obj
+
+# target to build an object file
+CH_code/ch12/12_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_2.dir\build.make CMakeFiles/12_2.dir/CH_code/ch12/12_2.c.obj
+.PHONY : CH_code/ch12/12_2.c.obj
+
+CH_code/ch12/12_2.i: CH_code/ch12/12_2.c.i
+.PHONY : CH_code/ch12/12_2.i
+
+# target to preprocess a source file
+CH_code/ch12/12_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_2.dir\build.make CMakeFiles/12_2.dir/CH_code/ch12/12_2.c.i
+.PHONY : CH_code/ch12/12_2.c.i
+
+CH_code/ch12/12_2.s: CH_code/ch12/12_2.c.s
+.PHONY : CH_code/ch12/12_2.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_2.dir\build.make CMakeFiles/12_2.dir/CH_code/ch12/12_2.c.s
+.PHONY : CH_code/ch12/12_2.c.s
+
+CH_code/ch12/12_3.obj: CH_code/ch12/12_3.c.obj
+.PHONY : CH_code/ch12/12_3.obj
+
+# target to build an object file
+CH_code/ch12/12_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_3.dir\build.make CMakeFiles/12_3.dir/CH_code/ch12/12_3.c.obj
+.PHONY : CH_code/ch12/12_3.c.obj
+
+CH_code/ch12/12_3.i: CH_code/ch12/12_3.c.i
+.PHONY : CH_code/ch12/12_3.i
+
+# target to preprocess a source file
+CH_code/ch12/12_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_3.dir\build.make CMakeFiles/12_3.dir/CH_code/ch12/12_3.c.i
+.PHONY : CH_code/ch12/12_3.c.i
+
+CH_code/ch12/12_3.s: CH_code/ch12/12_3.c.s
+.PHONY : CH_code/ch12/12_3.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_3.dir\build.make CMakeFiles/12_3.dir/CH_code/ch12/12_3.c.s
+.PHONY : CH_code/ch12/12_3.c.s
+
+CH_code/ch12/12_4.obj: CH_code/ch12/12_4.c.obj
+.PHONY : CH_code/ch12/12_4.obj
+
+# target to build an object file
+CH_code/ch12/12_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_4.dir\build.make CMakeFiles/12_4.dir/CH_code/ch12/12_4.c.obj
+.PHONY : CH_code/ch12/12_4.c.obj
+
+CH_code/ch12/12_4.i: CH_code/ch12/12_4.c.i
+.PHONY : CH_code/ch12/12_4.i
+
+# target to preprocess a source file
+CH_code/ch12/12_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_4.dir\build.make CMakeFiles/12_4.dir/CH_code/ch12/12_4.c.i
+.PHONY : CH_code/ch12/12_4.c.i
+
+CH_code/ch12/12_4.s: CH_code/ch12/12_4.c.s
+.PHONY : CH_code/ch12/12_4.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_4.dir\build.make CMakeFiles/12_4.dir/CH_code/ch12/12_4.c.s
+.PHONY : CH_code/ch12/12_4.c.s
+
+CH_code/ch12/12_5.obj: CH_code/ch12/12_5.c.obj
+.PHONY : CH_code/ch12/12_5.obj
+
+# target to build an object file
+CH_code/ch12/12_5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_5.dir\build.make CMakeFiles/12_5.dir/CH_code/ch12/12_5.c.obj
+.PHONY : CH_code/ch12/12_5.c.obj
+
+CH_code/ch12/12_5.i: CH_code/ch12/12_5.c.i
+.PHONY : CH_code/ch12/12_5.i
+
+# target to preprocess a source file
+CH_code/ch12/12_5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_5.dir\build.make CMakeFiles/12_5.dir/CH_code/ch12/12_5.c.i
+.PHONY : CH_code/ch12/12_5.c.i
+
+CH_code/ch12/12_5.s: CH_code/ch12/12_5.c.s
+.PHONY : CH_code/ch12/12_5.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_5.dir\build.make CMakeFiles/12_5.dir/CH_code/ch12/12_5.c.s
+.PHONY : CH_code/ch12/12_5.c.s
+
+CH_code/ch12/12_6.obj: CH_code/ch12/12_6.c.obj
+.PHONY : CH_code/ch12/12_6.obj
+
+# target to build an object file
+CH_code/ch12/12_6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_6.dir\build.make CMakeFiles/12_6.dir/CH_code/ch12/12_6.c.obj
+.PHONY : CH_code/ch12/12_6.c.obj
+
+CH_code/ch12/12_6.i: CH_code/ch12/12_6.c.i
+.PHONY : CH_code/ch12/12_6.i
+
+# target to preprocess a source file
+CH_code/ch12/12_6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_6.dir\build.make CMakeFiles/12_6.dir/CH_code/ch12/12_6.c.i
+.PHONY : CH_code/ch12/12_6.c.i
+
+CH_code/ch12/12_6.s: CH_code/ch12/12_6.c.s
+.PHONY : CH_code/ch12/12_6.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_6.dir\build.make CMakeFiles/12_6.dir/CH_code/ch12/12_6.c.s
+.PHONY : CH_code/ch12/12_6.c.s
+
+CH_code/ch12/12_6_1.obj: CH_code/ch12/12_6_1.c.obj
+.PHONY : CH_code/ch12/12_6_1.obj
+
+# target to build an object file
+CH_code/ch12/12_6_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_6_1.dir\build.make CMakeFiles/12_6_1.dir/CH_code/ch12/12_6_1.c.obj
+.PHONY : CH_code/ch12/12_6_1.c.obj
+
+CH_code/ch12/12_6_1.i: CH_code/ch12/12_6_1.c.i
+.PHONY : CH_code/ch12/12_6_1.i
+
+# target to preprocess a source file
+CH_code/ch12/12_6_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_6_1.dir\build.make CMakeFiles/12_6_1.dir/CH_code/ch12/12_6_1.c.i
+.PHONY : CH_code/ch12/12_6_1.c.i
+
+CH_code/ch12/12_6_1.s: CH_code/ch12/12_6_1.c.s
+.PHONY : CH_code/ch12/12_6_1.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_6_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_6_1.dir\build.make CMakeFiles/12_6_1.dir/CH_code/ch12/12_6_1.c.s
+.PHONY : CH_code/ch12/12_6_1.c.s
+
+CH_code/ch12/12_7.obj: CH_code/ch12/12_7.c.obj
+.PHONY : CH_code/ch12/12_7.obj
+
+# target to build an object file
+CH_code/ch12/12_7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_7.dir\build.make CMakeFiles/12_7.dir/CH_code/ch12/12_7.c.obj
+.PHONY : CH_code/ch12/12_7.c.obj
+
+CH_code/ch12/12_7.i: CH_code/ch12/12_7.c.i
+.PHONY : CH_code/ch12/12_7.i
+
+# target to preprocess a source file
+CH_code/ch12/12_7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_7.dir\build.make CMakeFiles/12_7.dir/CH_code/ch12/12_7.c.i
+.PHONY : CH_code/ch12/12_7.c.i
+
+CH_code/ch12/12_7.s: CH_code/ch12/12_7.c.s
+.PHONY : CH_code/ch12/12_7.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_7.dir\build.make CMakeFiles/12_7.dir/CH_code/ch12/12_7.c.s
+.PHONY : CH_code/ch12/12_7.c.s
+
+CH_code/ch12/12_8.obj: CH_code/ch12/12_8.c.obj
+.PHONY : CH_code/ch12/12_8.obj
+
+# target to build an object file
+CH_code/ch12/12_8.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_8.dir\build.make CMakeFiles/12_8.dir/CH_code/ch12/12_8.c.obj
+.PHONY : CH_code/ch12/12_8.c.obj
+
+CH_code/ch12/12_8.i: CH_code/ch12/12_8.c.i
+.PHONY : CH_code/ch12/12_8.i
+
+# target to preprocess a source file
+CH_code/ch12/12_8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_8.dir\build.make CMakeFiles/12_8.dir/CH_code/ch12/12_8.c.i
+.PHONY : CH_code/ch12/12_8.c.i
+
+CH_code/ch12/12_8.s: CH_code/ch12/12_8.c.s
+.PHONY : CH_code/ch12/12_8.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_8.dir\build.make CMakeFiles/12_8.dir/CH_code/ch12/12_8.c.s
+.PHONY : CH_code/ch12/12_8.c.s
+
+CH_code/ch12/12_9.obj: CH_code/ch12/12_9.c.obj
+.PHONY : CH_code/ch12/12_9.obj
+
+# target to build an object file
+CH_code/ch12/12_9.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_9.dir\build.make CMakeFiles/12_9.dir/CH_code/ch12/12_9.c.obj
+.PHONY : CH_code/ch12/12_9.c.obj
+
+CH_code/ch12/12_9.i: CH_code/ch12/12_9.c.i
+.PHONY : CH_code/ch12/12_9.i
+
+# target to preprocess a source file
+CH_code/ch12/12_9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_9.dir\build.make CMakeFiles/12_9.dir/CH_code/ch12/12_9.c.i
+.PHONY : CH_code/ch12/12_9.c.i
+
+CH_code/ch12/12_9.s: CH_code/ch12/12_9.c.s
+.PHONY : CH_code/ch12/12_9.s
+
+# target to generate assembly for a file
+CH_code/ch12/12_9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12_9.dir\build.make CMakeFiles/12_9.dir/CH_code/ch12/12_9.c.s
+.PHONY : CH_code/ch12/12_9.c.s
 
 CH_code/ch2/2_3.obj: CH_code/ch2/2_3.c.obj
 .PHONY : CH_code/ch2/2_3.obj
@@ -1788,6 +2454,24 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... 11_10
+	@echo ... 11_11
+	@echo ... 11_13
+	@echo ... 11_7
+	@echo ... 11_8
+	@echo ... 11_9
+	@echo ... 12_1
+	@echo ... 12_10
+	@echo ... 12_11
+	@echo ... 12_2
+	@echo ... 12_3
+	@echo ... 12_4
+	@echo ... 12_5
+	@echo ... 12_6
+	@echo ... 12_6_1
+	@echo ... 12_7
+	@echo ... 12_8
+	@echo ... 12_9
 	@echo ... 2_3
 	@echo ... 2_4
 	@echo ... 2_5
@@ -1839,6 +2523,60 @@ help:
 	@echo ... CH_code/ch07/HW7_2.obj
 	@echo ... CH_code/ch07/HW7_2.i
 	@echo ... CH_code/ch07/HW7_2.s
+	@echo ... CH_code/ch11/11_10.obj
+	@echo ... CH_code/ch11/11_10.i
+	@echo ... CH_code/ch11/11_10.s
+	@echo ... CH_code/ch11/11_11.obj
+	@echo ... CH_code/ch11/11_11.i
+	@echo ... CH_code/ch11/11_11.s
+	@echo ... CH_code/ch11/11_13.obj
+	@echo ... CH_code/ch11/11_13.i
+	@echo ... CH_code/ch11/11_13.s
+	@echo ... CH_code/ch11/11_7.obj
+	@echo ... CH_code/ch11/11_7.i
+	@echo ... CH_code/ch11/11_7.s
+	@echo ... CH_code/ch11/11_8.obj
+	@echo ... CH_code/ch11/11_8.i
+	@echo ... CH_code/ch11/11_8.s
+	@echo ... CH_code/ch11/11_9.obj
+	@echo ... CH_code/ch11/11_9.i
+	@echo ... CH_code/ch11/11_9.s
+	@echo ... CH_code/ch12/12_1.obj
+	@echo ... CH_code/ch12/12_1.i
+	@echo ... CH_code/ch12/12_1.s
+	@echo ... CH_code/ch12/12_10.obj
+	@echo ... CH_code/ch12/12_10.i
+	@echo ... CH_code/ch12/12_10.s
+	@echo ... CH_code/ch12/12_11.obj
+	@echo ... CH_code/ch12/12_11.i
+	@echo ... CH_code/ch12/12_11.s
+	@echo ... CH_code/ch12/12_2.obj
+	@echo ... CH_code/ch12/12_2.i
+	@echo ... CH_code/ch12/12_2.s
+	@echo ... CH_code/ch12/12_3.obj
+	@echo ... CH_code/ch12/12_3.i
+	@echo ... CH_code/ch12/12_3.s
+	@echo ... CH_code/ch12/12_4.obj
+	@echo ... CH_code/ch12/12_4.i
+	@echo ... CH_code/ch12/12_4.s
+	@echo ... CH_code/ch12/12_5.obj
+	@echo ... CH_code/ch12/12_5.i
+	@echo ... CH_code/ch12/12_5.s
+	@echo ... CH_code/ch12/12_6.obj
+	@echo ... CH_code/ch12/12_6.i
+	@echo ... CH_code/ch12/12_6.s
+	@echo ... CH_code/ch12/12_6_1.obj
+	@echo ... CH_code/ch12/12_6_1.i
+	@echo ... CH_code/ch12/12_6_1.s
+	@echo ... CH_code/ch12/12_7.obj
+	@echo ... CH_code/ch12/12_7.i
+	@echo ... CH_code/ch12/12_7.s
+	@echo ... CH_code/ch12/12_8.obj
+	@echo ... CH_code/ch12/12_8.i
+	@echo ... CH_code/ch12/12_8.s
+	@echo ... CH_code/ch12/12_9.obj
+	@echo ... CH_code/ch12/12_9.i
+	@echo ... CH_code/ch12/12_9.s
 	@echo ... CH_code/ch2/2_3.obj
 	@echo ... CH_code/ch2/2_3.i
 	@echo ... CH_code/ch2/2_3.s
