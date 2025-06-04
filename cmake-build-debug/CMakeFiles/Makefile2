@@ -125,27 +125,27 @@ all: CMakeFiles/12_8.dir/all
 all: CMakeFiles/12_9.dir/all
 all: CMakeFiles/12_10.dir/all
 all: CMakeFiles/12_11.dir/all
-all: CMakeFiles/CH_code_ch13_13_1.dir/all
-all: CMakeFiles/CH_code_ch13_13_2.dir/all
-all: CMakeFiles/CH_code_ch13_13_4.dir/all
-all: CMakeFiles/CH_code_ch13_13_5.dir/all
-all: CMakeFiles/CH_code_ch13_13_6.dir/all
-all: CMakeFiles/CH_code_ch13_13_7.dir/all
-all: CMakeFiles/CH_code_ch13_13_8.dir/all
-all: CMakeFiles/CH_code_ch13_13_9.dir/all
-all: CMakeFiles/CH_code_ch13_13_10.dir/all
-all: CMakeFiles/CH_code_ch13_13_11.dir/all
-all: CMakeFiles/CH_code_ch13_13_12.dir/all
-all: CMakeFiles/CH_code_ch14_14_1.dir/all
-all: CMakeFiles/CH_code_ch14_14_2.dir/all
-all: CMakeFiles/CH_code_ch14_14_3.dir/all
-all: CMakeFiles/CH_code_ch14_14_4.dir/all
-all: CMakeFiles/CH_code_ch14_14_5.dir/all
-all: CMakeFiles/CH_code_ch14_14_6.dir/all
-all: CMakeFiles/CH_code_ch14_14_7.dir/all
-all: CMakeFiles/CH_code_ch14_14_8.dir/all
-all: CMakeFiles/CH_code_ch14_14_9.dir/all
-all: CMakeFiles/CH_code_ch14_14_10.dir/all
+all: CMakeFiles/13_1.dir/all
+all: CMakeFiles/13_2.dir/all
+all: CMakeFiles/13_4.dir/all
+all: CMakeFiles/13_5.dir/all
+all: CMakeFiles/13_6.dir/all
+all: CMakeFiles/13_7.dir/all
+all: CMakeFiles/13_8.dir/all
+all: CMakeFiles/13_9.dir/all
+all: CMakeFiles/13_10.dir/all
+all: CMakeFiles/13_11.dir/all
+all: CMakeFiles/13_12.dir/all
+all: CMakeFiles/14_1.dir/all
+all: CMakeFiles/14_2.dir/all
+all: CMakeFiles/14_3.dir/all
+all: CMakeFiles/14_4.dir/all
+all: CMakeFiles/14_5.dir/all
+all: CMakeFiles/14_6.dir/all
+all: CMakeFiles/14_7.dir/all
+all: CMakeFiles/14_8.dir/all
+all: CMakeFiles/14_9.dir/all
+all: CMakeFiles/14_10.dir/all
 .PHONY : all
 
 # The main recursive "codegen" target.
@@ -212,27 +212,27 @@ codegen: CMakeFiles/12_8.dir/codegen
 codegen: CMakeFiles/12_9.dir/codegen
 codegen: CMakeFiles/12_10.dir/codegen
 codegen: CMakeFiles/12_11.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_1.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_2.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_4.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_5.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_6.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_7.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_8.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_9.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_10.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_11.dir/codegen
-codegen: CMakeFiles/CH_code_ch13_13_12.dir/codegen
-codegen: CMakeFiles/CH_code_ch14_14_1.dir/codegen
-codegen: CMakeFiles/CH_code_ch14_14_2.dir/codegen
-codegen: CMakeFiles/CH_code_ch14_14_3.dir/codegen
-codegen: CMakeFiles/CH_code_ch14_14_4.dir/codegen
-codegen: CMakeFiles/CH_code_ch14_14_5.dir/codegen
-codegen: CMakeFiles/CH_code_ch14_14_6.dir/codegen
-codegen: CMakeFiles/CH_code_ch14_14_7.dir/codegen
-codegen: CMakeFiles/CH_code_ch14_14_8.dir/codegen
-codegen: CMakeFiles/CH_code_ch14_14_9.dir/codegen
-codegen: CMakeFiles/CH_code_ch14_14_10.dir/codegen
+codegen: CMakeFiles/13_1.dir/codegen
+codegen: CMakeFiles/13_2.dir/codegen
+codegen: CMakeFiles/13_4.dir/codegen
+codegen: CMakeFiles/13_5.dir/codegen
+codegen: CMakeFiles/13_6.dir/codegen
+codegen: CMakeFiles/13_7.dir/codegen
+codegen: CMakeFiles/13_8.dir/codegen
+codegen: CMakeFiles/13_9.dir/codegen
+codegen: CMakeFiles/13_10.dir/codegen
+codegen: CMakeFiles/13_11.dir/codegen
+codegen: CMakeFiles/13_12.dir/codegen
+codegen: CMakeFiles/14_1.dir/codegen
+codegen: CMakeFiles/14_2.dir/codegen
+codegen: CMakeFiles/14_3.dir/codegen
+codegen: CMakeFiles/14_4.dir/codegen
+codegen: CMakeFiles/14_5.dir/codegen
+codegen: CMakeFiles/14_6.dir/codegen
+codegen: CMakeFiles/14_7.dir/codegen
+codegen: CMakeFiles/14_8.dir/codegen
+codegen: CMakeFiles/14_9.dir/codegen
+codegen: CMakeFiles/14_10.dir/codegen
 .PHONY : codegen
 
 # The main recursive "preinstall" target.
@@ -303,27 +303,27 @@ clean: CMakeFiles/12_8.dir/clean
 clean: CMakeFiles/12_9.dir/clean
 clean: CMakeFiles/12_10.dir/clean
 clean: CMakeFiles/12_11.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_1.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_2.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_4.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_5.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_6.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_7.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_8.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_9.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_10.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_11.dir/clean
-clean: CMakeFiles/CH_code_ch13_13_12.dir/clean
-clean: CMakeFiles/CH_code_ch14_14_1.dir/clean
-clean: CMakeFiles/CH_code_ch14_14_2.dir/clean
-clean: CMakeFiles/CH_code_ch14_14_3.dir/clean
-clean: CMakeFiles/CH_code_ch14_14_4.dir/clean
-clean: CMakeFiles/CH_code_ch14_14_5.dir/clean
-clean: CMakeFiles/CH_code_ch14_14_6.dir/clean
-clean: CMakeFiles/CH_code_ch14_14_7.dir/clean
-clean: CMakeFiles/CH_code_ch14_14_8.dir/clean
-clean: CMakeFiles/CH_code_ch14_14_9.dir/clean
-clean: CMakeFiles/CH_code_ch14_14_10.dir/clean
+clean: CMakeFiles/13_1.dir/clean
+clean: CMakeFiles/13_2.dir/clean
+clean: CMakeFiles/13_4.dir/clean
+clean: CMakeFiles/13_5.dir/clean
+clean: CMakeFiles/13_6.dir/clean
+clean: CMakeFiles/13_7.dir/clean
+clean: CMakeFiles/13_8.dir/clean
+clean: CMakeFiles/13_9.dir/clean
+clean: CMakeFiles/13_10.dir/clean
+clean: CMakeFiles/13_11.dir/clean
+clean: CMakeFiles/13_12.dir/clean
+clean: CMakeFiles/14_1.dir/clean
+clean: CMakeFiles/14_2.dir/clean
+clean: CMakeFiles/14_3.dir/clean
+clean: CMakeFiles/14_4.dir/clean
+clean: CMakeFiles/14_5.dir/clean
+clean: CMakeFiles/14_6.dir/clean
+clean: CMakeFiles/14_7.dir/clean
+clean: CMakeFiles/14_8.dir/clean
+clean: CMakeFiles/14_9.dir/clean
+clean: CMakeFiles/14_10.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -365,7 +365,7 @@ CMakeFiles/C_language.dir/clean:
 CMakeFiles/2_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_3.dir\build.make CMakeFiles/2_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_3.dir\build.make CMakeFiles/2_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=22 "Built target 2_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=47 "Built target 2_3"
 .PHONY : CMakeFiles/2_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -382,7 +382,7 @@ CMakeFiles/2_3.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/2_3.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_3.dir\build.make CMakeFiles/2_3.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=22 "Finished codegen for target 2_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=47 "Finished codegen for target 2_3"
 .PHONY : CMakeFiles/2_3.dir/codegen
 
 # clean rule for target.
@@ -397,7 +397,7 @@ CMakeFiles/2_3.dir/clean:
 CMakeFiles/2_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_4.dir\build.make CMakeFiles/2_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_4.dir\build.make CMakeFiles/2_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=23 "Built target 2_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=48 "Built target 2_4"
 .PHONY : CMakeFiles/2_4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -414,7 +414,7 @@ CMakeFiles/2_4.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/2_4.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_4.dir\build.make CMakeFiles/2_4.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=23 "Finished codegen for target 2_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=48 "Finished codegen for target 2_4"
 .PHONY : CMakeFiles/2_4.dir/codegen
 
 # clean rule for target.
@@ -429,7 +429,7 @@ CMakeFiles/2_4.dir/clean:
 CMakeFiles/2_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_5.dir\build.make CMakeFiles/2_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_5.dir\build.make CMakeFiles/2_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=24,25 "Built target 2_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=49,50 "Built target 2_5"
 .PHONY : CMakeFiles/2_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -446,7 +446,7 @@ CMakeFiles/2_5.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/2_5.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2_5.dir\build.make CMakeFiles/2_5.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=24,25 "Finished codegen for target 2_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=49,50 "Finished codegen for target 2_5"
 .PHONY : CMakeFiles/2_5.dir/codegen
 
 # clean rule for target.
@@ -461,7 +461,7 @@ CMakeFiles/2_5.dir/clean:
 CMakeFiles/3_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_1.dir\build.make CMakeFiles/3_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_1.dir\build.make CMakeFiles/3_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=26 "Built target 3_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=51 "Built target 3_1"
 .PHONY : CMakeFiles/3_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -478,7 +478,7 @@ CMakeFiles/3_1.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/3_1.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_1.dir\build.make CMakeFiles/3_1.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=26 "Finished codegen for target 3_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=51 "Finished codegen for target 3_1"
 .PHONY : CMakeFiles/3_1.dir/codegen
 
 # clean rule for target.
@@ -493,7 +493,7 @@ CMakeFiles/3_1.dir/clean:
 CMakeFiles/3_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_2.dir\build.make CMakeFiles/3_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_2.dir\build.make CMakeFiles/3_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=27 "Built target 3_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=52 "Built target 3_2"
 .PHONY : CMakeFiles/3_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -510,7 +510,7 @@ CMakeFiles/3_2.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/3_2.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_2.dir\build.make CMakeFiles/3_2.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=27 "Finished codegen for target 3_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=52 "Finished codegen for target 3_2"
 .PHONY : CMakeFiles/3_2.dir/codegen
 
 # clean rule for target.
@@ -525,7 +525,7 @@ CMakeFiles/3_2.dir/clean:
 CMakeFiles/3_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_3.dir\build.make CMakeFiles/3_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_3.dir\build.make CMakeFiles/3_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=28 "Built target 3_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=53 "Built target 3_3"
 .PHONY : CMakeFiles/3_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -542,7 +542,7 @@ CMakeFiles/3_3.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/3_3.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_3.dir\build.make CMakeFiles/3_3.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=28 "Finished codegen for target 3_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=53 "Finished codegen for target 3_3"
 .PHONY : CMakeFiles/3_3.dir/codegen
 
 # clean rule for target.
@@ -557,7 +557,7 @@ CMakeFiles/3_3.dir/clean:
 CMakeFiles/3_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_4.dir\build.make CMakeFiles/3_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_4.dir\build.make CMakeFiles/3_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=29 "Built target 3_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=54 "Built target 3_4"
 .PHONY : CMakeFiles/3_4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -574,7 +574,7 @@ CMakeFiles/3_4.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/3_4.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_4.dir\build.make CMakeFiles/3_4.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=29 "Finished codegen for target 3_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=54 "Finished codegen for target 3_4"
 .PHONY : CMakeFiles/3_4.dir/codegen
 
 # clean rule for target.
@@ -589,7 +589,7 @@ CMakeFiles/3_4.dir/clean:
 CMakeFiles/3_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_5.dir\build.make CMakeFiles/3_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_5.dir\build.make CMakeFiles/3_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=30 "Built target 3_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=55 "Built target 3_5"
 .PHONY : CMakeFiles/3_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -606,7 +606,7 @@ CMakeFiles/3_5.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/3_5.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_5.dir\build.make CMakeFiles/3_5.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=30 "Finished codegen for target 3_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=55 "Finished codegen for target 3_5"
 .PHONY : CMakeFiles/3_5.dir/codegen
 
 # clean rule for target.
@@ -621,7 +621,7 @@ CMakeFiles/3_5.dir/clean:
 CMakeFiles/3_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_6.dir\build.make CMakeFiles/3_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_6.dir\build.make CMakeFiles/3_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=31,32 "Built target 3_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=56,57 "Built target 3_6"
 .PHONY : CMakeFiles/3_6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -638,7 +638,7 @@ CMakeFiles/3_6.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/3_6.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_6.dir\build.make CMakeFiles/3_6.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=31,32 "Finished codegen for target 3_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=56,57 "Finished codegen for target 3_6"
 .PHONY : CMakeFiles/3_6.dir/codegen
 
 # clean rule for target.
@@ -653,7 +653,7 @@ CMakeFiles/3_6.dir/clean:
 CMakeFiles/3_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_7.dir\build.make CMakeFiles/3_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_7.dir\build.make CMakeFiles/3_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=33 "Built target 3_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=58 "Built target 3_7"
 .PHONY : CMakeFiles/3_7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -670,7 +670,7 @@ CMakeFiles/3_7.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/3_7.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_7.dir\build.make CMakeFiles/3_7.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=33 "Finished codegen for target 3_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=58 "Finished codegen for target 3_7"
 .PHONY : CMakeFiles/3_7.dir/codegen
 
 # clean rule for target.
@@ -685,7 +685,7 @@ CMakeFiles/3_7.dir/clean:
 CMakeFiles/3_8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_8.dir\build.make CMakeFiles/3_8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_8.dir\build.make CMakeFiles/3_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=34 "Built target 3_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=59 "Built target 3_8"
 .PHONY : CMakeFiles/3_8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -702,7 +702,7 @@ CMakeFiles/3_8.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/3_8.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_8.dir\build.make CMakeFiles/3_8.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=34 "Finished codegen for target 3_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=59 "Finished codegen for target 3_8"
 .PHONY : CMakeFiles/3_8.dir/codegen
 
 # clean rule for target.
@@ -717,7 +717,7 @@ CMakeFiles/3_8.dir/clean:
 CMakeFiles/3_9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_9.dir\build.make CMakeFiles/3_9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_9.dir\build.make CMakeFiles/3_9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=35 "Built target 3_9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=60 "Built target 3_9"
 .PHONY : CMakeFiles/3_9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -734,7 +734,7 @@ CMakeFiles/3_9.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/3_9.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3_9.dir\build.make CMakeFiles/3_9.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=35 "Finished codegen for target 3_9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=60 "Finished codegen for target 3_9"
 .PHONY : CMakeFiles/3_9.dir/codegen
 
 # clean rule for target.
@@ -1261,7 +1261,7 @@ CMakeFiles/factorial_int.dir/clean:
 CMakeFiles/5_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_1.dir\build.make CMakeFiles/5_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_1.dir\build.make CMakeFiles/5_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=36 "Built target 5_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=61 "Built target 5_1"
 .PHONY : CMakeFiles/5_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1278,7 +1278,7 @@ CMakeFiles/5_1.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/5_1.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_1.dir\build.make CMakeFiles/5_1.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=36 "Finished codegen for target 5_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=61 "Finished codegen for target 5_1"
 .PHONY : CMakeFiles/5_1.dir/codegen
 
 # clean rule for target.
@@ -1293,7 +1293,7 @@ CMakeFiles/5_1.dir/clean:
 CMakeFiles/5_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_3.dir\build.make CMakeFiles/5_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_3.dir\build.make CMakeFiles/5_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=37,38 "Built target 5_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=62,63 "Built target 5_3"
 .PHONY : CMakeFiles/5_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1310,7 +1310,7 @@ CMakeFiles/5_3.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/5_3.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_3.dir\build.make CMakeFiles/5_3.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=37,38 "Finished codegen for target 5_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=62,63 "Finished codegen for target 5_3"
 .PHONY : CMakeFiles/5_3.dir/codegen
 
 # clean rule for target.
@@ -1325,7 +1325,7 @@ CMakeFiles/5_3.dir/clean:
 CMakeFiles/5_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_4.dir\build.make CMakeFiles/5_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_4.dir\build.make CMakeFiles/5_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=39 "Built target 5_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=64 "Built target 5_4"
 .PHONY : CMakeFiles/5_4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1342,7 +1342,7 @@ CMakeFiles/5_4.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/5_4.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_4.dir\build.make CMakeFiles/5_4.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=39 "Finished codegen for target 5_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=64 "Finished codegen for target 5_4"
 .PHONY : CMakeFiles/5_4.dir/codegen
 
 # clean rule for target.
@@ -1357,7 +1357,7 @@ CMakeFiles/5_4.dir/clean:
 CMakeFiles/5_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_5.dir\build.make CMakeFiles/5_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_5.dir\build.make CMakeFiles/5_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=40 "Built target 5_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=65 "Built target 5_5"
 .PHONY : CMakeFiles/5_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1374,7 +1374,7 @@ CMakeFiles/5_5.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/5_5.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5_5.dir\build.make CMakeFiles/5_5.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=40 "Finished codegen for target 5_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=65 "Finished codegen for target 5_5"
 .PHONY : CMakeFiles/5_5.dir/codegen
 
 # clean rule for target.
@@ -1645,7 +1645,7 @@ CMakeFiles/HW_5_4.dir/clean:
 CMakeFiles/6_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_1.dir\build.make CMakeFiles/6_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_1.dir\build.make CMakeFiles/6_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=41 "Built target 6_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=66 "Built target 6_1"
 .PHONY : CMakeFiles/6_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1662,7 +1662,7 @@ CMakeFiles/6_1.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/6_1.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_1.dir\build.make CMakeFiles/6_1.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=41 "Finished codegen for target 6_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=66 "Finished codegen for target 6_1"
 .PHONY : CMakeFiles/6_1.dir/codegen
 
 # clean rule for target.
@@ -1677,7 +1677,7 @@ CMakeFiles/6_1.dir/clean:
 CMakeFiles/6_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_7.dir\build.make CMakeFiles/6_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_7.dir\build.make CMakeFiles/6_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=42 "Built target 6_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=67 "Built target 6_7"
 .PHONY : CMakeFiles/6_7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1694,7 +1694,7 @@ CMakeFiles/6_7.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/6_7.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\6_7.dir\build.make CMakeFiles/6_7.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=42 "Finished codegen for target 6_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=67 "Finished codegen for target 6_7"
 .PHONY : CMakeFiles/6_7.dir/codegen
 
 # clean rule for target.
@@ -2343,676 +2343,676 @@ CMakeFiles/12_11.dir/clean:
 .PHONY : CMakeFiles/12_11.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_1.dir
+# Target rules for target CMakeFiles/13_1.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch13_13_1.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_1.dir\build.make CMakeFiles/CH_code_ch13_13_1.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_1.dir\build.make CMakeFiles/CH_code_ch13_13_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=43,44 "Built target CH_code_ch13_13_1"
-.PHONY : CMakeFiles/CH_code_ch13_13_1.dir/all
+CMakeFiles/13_1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_1.dir\build.make CMakeFiles/13_1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_1.dir\build.make CMakeFiles/13_1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=22 "Built target 13_1"
+.PHONY : CMakeFiles/13_1.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_1.dir/rule: cmake_check_build_system
+CMakeFiles/13_1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/13_1.dir/rule
+
+# Convenience name for target.
+13_1: CMakeFiles/13_1.dir/rule
+.PHONY : 13_1
+
+# codegen rule for target.
+CMakeFiles/13_1.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_1.dir\build.make CMakeFiles/13_1.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=22 "Finished codegen for target 13_1"
+.PHONY : CMakeFiles/13_1.dir/codegen
+
+# clean rule for target.
+CMakeFiles/13_1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_1.dir\build.make CMakeFiles/13_1.dir/clean
+.PHONY : CMakeFiles/13_1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/13_2.dir
+
+# All Build rule for target.
+CMakeFiles/13_2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_2.dir\build.make CMakeFiles/13_2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_2.dir\build.make CMakeFiles/13_2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=27 "Built target 13_2"
+.PHONY : CMakeFiles/13_2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/13_2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/13_2.dir/rule
+
+# Convenience name for target.
+13_2: CMakeFiles/13_2.dir/rule
+.PHONY : 13_2
+
+# codegen rule for target.
+CMakeFiles/13_2.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_2.dir\build.make CMakeFiles/13_2.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=27 "Finished codegen for target 13_2"
+.PHONY : CMakeFiles/13_2.dir/codegen
+
+# clean rule for target.
+CMakeFiles/13_2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_2.dir\build.make CMakeFiles/13_2.dir/clean
+.PHONY : CMakeFiles/13_2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/13_4.dir
+
+# All Build rule for target.
+CMakeFiles/13_4.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_4.dir\build.make CMakeFiles/13_4.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_4.dir\build.make CMakeFiles/13_4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=28 "Built target 13_4"
+.PHONY : CMakeFiles/13_4.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/13_4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/13_4.dir/rule
+
+# Convenience name for target.
+13_4: CMakeFiles/13_4.dir/rule
+.PHONY : 13_4
+
+# codegen rule for target.
+CMakeFiles/13_4.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_4.dir\build.make CMakeFiles/13_4.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=28 "Finished codegen for target 13_4"
+.PHONY : CMakeFiles/13_4.dir/codegen
+
+# clean rule for target.
+CMakeFiles/13_4.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_4.dir\build.make CMakeFiles/13_4.dir/clean
+.PHONY : CMakeFiles/13_4.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/13_5.dir
+
+# All Build rule for target.
+CMakeFiles/13_5.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_5.dir\build.make CMakeFiles/13_5.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_5.dir\build.make CMakeFiles/13_5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=29 "Built target 13_5"
+.PHONY : CMakeFiles/13_5.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/13_5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/13_5.dir/rule
+
+# Convenience name for target.
+13_5: CMakeFiles/13_5.dir/rule
+.PHONY : 13_5
+
+# codegen rule for target.
+CMakeFiles/13_5.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_5.dir\build.make CMakeFiles/13_5.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=29 "Finished codegen for target 13_5"
+.PHONY : CMakeFiles/13_5.dir/codegen
+
+# clean rule for target.
+CMakeFiles/13_5.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_5.dir\build.make CMakeFiles/13_5.dir/clean
+.PHONY : CMakeFiles/13_5.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/13_6.dir
+
+# All Build rule for target.
+CMakeFiles/13_6.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_6.dir\build.make CMakeFiles/13_6.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_6.dir\build.make CMakeFiles/13_6.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=30 "Built target 13_6"
+.PHONY : CMakeFiles/13_6.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/13_6.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_6.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/13_6.dir/rule
+
+# Convenience name for target.
+13_6: CMakeFiles/13_6.dir/rule
+.PHONY : 13_6
+
+# codegen rule for target.
+CMakeFiles/13_6.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_6.dir\build.make CMakeFiles/13_6.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=30 "Finished codegen for target 13_6"
+.PHONY : CMakeFiles/13_6.dir/codegen
+
+# clean rule for target.
+CMakeFiles/13_6.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_6.dir\build.make CMakeFiles/13_6.dir/clean
+.PHONY : CMakeFiles/13_6.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/13_7.dir
+
+# All Build rule for target.
+CMakeFiles/13_7.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_7.dir\build.make CMakeFiles/13_7.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_7.dir\build.make CMakeFiles/13_7.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=31,32 "Built target 13_7"
+.PHONY : CMakeFiles/13_7.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/13_7.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_1.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_1.dir/rule
+.PHONY : CMakeFiles/13_7.dir/rule
 
 # Convenience name for target.
-CH_code_ch13_13_1: CMakeFiles/CH_code_ch13_13_1.dir/rule
-.PHONY : CH_code_ch13_13_1
+13_7: CMakeFiles/13_7.dir/rule
+.PHONY : 13_7
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch13_13_1.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_1.dir\build.make CMakeFiles/CH_code_ch13_13_1.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=43,44 "Finished codegen for target CH_code_ch13_13_1"
-.PHONY : CMakeFiles/CH_code_ch13_13_1.dir/codegen
+CMakeFiles/13_7.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_7.dir\build.make CMakeFiles/13_7.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=31,32 "Finished codegen for target 13_7"
+.PHONY : CMakeFiles/13_7.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch13_13_1.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_1.dir\build.make CMakeFiles/CH_code_ch13_13_1.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_1.dir/clean
+CMakeFiles/13_7.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_7.dir\build.make CMakeFiles/13_7.dir/clean
+.PHONY : CMakeFiles/13_7.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_2.dir
+# Target rules for target CMakeFiles/13_8.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch13_13_2.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_2.dir\build.make CMakeFiles/CH_code_ch13_13_2.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_2.dir\build.make CMakeFiles/CH_code_ch13_13_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=48 "Built target CH_code_ch13_13_2"
-.PHONY : CMakeFiles/CH_code_ch13_13_2.dir/all
+CMakeFiles/13_8.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_8.dir\build.make CMakeFiles/13_8.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_8.dir\build.make CMakeFiles/13_8.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=33 "Built target 13_8"
+.PHONY : CMakeFiles/13_8.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_2.dir/rule: cmake_check_build_system
+CMakeFiles/13_8.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_2.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_8.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_2.dir/rule
+.PHONY : CMakeFiles/13_8.dir/rule
 
 # Convenience name for target.
-CH_code_ch13_13_2: CMakeFiles/CH_code_ch13_13_2.dir/rule
-.PHONY : CH_code_ch13_13_2
+13_8: CMakeFiles/13_8.dir/rule
+.PHONY : 13_8
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch13_13_2.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_2.dir\build.make CMakeFiles/CH_code_ch13_13_2.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=48 "Finished codegen for target CH_code_ch13_13_2"
-.PHONY : CMakeFiles/CH_code_ch13_13_2.dir/codegen
+CMakeFiles/13_8.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_8.dir\build.make CMakeFiles/13_8.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=33 "Finished codegen for target 13_8"
+.PHONY : CMakeFiles/13_8.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch13_13_2.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_2.dir\build.make CMakeFiles/CH_code_ch13_13_2.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_2.dir/clean
+CMakeFiles/13_8.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_8.dir\build.make CMakeFiles/13_8.dir/clean
+.PHONY : CMakeFiles/13_8.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_4.dir
+# Target rules for target CMakeFiles/13_9.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch13_13_4.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_4.dir\build.make CMakeFiles/CH_code_ch13_13_4.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_4.dir\build.make CMakeFiles/CH_code_ch13_13_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=49,50 "Built target CH_code_ch13_13_4"
-.PHONY : CMakeFiles/CH_code_ch13_13_4.dir/all
+CMakeFiles/13_9.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_9.dir\build.make CMakeFiles/13_9.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_9.dir\build.make CMakeFiles/13_9.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=34 "Built target 13_9"
+.PHONY : CMakeFiles/13_9.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_4.dir/rule: cmake_check_build_system
+CMakeFiles/13_9.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_9.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/13_9.dir/rule
+
+# Convenience name for target.
+13_9: CMakeFiles/13_9.dir/rule
+.PHONY : 13_9
+
+# codegen rule for target.
+CMakeFiles/13_9.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_9.dir\build.make CMakeFiles/13_9.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=34 "Finished codegen for target 13_9"
+.PHONY : CMakeFiles/13_9.dir/codegen
+
+# clean rule for target.
+CMakeFiles/13_9.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_9.dir\build.make CMakeFiles/13_9.dir/clean
+.PHONY : CMakeFiles/13_9.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/13_10.dir
+
+# All Build rule for target.
+CMakeFiles/13_10.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_10.dir\build.make CMakeFiles/13_10.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_10.dir\build.make CMakeFiles/13_10.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=23 "Built target 13_10"
+.PHONY : CMakeFiles/13_10.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/13_10.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_10.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/13_10.dir/rule
+
+# Convenience name for target.
+13_10: CMakeFiles/13_10.dir/rule
+.PHONY : 13_10
+
+# codegen rule for target.
+CMakeFiles/13_10.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_10.dir\build.make CMakeFiles/13_10.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=23 "Finished codegen for target 13_10"
+.PHONY : CMakeFiles/13_10.dir/codegen
+
+# clean rule for target.
+CMakeFiles/13_10.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_10.dir\build.make CMakeFiles/13_10.dir/clean
+.PHONY : CMakeFiles/13_10.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/13_11.dir
+
+# All Build rule for target.
+CMakeFiles/13_11.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_11.dir\build.make CMakeFiles/13_11.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_11.dir\build.make CMakeFiles/13_11.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=24,25 "Built target 13_11"
+.PHONY : CMakeFiles/13_11.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/13_11.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_4.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_11.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_4.dir/rule
+.PHONY : CMakeFiles/13_11.dir/rule
 
 # Convenience name for target.
-CH_code_ch13_13_4: CMakeFiles/CH_code_ch13_13_4.dir/rule
-.PHONY : CH_code_ch13_13_4
+13_11: CMakeFiles/13_11.dir/rule
+.PHONY : 13_11
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch13_13_4.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_4.dir\build.make CMakeFiles/CH_code_ch13_13_4.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=49,50 "Finished codegen for target CH_code_ch13_13_4"
-.PHONY : CMakeFiles/CH_code_ch13_13_4.dir/codegen
+CMakeFiles/13_11.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_11.dir\build.make CMakeFiles/13_11.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=24,25 "Finished codegen for target 13_11"
+.PHONY : CMakeFiles/13_11.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch13_13_4.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_4.dir\build.make CMakeFiles/CH_code_ch13_13_4.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_4.dir/clean
+CMakeFiles/13_11.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_11.dir\build.make CMakeFiles/13_11.dir/clean
+.PHONY : CMakeFiles/13_11.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_5.dir
+# Target rules for target CMakeFiles/13_12.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch13_13_5.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_5.dir\build.make CMakeFiles/CH_code_ch13_13_5.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_5.dir\build.make CMakeFiles/CH_code_ch13_13_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=51 "Built target CH_code_ch13_13_5"
-.PHONY : CMakeFiles/CH_code_ch13_13_5.dir/all
+CMakeFiles/13_12.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_12.dir\build.make CMakeFiles/13_12.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_12.dir\build.make CMakeFiles/13_12.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=26 "Built target 13_12"
+.PHONY : CMakeFiles/13_12.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_5.dir/rule: cmake_check_build_system
+CMakeFiles/13_12.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_5.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/13_12.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_5.dir/rule
+.PHONY : CMakeFiles/13_12.dir/rule
 
 # Convenience name for target.
-CH_code_ch13_13_5: CMakeFiles/CH_code_ch13_13_5.dir/rule
-.PHONY : CH_code_ch13_13_5
+13_12: CMakeFiles/13_12.dir/rule
+.PHONY : 13_12
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch13_13_5.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_5.dir\build.make CMakeFiles/CH_code_ch13_13_5.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=51 "Finished codegen for target CH_code_ch13_13_5"
-.PHONY : CMakeFiles/CH_code_ch13_13_5.dir/codegen
+CMakeFiles/13_12.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_12.dir\build.make CMakeFiles/13_12.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=26 "Finished codegen for target 13_12"
+.PHONY : CMakeFiles/13_12.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch13_13_5.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_5.dir\build.make CMakeFiles/CH_code_ch13_13_5.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_5.dir/clean
+CMakeFiles/13_12.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\13_12.dir\build.make CMakeFiles/13_12.dir/clean
+.PHONY : CMakeFiles/13_12.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_6.dir
+# Target rules for target CMakeFiles/14_1.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch13_13_6.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_6.dir\build.make CMakeFiles/CH_code_ch13_13_6.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_6.dir\build.make CMakeFiles/CH_code_ch13_13_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=52 "Built target CH_code_ch13_13_6"
-.PHONY : CMakeFiles/CH_code_ch13_13_6.dir/all
+CMakeFiles/14_1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_1.dir\build.make CMakeFiles/14_1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_1.dir\build.make CMakeFiles/14_1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=35 "Built target 14_1"
+.PHONY : CMakeFiles/14_1.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_6.dir/rule: cmake_check_build_system
+CMakeFiles/14_1.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_6.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/14_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_6.dir/rule
+.PHONY : CMakeFiles/14_1.dir/rule
 
 # Convenience name for target.
-CH_code_ch13_13_6: CMakeFiles/CH_code_ch13_13_6.dir/rule
-.PHONY : CH_code_ch13_13_6
+14_1: CMakeFiles/14_1.dir/rule
+.PHONY : 14_1
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch13_13_6.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_6.dir\build.make CMakeFiles/CH_code_ch13_13_6.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=52 "Finished codegen for target CH_code_ch13_13_6"
-.PHONY : CMakeFiles/CH_code_ch13_13_6.dir/codegen
+CMakeFiles/14_1.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_1.dir\build.make CMakeFiles/14_1.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=35 "Finished codegen for target 14_1"
+.PHONY : CMakeFiles/14_1.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch13_13_6.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_6.dir\build.make CMakeFiles/CH_code_ch13_13_6.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_6.dir/clean
+CMakeFiles/14_1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_1.dir\build.make CMakeFiles/14_1.dir/clean
+.PHONY : CMakeFiles/14_1.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_7.dir
+# Target rules for target CMakeFiles/14_2.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch13_13_7.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_7.dir\build.make CMakeFiles/CH_code_ch13_13_7.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_7.dir\build.make CMakeFiles/CH_code_ch13_13_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=53 "Built target CH_code_ch13_13_7"
-.PHONY : CMakeFiles/CH_code_ch13_13_7.dir/all
+CMakeFiles/14_2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_2.dir\build.make CMakeFiles/14_2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_2.dir\build.make CMakeFiles/14_2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=37,38 "Built target 14_2"
+.PHONY : CMakeFiles/14_2.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_7.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_7.dir/rule
-
-# Convenience name for target.
-CH_code_ch13_13_7: CMakeFiles/CH_code_ch13_13_7.dir/rule
-.PHONY : CH_code_ch13_13_7
-
-# codegen rule for target.
-CMakeFiles/CH_code_ch13_13_7.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_7.dir\build.make CMakeFiles/CH_code_ch13_13_7.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=53 "Finished codegen for target CH_code_ch13_13_7"
-.PHONY : CMakeFiles/CH_code_ch13_13_7.dir/codegen
-
-# clean rule for target.
-CMakeFiles/CH_code_ch13_13_7.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_7.dir\build.make CMakeFiles/CH_code_ch13_13_7.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_7.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_8.dir
-
-# All Build rule for target.
-CMakeFiles/CH_code_ch13_13_8.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_8.dir\build.make CMakeFiles/CH_code_ch13_13_8.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_8.dir\build.make CMakeFiles/CH_code_ch13_13_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=54 "Built target CH_code_ch13_13_8"
-.PHONY : CMakeFiles/CH_code_ch13_13_8.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_8.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_8.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_8.dir/rule
-
-# Convenience name for target.
-CH_code_ch13_13_8: CMakeFiles/CH_code_ch13_13_8.dir/rule
-.PHONY : CH_code_ch13_13_8
-
-# codegen rule for target.
-CMakeFiles/CH_code_ch13_13_8.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_8.dir\build.make CMakeFiles/CH_code_ch13_13_8.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=54 "Finished codegen for target CH_code_ch13_13_8"
-.PHONY : CMakeFiles/CH_code_ch13_13_8.dir/codegen
-
-# clean rule for target.
-CMakeFiles/CH_code_ch13_13_8.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_8.dir\build.make CMakeFiles/CH_code_ch13_13_8.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_8.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_9.dir
-
-# All Build rule for target.
-CMakeFiles/CH_code_ch13_13_9.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_9.dir\build.make CMakeFiles/CH_code_ch13_13_9.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_9.dir\build.make CMakeFiles/CH_code_ch13_13_9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=55 "Built target CH_code_ch13_13_9"
-.PHONY : CMakeFiles/CH_code_ch13_13_9.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_9.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_9.dir/rule
-
-# Convenience name for target.
-CH_code_ch13_13_9: CMakeFiles/CH_code_ch13_13_9.dir/rule
-.PHONY : CH_code_ch13_13_9
-
-# codegen rule for target.
-CMakeFiles/CH_code_ch13_13_9.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_9.dir\build.make CMakeFiles/CH_code_ch13_13_9.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=55 "Finished codegen for target CH_code_ch13_13_9"
-.PHONY : CMakeFiles/CH_code_ch13_13_9.dir/codegen
-
-# clean rule for target.
-CMakeFiles/CH_code_ch13_13_9.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_9.dir\build.make CMakeFiles/CH_code_ch13_13_9.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_9.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_10.dir
-
-# All Build rule for target.
-CMakeFiles/CH_code_ch13_13_10.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_10.dir\build.make CMakeFiles/CH_code_ch13_13_10.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_10.dir\build.make CMakeFiles/CH_code_ch13_13_10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=45 "Built target CH_code_ch13_13_10"
-.PHONY : CMakeFiles/CH_code_ch13_13_10.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_10.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_10.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_10.dir/rule
-
-# Convenience name for target.
-CH_code_ch13_13_10: CMakeFiles/CH_code_ch13_13_10.dir/rule
-.PHONY : CH_code_ch13_13_10
-
-# codegen rule for target.
-CMakeFiles/CH_code_ch13_13_10.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_10.dir\build.make CMakeFiles/CH_code_ch13_13_10.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=45 "Finished codegen for target CH_code_ch13_13_10"
-.PHONY : CMakeFiles/CH_code_ch13_13_10.dir/codegen
-
-# clean rule for target.
-CMakeFiles/CH_code_ch13_13_10.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_10.dir\build.make CMakeFiles/CH_code_ch13_13_10.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_10.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_11.dir
-
-# All Build rule for target.
-CMakeFiles/CH_code_ch13_13_11.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_11.dir\build.make CMakeFiles/CH_code_ch13_13_11.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_11.dir\build.make CMakeFiles/CH_code_ch13_13_11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=46 "Built target CH_code_ch13_13_11"
-.PHONY : CMakeFiles/CH_code_ch13_13_11.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_11.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_11.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_11.dir/rule
-
-# Convenience name for target.
-CH_code_ch13_13_11: CMakeFiles/CH_code_ch13_13_11.dir/rule
-.PHONY : CH_code_ch13_13_11
-
-# codegen rule for target.
-CMakeFiles/CH_code_ch13_13_11.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_11.dir\build.make CMakeFiles/CH_code_ch13_13_11.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=46 "Finished codegen for target CH_code_ch13_13_11"
-.PHONY : CMakeFiles/CH_code_ch13_13_11.dir/codegen
-
-# clean rule for target.
-CMakeFiles/CH_code_ch13_13_11.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_11.dir\build.make CMakeFiles/CH_code_ch13_13_11.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_11.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch13_13_12.dir
-
-# All Build rule for target.
-CMakeFiles/CH_code_ch13_13_12.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_12.dir\build.make CMakeFiles/CH_code_ch13_13_12.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_12.dir\build.make CMakeFiles/CH_code_ch13_13_12.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=47 "Built target CH_code_ch13_13_12"
-.PHONY : CMakeFiles/CH_code_ch13_13_12.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch13_13_12.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch13_13_12.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch13_13_12.dir/rule
-
-# Convenience name for target.
-CH_code_ch13_13_12: CMakeFiles/CH_code_ch13_13_12.dir/rule
-.PHONY : CH_code_ch13_13_12
-
-# codegen rule for target.
-CMakeFiles/CH_code_ch13_13_12.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_12.dir\build.make CMakeFiles/CH_code_ch13_13_12.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=47 "Finished codegen for target CH_code_ch13_13_12"
-.PHONY : CMakeFiles/CH_code_ch13_13_12.dir/codegen
-
-# clean rule for target.
-CMakeFiles/CH_code_ch13_13_12.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch13_13_12.dir\build.make CMakeFiles/CH_code_ch13_13_12.dir/clean
-.PHONY : CMakeFiles/CH_code_ch13_13_12.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch14_14_1.dir
-
-# All Build rule for target.
-CMakeFiles/CH_code_ch14_14_1.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_1.dir\build.make CMakeFiles/CH_code_ch14_14_1.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_1.dir\build.make CMakeFiles/CH_code_ch14_14_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=56,57 "Built target CH_code_ch14_14_1"
-.PHONY : CMakeFiles/CH_code_ch14_14_1.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch14_14_1.dir/rule: cmake_check_build_system
+CMakeFiles/14_2.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch14_14_1.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/14_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch14_14_1.dir/rule
+.PHONY : CMakeFiles/14_2.dir/rule
 
 # Convenience name for target.
-CH_code_ch14_14_1: CMakeFiles/CH_code_ch14_14_1.dir/rule
-.PHONY : CH_code_ch14_14_1
+14_2: CMakeFiles/14_2.dir/rule
+.PHONY : 14_2
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch14_14_1.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_1.dir\build.make CMakeFiles/CH_code_ch14_14_1.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=56,57 "Finished codegen for target CH_code_ch14_14_1"
-.PHONY : CMakeFiles/CH_code_ch14_14_1.dir/codegen
+CMakeFiles/14_2.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_2.dir\build.make CMakeFiles/14_2.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=37,38 "Finished codegen for target 14_2"
+.PHONY : CMakeFiles/14_2.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch14_14_1.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_1.dir\build.make CMakeFiles/CH_code_ch14_14_1.dir/clean
-.PHONY : CMakeFiles/CH_code_ch14_14_1.dir/clean
+CMakeFiles/14_2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_2.dir\build.make CMakeFiles/14_2.dir/clean
+.PHONY : CMakeFiles/14_2.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch14_14_2.dir
+# Target rules for target CMakeFiles/14_3.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch14_14_2.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_2.dir\build.make CMakeFiles/CH_code_ch14_14_2.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_2.dir\build.make CMakeFiles/CH_code_ch14_14_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=59 "Built target CH_code_ch14_14_2"
-.PHONY : CMakeFiles/CH_code_ch14_14_2.dir/all
+CMakeFiles/14_3.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_3.dir\build.make CMakeFiles/14_3.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_3.dir\build.make CMakeFiles/14_3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=39 "Built target 14_3"
+.PHONY : CMakeFiles/14_3.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch14_14_2.dir/rule: cmake_check_build_system
+CMakeFiles/14_3.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch14_14_2.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/14_3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch14_14_2.dir/rule
+.PHONY : CMakeFiles/14_3.dir/rule
 
 # Convenience name for target.
-CH_code_ch14_14_2: CMakeFiles/CH_code_ch14_14_2.dir/rule
-.PHONY : CH_code_ch14_14_2
+14_3: CMakeFiles/14_3.dir/rule
+.PHONY : 14_3
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch14_14_2.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_2.dir\build.make CMakeFiles/CH_code_ch14_14_2.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=59 "Finished codegen for target CH_code_ch14_14_2"
-.PHONY : CMakeFiles/CH_code_ch14_14_2.dir/codegen
+CMakeFiles/14_3.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_3.dir\build.make CMakeFiles/14_3.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=39 "Finished codegen for target 14_3"
+.PHONY : CMakeFiles/14_3.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch14_14_2.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_2.dir\build.make CMakeFiles/CH_code_ch14_14_2.dir/clean
-.PHONY : CMakeFiles/CH_code_ch14_14_2.dir/clean
+CMakeFiles/14_3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_3.dir\build.make CMakeFiles/14_3.dir/clean
+.PHONY : CMakeFiles/14_3.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch14_14_3.dir
+# Target rules for target CMakeFiles/14_4.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch14_14_3.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_3.dir\build.make CMakeFiles/CH_code_ch14_14_3.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_3.dir\build.make CMakeFiles/CH_code_ch14_14_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=60 "Built target CH_code_ch14_14_3"
-.PHONY : CMakeFiles/CH_code_ch14_14_3.dir/all
+CMakeFiles/14_4.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_4.dir\build.make CMakeFiles/14_4.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_4.dir\build.make CMakeFiles/14_4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=40 "Built target 14_4"
+.PHONY : CMakeFiles/14_4.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch14_14_3.dir/rule: cmake_check_build_system
+CMakeFiles/14_4.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch14_14_3.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/14_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch14_14_3.dir/rule
+.PHONY : CMakeFiles/14_4.dir/rule
 
 # Convenience name for target.
-CH_code_ch14_14_3: CMakeFiles/CH_code_ch14_14_3.dir/rule
-.PHONY : CH_code_ch14_14_3
+14_4: CMakeFiles/14_4.dir/rule
+.PHONY : 14_4
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch14_14_3.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_3.dir\build.make CMakeFiles/CH_code_ch14_14_3.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=60 "Finished codegen for target CH_code_ch14_14_3"
-.PHONY : CMakeFiles/CH_code_ch14_14_3.dir/codegen
+CMakeFiles/14_4.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_4.dir\build.make CMakeFiles/14_4.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=40 "Finished codegen for target 14_4"
+.PHONY : CMakeFiles/14_4.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch14_14_3.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_3.dir\build.make CMakeFiles/CH_code_ch14_14_3.dir/clean
-.PHONY : CMakeFiles/CH_code_ch14_14_3.dir/clean
+CMakeFiles/14_4.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_4.dir\build.make CMakeFiles/14_4.dir/clean
+.PHONY : CMakeFiles/14_4.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch14_14_4.dir
+# Target rules for target CMakeFiles/14_5.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch14_14_4.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_4.dir\build.make CMakeFiles/CH_code_ch14_14_4.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_4.dir\build.make CMakeFiles/CH_code_ch14_14_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=61 "Built target CH_code_ch14_14_4"
-.PHONY : CMakeFiles/CH_code_ch14_14_4.dir/all
+CMakeFiles/14_5.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_5.dir\build.make CMakeFiles/14_5.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_5.dir\build.make CMakeFiles/14_5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=41 "Built target 14_5"
+.PHONY : CMakeFiles/14_5.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch14_14_4.dir/rule: cmake_check_build_system
+CMakeFiles/14_5.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch14_14_4.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/14_5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch14_14_4.dir/rule
+.PHONY : CMakeFiles/14_5.dir/rule
 
 # Convenience name for target.
-CH_code_ch14_14_4: CMakeFiles/CH_code_ch14_14_4.dir/rule
-.PHONY : CH_code_ch14_14_4
+14_5: CMakeFiles/14_5.dir/rule
+.PHONY : 14_5
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch14_14_4.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_4.dir\build.make CMakeFiles/CH_code_ch14_14_4.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=61 "Finished codegen for target CH_code_ch14_14_4"
-.PHONY : CMakeFiles/CH_code_ch14_14_4.dir/codegen
+CMakeFiles/14_5.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_5.dir\build.make CMakeFiles/14_5.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=41 "Finished codegen for target 14_5"
+.PHONY : CMakeFiles/14_5.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch14_14_4.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_4.dir\build.make CMakeFiles/CH_code_ch14_14_4.dir/clean
-.PHONY : CMakeFiles/CH_code_ch14_14_4.dir/clean
+CMakeFiles/14_5.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_5.dir\build.make CMakeFiles/14_5.dir/clean
+.PHONY : CMakeFiles/14_5.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch14_14_5.dir
+# Target rules for target CMakeFiles/14_6.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch14_14_5.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_5.dir\build.make CMakeFiles/CH_code_ch14_14_5.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_5.dir\build.make CMakeFiles/CH_code_ch14_14_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=62,63 "Built target CH_code_ch14_14_5"
-.PHONY : CMakeFiles/CH_code_ch14_14_5.dir/all
+CMakeFiles/14_6.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_6.dir\build.make CMakeFiles/14_6.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_6.dir\build.make CMakeFiles/14_6.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=42 "Built target 14_6"
+.PHONY : CMakeFiles/14_6.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch14_14_5.dir/rule: cmake_check_build_system
+CMakeFiles/14_6.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/14_6.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/14_6.dir/rule
+
+# Convenience name for target.
+14_6: CMakeFiles/14_6.dir/rule
+.PHONY : 14_6
+
+# codegen rule for target.
+CMakeFiles/14_6.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_6.dir\build.make CMakeFiles/14_6.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=42 "Finished codegen for target 14_6"
+.PHONY : CMakeFiles/14_6.dir/codegen
+
+# clean rule for target.
+CMakeFiles/14_6.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_6.dir\build.make CMakeFiles/14_6.dir/clean
+.PHONY : CMakeFiles/14_6.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/14_7.dir
+
+# All Build rule for target.
+CMakeFiles/14_7.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_7.dir\build.make CMakeFiles/14_7.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_7.dir\build.make CMakeFiles/14_7.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=43,44 "Built target 14_7"
+.PHONY : CMakeFiles/14_7.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/14_7.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch14_14_5.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/14_7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch14_14_5.dir/rule
+.PHONY : CMakeFiles/14_7.dir/rule
 
 # Convenience name for target.
-CH_code_ch14_14_5: CMakeFiles/CH_code_ch14_14_5.dir/rule
-.PHONY : CH_code_ch14_14_5
+14_7: CMakeFiles/14_7.dir/rule
+.PHONY : 14_7
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch14_14_5.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_5.dir\build.make CMakeFiles/CH_code_ch14_14_5.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=62,63 "Finished codegen for target CH_code_ch14_14_5"
-.PHONY : CMakeFiles/CH_code_ch14_14_5.dir/codegen
+CMakeFiles/14_7.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_7.dir\build.make CMakeFiles/14_7.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=43,44 "Finished codegen for target 14_7"
+.PHONY : CMakeFiles/14_7.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch14_14_5.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_5.dir\build.make CMakeFiles/CH_code_ch14_14_5.dir/clean
-.PHONY : CMakeFiles/CH_code_ch14_14_5.dir/clean
+CMakeFiles/14_7.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_7.dir\build.make CMakeFiles/14_7.dir/clean
+.PHONY : CMakeFiles/14_7.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch14_14_6.dir
+# Target rules for target CMakeFiles/14_8.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch14_14_6.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_6.dir\build.make CMakeFiles/CH_code_ch14_14_6.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_6.dir\build.make CMakeFiles/CH_code_ch14_14_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=64 "Built target CH_code_ch14_14_6"
-.PHONY : CMakeFiles/CH_code_ch14_14_6.dir/all
+CMakeFiles/14_8.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_8.dir\build.make CMakeFiles/14_8.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_8.dir\build.make CMakeFiles/14_8.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=45 "Built target 14_8"
+.PHONY : CMakeFiles/14_8.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch14_14_6.dir/rule: cmake_check_build_system
+CMakeFiles/14_8.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch14_14_6.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/14_8.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch14_14_6.dir/rule
+.PHONY : CMakeFiles/14_8.dir/rule
 
 # Convenience name for target.
-CH_code_ch14_14_6: CMakeFiles/CH_code_ch14_14_6.dir/rule
-.PHONY : CH_code_ch14_14_6
+14_8: CMakeFiles/14_8.dir/rule
+.PHONY : 14_8
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch14_14_6.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_6.dir\build.make CMakeFiles/CH_code_ch14_14_6.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=64 "Finished codegen for target CH_code_ch14_14_6"
-.PHONY : CMakeFiles/CH_code_ch14_14_6.dir/codegen
+CMakeFiles/14_8.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_8.dir\build.make CMakeFiles/14_8.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=45 "Finished codegen for target 14_8"
+.PHONY : CMakeFiles/14_8.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch14_14_6.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_6.dir\build.make CMakeFiles/CH_code_ch14_14_6.dir/clean
-.PHONY : CMakeFiles/CH_code_ch14_14_6.dir/clean
+CMakeFiles/14_8.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_8.dir\build.make CMakeFiles/14_8.dir/clean
+.PHONY : CMakeFiles/14_8.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch14_14_7.dir
+# Target rules for target CMakeFiles/14_9.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch14_14_7.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_7.dir\build.make CMakeFiles/CH_code_ch14_14_7.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_7.dir\build.make CMakeFiles/CH_code_ch14_14_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=65 "Built target CH_code_ch14_14_7"
-.PHONY : CMakeFiles/CH_code_ch14_14_7.dir/all
+CMakeFiles/14_9.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_9.dir\build.make CMakeFiles/14_9.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_9.dir\build.make CMakeFiles/14_9.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=46 "Built target 14_9"
+.PHONY : CMakeFiles/14_9.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch14_14_7.dir/rule: cmake_check_build_system
+CMakeFiles/14_9.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch14_14_7.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/14_9.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch14_14_7.dir/rule
+.PHONY : CMakeFiles/14_9.dir/rule
 
 # Convenience name for target.
-CH_code_ch14_14_7: CMakeFiles/CH_code_ch14_14_7.dir/rule
-.PHONY : CH_code_ch14_14_7
+14_9: CMakeFiles/14_9.dir/rule
+.PHONY : 14_9
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch14_14_7.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_7.dir\build.make CMakeFiles/CH_code_ch14_14_7.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=65 "Finished codegen for target CH_code_ch14_14_7"
-.PHONY : CMakeFiles/CH_code_ch14_14_7.dir/codegen
+CMakeFiles/14_9.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_9.dir\build.make CMakeFiles/14_9.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=46 "Finished codegen for target 14_9"
+.PHONY : CMakeFiles/14_9.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch14_14_7.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_7.dir\build.make CMakeFiles/CH_code_ch14_14_7.dir/clean
-.PHONY : CMakeFiles/CH_code_ch14_14_7.dir/clean
+CMakeFiles/14_9.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_9.dir\build.make CMakeFiles/14_9.dir/clean
+.PHONY : CMakeFiles/14_9.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch14_14_8.dir
+# Target rules for target CMakeFiles/14_10.dir
 
 # All Build rule for target.
-CMakeFiles/CH_code_ch14_14_8.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_8.dir\build.make CMakeFiles/CH_code_ch14_14_8.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_8.dir\build.make CMakeFiles/CH_code_ch14_14_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=66 "Built target CH_code_ch14_14_8"
-.PHONY : CMakeFiles/CH_code_ch14_14_8.dir/all
+CMakeFiles/14_10.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_10.dir\build.make CMakeFiles/14_10.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_10.dir\build.make CMakeFiles/14_10.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=36 "Built target 14_10"
+.PHONY : CMakeFiles/14_10.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch14_14_8.dir/rule: cmake_check_build_system
+CMakeFiles/14_10.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch14_14_8.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/14_10.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch14_14_8.dir/rule
+.PHONY : CMakeFiles/14_10.dir/rule
 
 # Convenience name for target.
-CH_code_ch14_14_8: CMakeFiles/CH_code_ch14_14_8.dir/rule
-.PHONY : CH_code_ch14_14_8
+14_10: CMakeFiles/14_10.dir/rule
+.PHONY : 14_10
 
 # codegen rule for target.
-CMakeFiles/CH_code_ch14_14_8.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_8.dir\build.make CMakeFiles/CH_code_ch14_14_8.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=66 "Finished codegen for target CH_code_ch14_14_8"
-.PHONY : CMakeFiles/CH_code_ch14_14_8.dir/codegen
+CMakeFiles/14_10.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_10.dir\build.make CMakeFiles/14_10.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=36 "Finished codegen for target 14_10"
+.PHONY : CMakeFiles/14_10.dir/codegen
 
 # clean rule for target.
-CMakeFiles/CH_code_ch14_14_8.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_8.dir\build.make CMakeFiles/CH_code_ch14_14_8.dir/clean
-.PHONY : CMakeFiles/CH_code_ch14_14_8.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch14_14_9.dir
-
-# All Build rule for target.
-CMakeFiles/CH_code_ch14_14_9.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_9.dir\build.make CMakeFiles/CH_code_ch14_14_9.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_9.dir\build.make CMakeFiles/CH_code_ch14_14_9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=67 "Built target CH_code_ch14_14_9"
-.PHONY : CMakeFiles/CH_code_ch14_14_9.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch14_14_9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch14_14_9.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch14_14_9.dir/rule
-
-# Convenience name for target.
-CH_code_ch14_14_9: CMakeFiles/CH_code_ch14_14_9.dir/rule
-.PHONY : CH_code_ch14_14_9
-
-# codegen rule for target.
-CMakeFiles/CH_code_ch14_14_9.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_9.dir\build.make CMakeFiles/CH_code_ch14_14_9.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=67 "Finished codegen for target CH_code_ch14_14_9"
-.PHONY : CMakeFiles/CH_code_ch14_14_9.dir/codegen
-
-# clean rule for target.
-CMakeFiles/CH_code_ch14_14_9.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_9.dir\build.make CMakeFiles/CH_code_ch14_14_9.dir/clean
-.PHONY : CMakeFiles/CH_code_ch14_14_9.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/CH_code_ch14_14_10.dir
-
-# All Build rule for target.
-CMakeFiles/CH_code_ch14_14_10.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_10.dir\build.make CMakeFiles/CH_code_ch14_14_10.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_10.dir\build.make CMakeFiles/CH_code_ch14_14_10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=58 "Built target CH_code_ch14_14_10"
-.PHONY : CMakeFiles/CH_code_ch14_14_10.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CH_code_ch14_14_10.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CH_code_ch14_14_10.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/CH_code_ch14_14_10.dir/rule
-
-# Convenience name for target.
-CH_code_ch14_14_10: CMakeFiles/CH_code_ch14_14_10.dir/rule
-.PHONY : CH_code_ch14_14_10
-
-# codegen rule for target.
-CMakeFiles/CH_code_ch14_14_10.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_10.dir\build.make CMakeFiles/CH_code_ch14_14_10.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\bestc\CLionProjects\C-language\cmake-build-debug\CMakeFiles --progress-num=58 "Finished codegen for target CH_code_ch14_14_10"
-.PHONY : CMakeFiles/CH_code_ch14_14_10.dir/codegen
-
-# clean rule for target.
-CMakeFiles/CH_code_ch14_14_10.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CH_code_ch14_14_10.dir\build.make CMakeFiles/CH_code_ch14_14_10.dir/clean
-.PHONY : CMakeFiles/CH_code_ch14_14_10.dir/clean
+CMakeFiles/14_10.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\14_10.dir\build.make CMakeFiles/14_10.dir/clean
+.PHONY : CMakeFiles/14_10.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
